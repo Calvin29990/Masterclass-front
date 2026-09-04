@@ -72,7 +72,7 @@ risque et sans mise. »
 ont **exactement les mêmes flux futurs dans tous les états du monde**, alors
 $V_0(A)=V_0(B)$.
 
-*Preuve.* Supposons $V_0(A)>V_0(B)$. Je vends $A$, j'achète $B$, j'encaisse
+**Preuve.** Supposons $V_0(A)>V_0(B)$. Je vends $A$, j'achète $B$, j'encaisse
 $V_0(A)-V_0(B)>0$ que je place au taux sans risque. À maturité les flux de $A$
 et $B$ se compensent exactement, il me reste
 $(V_0(A)-V_0(B))e^{rT}>0$ sans mise et sans risque : arbitrage. Contradiction.
@@ -118,7 +118,7 @@ et **valeur du contrat** $f$ (un P&L latent, nul le jour 1).
 **Théorème.** Actif de prix spot $S_0$, sans revenu ni coût de portage, taux
 sans risque continu $r$, maturité $T$ : $\;F_0=S_0e^{rT}$.
 
-*Preuve par double inégalité (la seule qui compte en oral).*
+**Preuve par double inégalité (la seule qui compte en oral).**
 
 **(a) Si $F_0>S_0e^{rT}$**, je monte à $t=0$ :
 
@@ -147,7 +147,7 @@ Les deux ensemble : $F_0=S_0e^{rT}$. $\blacksquare$
 
 **Théorème.** $\;\boxed{F_0=S_0e^{(r-q)T}}$
 
-*Preuve.* Le rendement de dividende continu $q$ signifie qu'un titre détenu
+**Preuve.** Le rendement de dividende continu $q$ signifie qu'un titre détenu
 paie en flux continu et que les dividendes sont **réinvestis en titre** : une
 position initiale de $e^{-qT}$ action devient exactement **1 action** en $T$.
 Je construis :
@@ -183,7 +183,7 @@ En posant $q=r_f$ :
 
 $$\boxed{F_0=S_0e^{(r_d-r_f)T}}\qquad\text{(covered interest rate parity)}$$
 
-*Preuve directe.* Emprunter $S_0e^{-r_fT}$ USD, acheter $e^{-r_fT}$ EUR, les
+**Preuve directe.** Emprunter $S_0e^{-r_fT}$ USD, acheter $e^{-r_fT}$ EUR, les
 placer au taux EUR ⇒ 1 EUR en $T$ ; vendre le forward. Flux nets en $T$ :
 $F_0-S_0e^{(r_d-r_f)T}$, mise nulle ⇒ nul par AOA. $\blacksquare$
 
@@ -202,7 +202,7 @@ livrer un client) :
 
 $$\boxed{F_0=S_0e^{(r+u-y)T}}$$
 
-*Preuve.* Le stockage est un dividende négatif ($-u$), le convenience yield un
+**Preuve.** Le stockage est un dividende négatif ($-u$), le convenience yield un
 dividende positif ($+y$) : on remplace $q$ par $y-u$ dans §1.3. La borne haute
 (a) reste un vrai arbitrage (cash‑and‑carry) ; la borne basse (b) exige
 d'**emprunter du pétrole physique**, ce qui n'existe pas : d'où la possibilité
@@ -226,7 +226,7 @@ cote aujourd'hui $F_0$ :
 
 $$\boxed{f=(F_0-K)e^{-rT}}$$
 
-*Preuve.* Portefeuille A : le contrat (payoff $S_T-K$). Portefeuille B : un
+**Preuve.** Portefeuille A : le contrat (payoff $S_T-K$). Portefeuille B : un
 forward neuf (payoff $S_T-F_0$, valeur 0) + $(F_0-K)e^{-rT}$ de cash (valeur
 $F_0-K$ en $T$). Mêmes flux en $T$, donc même valeur en $0$ ; B vaut
 $(F_0-K)e^{-rT}$. $\blacksquare$
@@ -267,7 +267,7 @@ contrats de taux longs (Eurodollar/SOFR ⇒ *convexity adjustment*, revu J15).
 Options **européennes**, même sous‑jacent, **même strike $K$**, **même maturité $T$**,
 dividende continu $q$, taux $r$ :
 
-$$\boxed{\,C-P=S_0e^{-qT}-Ke^{-rT}\,}$$
+$$\boxed{ C-P=S_0e^{-qT}-Ke^{-rT} }$$
 
 Sans dividende : $C-P=S_0-Ke^{-rT}$. Avec dividendes discrets de VA $I$ :
 $C-P=S_0-I-Ke^{-rT}$.
@@ -358,7 +358,7 @@ la définition du *ATM forward*, la référence de cotation des desks de vol
 $$\max\left(0,\;S_0e^{-qT}-Ke^{-rT}\right)\;\le\;C\;\le\;S_0e^{-qT}$$
 $$\max\left(0,\;Ke^{-rT}-S_0e^{-qT}\right)\;\le\;P\;\le\;Ke^{-rT}$$
 
-*Preuve de la borne basse du call.* Portefeuille A (call + $Ke^{-rT}$ cash) vaut
+**Preuve de la borne basse du call.** Portefeuille A (call + $Ke^{-rT}$ cash) vaut
 $\max(S_T,K)\ge S_T$ en $T$ ; portefeuille B ($e^{-qT}$ action) vaut $S_T$. A
 domine B état par état, donc $A_0\ge B_0$ :
 $C+Ke^{-rT}\ge S_0e^{-qT}$. Avec $C\ge 0$ (option = droit) on conclut. $\blacksquare$
@@ -380,7 +380,7 @@ Ces trois inégalités sont exactement les conditions d'absence d'arbitrage
 
 > 🎤 **Oral** — « Un butterfly a un payoff toujours positif : son prix doit être
 > positif. Donc le prix du call est convexe en strike, donc la densité
-> risque‑neutre implicite $\partial^2C/\partial K^2\,e^{rT}$ est positive. Une
+> risque‑neutre implicite $\partial^2C/\partial K^2e^{rT}$ est positive. Une
 > surface qui viole ça n'est pas une surface, c'est un bug. »
 
 ## 3.3 Call américain sans dividende : ne jamais exercer par anticipation
@@ -389,7 +389,7 @@ Ces trois inégalités sont exactement les conditions d'absence d'arbitrage
 équivalent européen : $C_{US}=C_{EU}$, et l'exercice anticipé est strictement
 sous‑optimal.
 
-*Preuve.* Par §3.1, $C_{EU}\ge S_0-Ke^{-rT}$. Or $r>0$ ⇒ $Ke^{-rT}<K$ ⇒
+**Preuve.** Par §3.1, $C_{EU}\ge S_0-Ke^{-rT}$. Or $r>0$ ⇒ $Ke^{-rT}<K$ ⇒
 $$C_{EU}\ge S_0-Ke^{-rT}>S_0-K=\text{valeur intrinsèque (exercice immédiat)}.$$
 Le call **vivant** vaut donc toujours strictement plus que le call exercé :
 il vaut mieux le **vendre** que l'exercer. Le droit d'exercice anticipé n'a
@@ -425,7 +425,7 @@ Elles ne servent pas au même moment de l'entretien.
 ## 4.1 Les 6 hypothèses — à réciter mot pour mot
 
 > **H1.** Le sous‑jacent suit un **mouvement brownien géométrique** à
-> paramètres constants : $dS_t=\mu S_t\,dt+\sigma S_t\,dW_t$. Trajectoires
+> paramètres constants : $dS_t=\mu S_t dt+\sigma S_t dW_t$. Trajectoires
 > **continues** (pas de saut), rendements log‑normaux.
 > **H2.** La **volatilité $\sigma$ est constante** et connue (et le taux $r$ aussi).
 > **H3.** **Pas de friction** : ni coûts de transaction, ni taxes, ni bid‑ask ;
@@ -451,24 +451,24 @@ trading, European exercise with known dividend yield.”
 
 ## 4.2 Boîte à outils : le lemme d'Itô
 
-Pour $X_t$ vérifiant $dX_t=a\,dt+b\,dW_t$ et $f(X,t)$ deux fois dérivable :
+Pour $X_t$ vérifiant $dX_t=a dt+b dW_t$ et $f(X,t)$ deux fois dérivable :
 
 $$df=\left(\frac{\partial f}{\partial t}+a\frac{\partial f}{\partial X}
 +\frac12 b^2\frac{\partial^2f}{\partial X^2}\right)dt
-+b\frac{\partial f}{\partial X}\,dW_t.$$
++b\frac{\partial f}{\partial X} dW_t.$$
 
 **D'où vient le terme en $\frac12 b^2 f_{XX}$ ?** Développement de Taylor à
 l'ordre 2 :
-$$df=f_t\,dt+f_X\,dX+\tfrac12 f_{XX}(dX)^2+\dots$$
-avec les règles du calcul d'Itô $\;(dt)^2=0$, $dt\,dW=0$, $\boxed{(dW)^2=dt}$ :
-$$(dX)^2=(a\,dt+b\,dW)^2=b^2(dW)^2=b^2dt.$$
+$$df=f_t dt+f_X dX+\tfrac12 f_{XX}(dX)^2+\dots$$
+avec les règles du calcul d'Itô $\;(dt)^2=0$, $dt dW=0$, $\boxed{(dW)^2=dt}$ :
+$$(dX)^2=(a dt+b dW)^2=b^2(dW)^2=b^2dt.$$
 Le terme d'ordre 2, qui serait négligeable en calcul classique, **survit** parce
 que le brownien a une variation quadratique non nulle. **Ce terme, c'est le
 gamma.** Toute la finance d'options tient dans ce $\frac12$.
 
 **Application — solution du GBM.** Avec $f=\ln S$, $a=\mu S$, $b=\sigma S$ :
 $f_S=1/S$, $f_{SS}=-1/S^2$, $f_t=0$ :
-$$d\ln S_t=\left(\mu-\frac{\sigma^2}{2}\right)dt+\sigma\,dW_t
+$$d\ln S_t=\left(\mu-\frac{\sigma^2}{2}\right)dt+\sigma dW_t
 \;\Longrightarrow\;
 \boxed{S_T=S_0\exp\left[\left(\mu-\tfrac{\sigma^2}{2}\right)T+\sigma W_T\right]}$$
 avec $W_T\sim\mathcal N(0,T)$. Donc
@@ -484,26 +484,26 @@ $$\ln S_T\sim\mathcal N\!\left(\ln S_0+\left(\mu-\tfrac{\sigma^2}{2}\right)T,\;\
 ## 4.3 Démonstration 1 — l'EDP de Black‑Scholes par delta‑hedging
 
 **Étape 1. Dynamique de l'option.** Soit $V(S,t)$ le prix de l'option. Itô :
-$$dV=\left(V_t+\mu S V_S+\tfrac12\sigma^2S^2V_{SS}\right)dt+\sigma S V_S\,dW_t.$$
+$$dV=\left(V_t+\mu S V_S+\tfrac12\sigma^2S^2V_{SS}\right)dt+\sigma S V_S dW_t.$$
 
 **Étape 2. Le portefeuille couvert.** Je construis
-$$\Pi=V-\Delta\,S,\qquad \Delta:=V_S \;\text{(quantité gelée sur }[t,t+dt]).$$
+$$\Pi=V-\Delta S,\qquad \Delta:=V_S \;\text{(quantité gelée sur }[t,t+dt]).$$
 Sur l'intervalle infinitésimal, avec un sous‑jacent versant $q$ (la position
-$-\Delta$ action **coûte** le dividende $q\Delta S\,dt$) :
-$$d\Pi=dV-\Delta\,dS-q\Delta S\,dt.$$
+$-\Delta$ action **coûte** le dividende $q\Delta S dt$) :
+$$d\Pi=dV-\Delta dS-q\Delta S dt.$$
 En substituant :
-$$d\Pi=\left(V_t+\mu SV_S+\tfrac12\sigma^2S^2V_{SS}\right)dt+\sigma SV_S\,dW
--V_S\left(\mu S\,dt+\sigma S\,dW\right)-qSV_S\,dt.$$
+$$d\Pi=\left(V_t+\mu SV_S+\tfrac12\sigma^2S^2V_{SS}\right)dt+\sigma SV_S dW
+-V_S\left(\mu S dt+\sigma S dW\right)-qSV_S dt.$$
 
-**Étape 3. Le miracle.** Les termes en $\mu S V_S\,dt$ s'annulent **et** les
-termes en $\sigma SV_S\,dW$ s'annulent :
+**Étape 3. Le miracle.** Les termes en $\mu S V_S dt$ s'annulent **et** les
+termes en $\sigma SV_S dW$ s'annulent :
 $$\boxed{d\Pi=\left(V_t+\tfrac12\sigma^2S^2V_{SS}-qSV_S\right)dt}$$
 Plus de $dW$ : le portefeuille est **localement sans risque**. Plus de $\mu$ :
 **le rendement espéré du sous‑jacent a disparu du prix de l'option.** C'est le
 résultat le plus contre‑intuitif et le plus important de la finance de marché.
 
 **Étape 4. AOA.** Un portefeuille sans risque doit rapporter exactement $r$ :
-$$d\Pi=r\Pi\,dt=r\left(V-SV_S\right)dt.$$
+$$d\Pi=r\Pi dt=r\left(V-SV_S\right)dt.$$
 Égalité des deux expressions :
 $$V_t+\tfrac12\sigma^2S^2V_{SS}-qSV_S=rV-rSV_S$$
 
@@ -531,7 +531,7 @@ et à « quel est le P&L d'un market maker delta‑hedgé ? ».
 **Étape 6. Le P&L du hedgeur (bonus élite, prépare J5).** Sur un pas $\delta t$,
 avec un mouvement réalisé $\delta S$, le P&L d'un vendeur d'option delta‑hedgé
 est
-$$\text{P\&L}\approx\frac12\Gamma\left[(\delta S)^2-\sigma^2S^2\delta t\right]
+$$\mathrm{PnL}\approx\frac12\Gamma\left[(\delta S)^2-\sigma^2S^2\delta t\right]
 =\frac12\Gamma S^2\left[\sigma_{\text{réalisée}}^2-\sigma_{\text{implicite}}^2\right]\delta t.$$
 **Le gamma trading, c'est parier vol réalisée contre vol implicite.** Rien
 d'autre. (`j05_delta_hedge_mc.py` le vérifiera numériquement.)
@@ -542,8 +542,8 @@ d'autre. (`j05_delta_hedge_mc.py` le vérifiera numériquement.)
 $\mathbb Q$ (dite *risque‑neutre*, équivalente à $\mathbb P$) sous laquelle tout
 prix d'actif **actualisé** est une martingale. Marché complet ⟺ $\mathbb Q$ est
 unique. Sous $\mathbb Q$ :
-$$dS_t=(r-q)S_t\,dt+\sigma S_t\,dW^{\mathbb Q}_t,\qquad
-V_0=e^{-rT}\,\mathbb E^{\mathbb Q}\!\left[V(S_T)\right].$$
+$$dS_t=(r-q)S_t dt+\sigma S_t dW^{\mathbb Q}_t,\qquad
+V_0=e^{-rT} \mathbb E^{\mathbb Q}\!\left[V(S_T)\right].$$
 Le drift réel $\mu$ est **remplacé par $r-q$** (théorème de Girsanov : changer
 de mesure change le drift, jamais la volatilité). C'est le pendant probabiliste
 de la disparition de $\mu$ à l'étape 3 de §4.3.
@@ -555,13 +555,13 @@ de la disparition de $\mu$ à l'étape 3 de §4.3.
 > exigeait $r$. »
 
 **Étape 2. Loi de $S_T$ sous $\mathbb Q$.**
-$$S_T=S_0\exp\left[\left(r-q-\tfrac{\sigma^2}{2}\right)T+\sigma\sqrt T\,Z\right],
+$$S_T=S_0\exp\left[\left(r-q-\tfrac{\sigma^2}{2}\right)T+\sigma\sqrt T Z\right],
 \qquad Z\sim\mathcal N(0,1).$$
 Notons $m=\ln S_0+(r-q-\frac{\sigma^2}{2})T$ et $s=\sigma\sqrt T$, de sorte que
 $\ln S_T\sim\mathcal N(m,s^2)$.
 
 **Étape 3. Poser l'intégrale.**
-$$C=e^{-rT}\,\mathbb E^{\mathbb Q}\left[(S_T-K)^+\right]
+$$C=e^{-rT} \mathbb E^{\mathbb Q}\left[(S_T-K)^+\right]
 =e^{-rT}\underbrace{\mathbb E^{\mathbb Q}\!\left[S_T\mathbb 1_{S_T>K}\right]}_{(\text{I})}
 -e^{-rT}K\underbrace{\mathbb Q(S_T>K)}_{(\text{II})}.$$
 
@@ -573,8 +573,8 @@ $$\mathbb Q(S_T>K)=\mathbb P(Z>-d_2)=N(d_2),\qquad
 
 **Étape 5. Calcul de (I) — l'astuce du changement de mesure.**
 $$\mathbb E\left[S_T\mathbb 1_{S_T>K}\right]
-=\int_{-d_2}^{+\infty}S_0e^{(r-q-\frac{\sigma^2}{2})T+s z}\,
-\frac{1}{\sqrt{2\pi}}e^{-z^2/2}\,dz.$$
+=\int_{-d_2}^{+\infty}S_0e^{(r-q-\frac{\sigma^2}{2})T+s z} 
+\frac{1}{\sqrt{2\pi}}e^{-z^2/2} dz.$$
 On complète le carré à l'exposant :
 $$-\frac{z^2}{2}+sz=-\frac{(z-s)^2}{2}+\frac{s^2}{2},
 \qquad s^2=\sigma^2T,$$
@@ -591,13 +591,13 @@ Donc $(\text{I})=S_0e^{(r-q)T}N(d_1)$.
 **Étape 6. Recollage.**
 $$C=e^{-rT}\left[S_0e^{(r-q)T}N(d_1)-KN(d_2)\right]$$
 
-$$\boxed{\,C=S_0e^{-qT}N(d_1)-Ke^{-rT}N(d_2)\,}$$
+$$\boxed{ C=S_0e^{-qT}N(d_1)-Ke^{-rT}N(d_2) }$$
 
 et par la parité call‑put (§2.1) — **jamais en refaisant l'intégrale** :
 $$P=C-S_0e^{-qT}+Ke^{-rT}
 =Ke^{-rT}\left[1-N(d_2)\right]-S_0e^{-qT}\left[1-N(d_1)\right]$$
 
-$$\boxed{\,P=Ke^{-rT}N(-d_2)-S_0e^{-qT}N(-d_1)\,}\qquad\blacksquare$$
+$$\boxed{ P=Ke^{-rT}N(-d_2)-S_0e^{-qT}N(-d_1) }\qquad\blacksquare$$
 
 > 🎤 **Oral EN (90 s, à chronométrer)** — “Under the risk‑neutral measure the
 > discounted stock is a martingale, so the drift is $r-q$ and $S_T$ is
@@ -681,11 +681,11 @@ $$\frac{\partial^2C}{\partial K^2}=e^{-rT}\phi_{\mathbb Q}(K).$$
 | $K=F_0$ | $C=P$ | ATM forward (§2.4) |
 
 **Approximation ATM à connaître de tête** (pour le mental math et le bloc 0) :
-$$C_{ATMF}\approx0{,}4\,\sigma\sqrt T\,S e^{-rT}.$$
-*Dérivation :* à $K=F$, $d_1=\frac{\sigma\sqrt T}{2}$, $d_2=-\frac{\sigma\sqrt T}{2}$, et
+$$C_{ATMF}\approx0{,}4\sigma\sqrt T S e^{-rT}.$$
+**Dérivation :** à $K=F$, $d_1=\frac{\sigma\sqrt T}{2}$, $d_2=-\frac{\sigma\sqrt T}{2}$, et
 $N(x)\approx\frac12+\frac{x}{\sqrt{2\pi}}$ pour $x$ petit, d'où
 $C\approx Fe^{-rT}\frac{\sigma\sqrt T}{\sqrt{2\pi}}$ et $1/\sqrt{2\pi}\approx0{,}399$.
-**Exemple à sortir sans calculette :** $S=100$, $\sigma=20\%$, $T=1$ ⇒ call ATM
+**Exemple à sortir sans calculette :** $S=100$, $\sigma=20$ %, $T=1$ ⇒ call ATM
 $\approx 0{,}4\times0{,}20\times100=8$.
 
 ## 5.3 Ce qui casse dans le vrai monde — la liste de l'intervieweur
@@ -720,7 +720,7 @@ $C=Se^{-qT}N(d_1)-Ke^{-rT}N(d_2)$.
 
 $$\boxed{\;S e^{-qT}\phi(d_1)=Ke^{-rT}\phi(d_2)\;}$$
 
-*Preuve.* $d_2=d_1-\sigma\sqrt T$, donc
+**Preuve.** $d_2=d_1-\sigma\sqrt T$, donc
 $$\frac{\phi(d_1)}{\phi(d_2)}=\exp\left[-\tfrac12 d_1^2+\tfrac12(d_1-\sigma\sqrt T)^2\right]
 =\exp\left[-d_1\sigma\sqrt T+\tfrac12\sigma^2T\right].$$
 Or, par définition de $d_1$, $\;d_1\sigma\sqrt T=\ln(S/K)+(r-q)T+\frac{\sigma^2}{2}T$, donc
@@ -761,7 +761,7 @@ $$\boxed{\nu=Se^{-qT}\phi(d_1)\sqrt T>0}$$
 
 **Toujours positif** pour une option vanille, call **et** put. Maximal ATM.
 Croît en $\sqrt T$ : **le véga est dans les maturités longues, le gamma dans les
-courtes.** (Note : $\nu=\Gamma\,S^2\sigma T$ — relation à ressortir J2.)
+courtes.** (Note : $\nu=\Gamma S^2\sigma T$ — relation à ressortir J2.)
 Convention desk : on divise par 100 pour avoir le véga « par point de vol ».
 
 ## 6.5 Theta
@@ -821,8 +821,8 @@ recalculés et vérifiés (voir `livrables/j01_bs_closed_form.py`, section
 
 ### Exercice 1 — Parité, cas de base
 
-*Action à $S_0=100$, $q=2\%$, $r=4\%$, $T=6$ mois, call $K=100$ coté $6{,}20$.
-Prix du put ?*
+> **Énoncé.** Action à $S_0=100$, $q=2$ %, $r=4$ %, $T=6$ mois,
+> call $K=100$ coté $6{,}20$. Prix du put ?
 
 $$P=C-S_0e^{-qT}+Ke^{-rT}=6{,}20-100e^{-0.01}+100e^{-0.02}$$
 $$S_0e^{-qT}=99{,}0050\quad;\quad Ke^{-rT}=98{,}0199$$
@@ -835,21 +835,22 @@ parce que le forward $F_0=100e^{0.01}=101{,}005>K$ : on est **ITM forward**.
 
 ### Exercice 2 — Forward sur indice
 
-*Indice à $3\,500$, $r=3{,}5\%$, $q=1{,}8\%$, $T=9$ mois.*
+> **Énoncé.** Indice à $3500$, $r=3{,}5$ %, $q=1{,}8$ %, $T=9$ mois.
 
-$$F_0=3500\,e^{(0.035-0.018)\times0.75}=3500\,e^{0.01275}=\mathbf{3\,544{,}91}$$
+$$F_0=3500e^{(0.035-0.018)\times0.75}=3500e^{0.01275}=\mathbf{3544{,}91}$$
 Base = $+44{,}91$ points (contango technique : $r>q$).
 
-*Variante orale :* si $q$ passait à $5\%$, $F_0=3500e^{-0.01125}=3460{,}86<S_0$.
+**Variante orale.** Si $q$ passait à $5$ %, $F_0=3500e^{-0.01125}=3460{,}86<S_0$.
 **Backwardation sur un indice sans que personne ne soit baissier.**
 
 ---
 
 ### Exercice 3 — FX, parité couverte
 
-*EUR/USD spot $1{,}0850$ ; $r_{USD}=4{,}25\%$ ; $r_{EUR}=2{,}25\%$ ; $T=3$ mois.*
+> **Énoncé.** EUR/USD spot $1{,}0850$ ; $r_{USD}=4{,}25$ % ;
+> $r_{EUR}=2{,}25$ % ; $T=3$ mois.
 
-$$F=1{,}0850\,e^{(0.0425-0.0225)\times0.25}=1{,}0850\,e^{0.005}=\mathbf{1{,}090439}$$
+$$F=1{,}0850e^{(0.0425-0.0225)\times0.25}=1{,}0850e^{0.005}=\mathbf{1{,}090439}$$
 Points de swap $=+54{,}4$ pips. L'EUR est **en report** contre USD, parce que
 le taux USD est plus haut : celui qui détient des USD reçoit plus d'intérêts, le
 forward le lui reprend. **Aucun avis directionnel là‑dedans.**
@@ -863,29 +864,31 @@ forward le lui reprend. **Aucun avis directionnel là‑dedans.**
 
 ### Exercice 4 — Pétrole : storage et convenience yield
 
-*Brent spot $68{,}40$ \$/bbl, $r=4\%$, coût de stockage $u=1{,}5\%$,
-convenience yield $y=6\%$, $T=6$ mois.*
+> **Énoncé.** Brent spot $68{,}40$ USD/bbl, $r=4$ %,
+> coût de stockage $u=1{,}5$ %, convenience yield $y=6$ %, $T=6$ mois.
 
-$$F_0=68{,}40\,e^{(0.04+0.015-0.06)\times0.5}=68{,}40\,e^{-0.0025}=\mathbf{68{,}2292}$$
-Spread $=-0{,}17$ \$ ⇒ **backwardation** : $y>r+u$, tension physique.
+$$F_0=68{,}40e^{(0.04+0.015-0.06)\times0.5}=68{,}40e^{-0.0025}=\mathbf{68{,}2292}$$
+Spread $=-0{,}17$ USD ⇒ **backwardation** : $y>r+u$, tension physique.
 
 *Question inverse (celle qui est posée en entretien) :* le marché cote
 $F=69{,}10$. Quel $y$ implicite ?
-$$y=r+u-\frac1T\ln\frac{F}{S}=0{,}04+0{,}015-2\ln\frac{69{,}10}{68{,}40}=\mathbf{3{,}46\,\%}$$
+$$y=r+u-\frac1T\ln\frac{F}{S}=0{,}04+0{,}015-2\ln\frac{69{,}10}{68{,}40}=0{,}0346$$
+
+soit **3,46 %**.
 Le convenience yield est passé sous le carry : le marché est repassé en
 **contango**, signe de stocks confortables. **C'est un indicateur, pas une
 donnée observable :** on ne l'observe jamais, on le déduit de la courbe.
 
 > Lien ShockDesk (à replacer le 11/09) : le régime de courbe conditionne
 > l'amplitude du choc. Brent réalisé **+18,4 %** vs **+5 %** prévu, soit
-> **×3,68** — *provenance : yfinance, `shock-lab-oil`, 25,5 M\$, 2026‑07‑01 →
+> **×3,68** — *provenance : yfinance, `shock-lab-oil`, 25,5 M USD, 2026‑07‑01 →
 > 2026‑08‑29, 42 barres.*
 
 ---
 
 ### Exercice 5 — Black‑Scholes complet, à la main
 
-*$S_0=100$, $K=105$, $r=3\%$, $q=0$, $\sigma=25\%$, $T=6$ mois.*
+> **Énoncé.** $S_0=100$, $K=105$, $r=3$ %, $q=0$, $\sigma=25$ %, $T=6$ mois.
 
 **Étape 1 — $d_1$, $d_2$.**
 $$\ln(S/K)=\ln(100/105)=-0{,}048790\quad;\quad
@@ -897,7 +900,7 @@ $$d_1=\frac{-0{,}048790+0{,}030625}{0{,}176777}=\mathbf{-0{,}102758}
 **Étape 2 — les $N$.** $N(d_1)=0{,}459078$, $N(d_2)=0{,}389917$.
 
 **Étape 3 — les prix.**
-$$C=100\times0{,}459078-105\,e^{-0.015}\times0{,}389917
+$$C=100\times0{,}459078-105e^{-0.015}\times0{,}389917
 =45{,}9078-40{,}3318=\mathbf{5{,}5760}$$
 $$P=C-S_0+Ke^{-rT}=5{,}5760-100+103{,}4368=\mathbf{9{,}0127}$$
 Vérification parité : résidu $\approx-7\times10^{-15}$ ⇒ **numériquement exact**.
@@ -906,13 +909,13 @@ Vérification parité : résidu $\approx-7\times10^{-15}$ ⇒ **numériquement e
 
 | Grec | Formule | Valeur | Lecture |
 |---|---|---|---|
-| $\Delta$ | $N(d_1)$ | $0{,}4591$ | +1 \$ de spot ⇒ +0,46 \$ |
-| $\Gamma$ | $\phi(d_1)/(S\sigma\sqrt T)$ | $0{,}02245$ | +1 \$ ⇒ delta +0,022 |
-| $\nu$ (1 pt de vol) | $S\phi(d_1)\sqrt T/100$ | $0{,}2806$ | +1 pt d'IV ⇒ +0,28 \$ |
+| $\Delta$ | $N(d_1)$ | $0{,}4591$ | +1 USD de spot ⇒ +0,46 USD |
+| $\Gamma$ | $\phi(d_1)/(S\sigma\sqrt T)$ | $0{,}02245$ | +1 USD ⇒ delta +0,022 |
+| $\nu$ (1 pt de vol) | $S\phi(d_1)\sqrt T/100$ | $0{,}2806$ | +1 pt d'IV ⇒ +0,28 USD |
 | $\Theta$ (par jour) | $\Theta_{an}/365$ | $-0{,}02254$ | −2,3 cents par jour |
-| $\rho$ (1 pt) | $KTe^{-rT}N(d_2)/100$ | $0{,}2017$ | +1 pt de taux ⇒ +0,20 \$ |
+| $\rho$ (1 pt) | $KTe^{-rT}N(d_2)/100$ | $0{,}2017$ | +1 pt de taux ⇒ +0,20 USD |
 
-**Étape 5 — contrôle par le véga.** Repricer à $\sigma=35\%$ (+10 pts) :
+**Étape 5 — contrôle par le véga.** Repricer à $\sigma=35$ % (+10 pts) :
 $C=8{,}3918$, soit $+2{,}8158$. L'estimation linéaire par véga donnait
 $10\times0{,}2806=2{,}806$. **Écart de +0,010 : c'est le *volga* (convexité en
 vol), positif.** Savoir dire ça vaut cher.
@@ -921,19 +924,19 @@ vol), positif.** Savoir dire ça vaut cher.
 
 ### Exercice 6 — Arbitrage sur forward (cash‑and‑carry chiffré)
 
-*Reprise de l'exercice 2 ($F^{th}=3\,544{,}91$). Le forward 9 mois cote
-$3\,600$. Que fais‑tu, et combien gagnes‑tu ?*
+> **Énoncé.** Reprise de l'exercice 2 ($F^{th}=3544{,}91$).
+> Le forward 9 mois cote $3600$. Que fais‑tu, et combien gagnes‑tu ?
 
 Le forward est **cher** ⇒ je le **vends** et je porte le sous‑jacent :
 
 | Opération | $t=0$ | $t=T$ |
 |---|---|---|
-| Emprunter $3500e^{-qT}=3\,453{,}07$ | $+3\,453{,}07$ | $-3\,453{,}07\,e^{0.035\times0.75}=-3\,544{,}91$ |
-| Acheter $e^{-qT}=0{,}98659$ indice, div. réinvestis | $-3\,453{,}07$ | $+1$ indice $=S_T$ |
-| Vendre le forward à $3\,600$ | $0$ | $3\,600-S_T$ |
+| Emprunter $3500e^{-qT}=3453{,}07$ | $+3453{,}07$ | $-3453{,}07e^{0.035\times0.75}=-3544{,}91$ |
+| Acheter $e^{-qT}=0{,}98659$ indice, div. réinvestis | $-3453{,}07$ | $+1$ indice $=S_T$ |
+| Vendre le forward à $3600$ | $0$ | $3600-S_T$ |
 | **Total** | $\mathbf 0$ | $\mathbf{+55{,}09}$ points, **certains** |
 
-Valeur actuelle : $55{,}09\,e^{-0.035\times0.75}=\mathbf{53{,}66}$ points.
+Valeur actuelle : $55{,}09e^{-0.035\times0.75}=\mathbf{53{,}66}$ points.
 Mise nulle, risque nul. **C'est ça, un arbitrage** — et c'est pour ça que ça
 n'existe presque jamais : le premier qui le voit le ferme.
 
@@ -947,11 +950,12 @@ n'existe presque jamais : le premier qui le voit le ferme.
 
 ### Exercice 7 — Valeur d'un forward en cours de vie
 
-*Contrat long forward 1 an initié quand $S=3\,500$ ($r=3{,}5\%$, $q=1{,}8\%$) :
-$K=3500e^{0.017}=3\,560{,}01$. Six mois plus tard, $S=3\,650$. Valeur du contrat ?*
+> **Énoncé.** Contrat long forward 1 an initié quand $S=3500$
+> ($r=3{,}5$ %, $q=1{,}8$ %) : $K=3500e^{0.017}=3560{,}01$.
+> Six mois plus tard, $S=3650$. Valeur du contrat ?
 
-$$F_{1/2}=3650\,e^{0.017\times0.5}=3\,681{,}16$$
-$$f=(F_{1/2}-K)e^{-rT}=(3\,681{,}16-3\,560{,}01)e^{-0.0175}=\mathbf{+119{,}05}\ \text{points}$$
+$$F_{1/2}=3650e^{0.017\times0.5}=3681{,}16$$
+$$f=(F_{1/2}-K)e^{-rT}=(3681{,}16-3560{,}01)e^{-0.0175}=\mathbf{+119{,}05}\ \text{points}$$
 
 Le contrat valait $0$ à l'initiation : le P&L latent est bien du **MTM**, et
 c'est exactement ce qu'un future aurait déjà appelé en marge, jour par jour.
@@ -1063,7 +1067,7 @@ Recto / verso. À réciter demain matin **avant** d'ouvrir le J2.
 | 8 | EDP de BS | $V_t+(r-q)SV_S+\frac12\sigma^2S^2V_{SS}=rV$ |
 | 9 | Theta ↔ gamma ($r=0$, $\Delta$‑neutre) | $\Theta=-\frac12\sigma^2S^2\Gamma$ |
 | 10 | Call US sans dividende | $=$ call EU, exercice anticipé jamais optimal car $C\ge S-Ke^{-rT}>S-K$ |
-| 11 | Call ATM approx | $0{,}4\,\sigma\sqrt T\,S$ (⇒ $S{=}100$, $\sigma{=}20\%$, $1$ an ⇒ $\approx 8$) |
+| 11 | Call ATM approx | $0{,}4\sigma\sqrt T S$ (⇒ $S{=}100$, $\sigma{=}20$ %, $1$ an ⇒ $\approx 8$) |
 | 12 | Pourquoi le smile existe | Les hypothèses H1/H2 sont fausses (sauts, vol stochastique) : BS est un dictionnaire prix↔vol |
 
 ---
