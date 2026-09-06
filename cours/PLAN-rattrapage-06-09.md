@@ -11,7 +11,7 @@ outils en place**, ce qui est un bien meilleur usage qu'un jour de repos que tu
 passerais à ruminer J1.
 
 **Ce qui change dans le pack :**
-- ajout de [`M0-rappels-maths.md`](M0-rappels-maths.md) — 8 modules, micro-exercices corrigés ;
+- ajout de [`M0-rappels-maths.md`](M0-rappels-maths.md) — 8 modules, **~110 exercices corrigés** en séries A/B/C, plus un exercice de synthèse qui reconstruit $d_1$ et $d_2$ ;
 - le §0.1 du J1 (ta capture) commence maintenant par **un tableau de chiffres
   sans aucune formule**, la formule ne vient qu'après ;
 - six renvois 🧮 dans le J1 pointent vers le module M0 correspondant.
@@ -25,7 +25,7 @@ programme, tu ajoutes une rampe d'accès.
 
 | Bloc | Durée | Quoi | Pourquoi |
 |---|---|---|---|
-| 1 | **1 h 30** | [`M0`](M0-rappels-maths.md) modules **M1 → M4** + leurs exercices | exp, log, dérivées, DL, la limite $e^{rT}$ |
+| 1 | **1 h 45** | [`M0`](M0-rappels-maths.md) modules **M1 → M4** + **toutes** leurs séries d'exercices | exp, log, dérivées, DL, la limite $e^{rT}$ |
 | 2 | **0 h 20** | pause réelle, sans écran | consolidation |
 | 3 | **1 h 00** | J1 **§0 et §1** (briques + forwards) | maintenant lisible |
 | 4 | **0 h 40** | TD **exercices 1 à 4** au papier | forwards uniquement |
@@ -112,10 +112,15 @@ Envoie-moi ce bloc : je réécris **le passage exact**, pas tout le cours.
 Trois lignes suffisent :
 
 ```
-M0 : modules faits ___ / auto-test ___/10
+M0 : modules faits ___  / exercices ratés (numéros) : ___
+     auto-test ___/10
 J1 : §0 [ ]  §1 [ ]  TD ex.1-4 [ ]
 BLOQUÉ SUR :
 ```
+
+**Donne-moi les numéros d'exercices ratés**, pas seulement « j'ai eu du mal ».
+Un exercice raté est une information précise : je réécris le rappel
+correspondant.
 
 Et honnêtement : **si M0 seul te prend les 3 h 30, c'est un bon dimanche.**
 Le J1 tiendra lundi. Ce qui compte au 30/09 n'est pas d'avoir coché 22 cases,
