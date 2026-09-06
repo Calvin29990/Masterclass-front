@@ -7,10 +7,20 @@ jour J.
 
 | Jour | Date | Fichier | Livrable Python | État |
 |---|---|---|---|---|
+| **M0** | **06/09** | [**`M0-rappels-maths.md`**](M0-rappels-maths.md) — **à lire en premier si les maths sont rouillées** | — | ✅ 8 modules + exos |
+| — | 06/09 | [`PLAN-rattrapage-06-09.md`](PLAN-rattrapage-06-09.md) | — | ✅ planning révisé |
 | J1 | 05/09 | [`J01-parite-forward-black-scholes.md`](J01-parite-forward-black-scholes.md) | `livrables/j01_bs_closed_form.py` | ✅ écrit, tests OK |
 | J2 | 07/09 | `J02-grecs.md` | `livrables/j02_greeks.py` | à écrire |
 | J3 | 08/09 | `J03-structures.md` | `livrables/j03_payoffs.py` | à écrire |
 | … | … | (voir `01-programme-elite-05-30-septembre-2026.md`) | | |
+
+## Par où commencer
+
+1. **Maths rouillées ?** → [`M0-rappels-maths.md`](M0-rappels-maths.md)
+   (1 h 30). Huit modules courts, micro-exercices corrigés, uniquement ce qui
+   sert au J1. Aucune honte : c'est un problème d'outillage, pas de niveau.
+2. **Sinon** → directement [`J01`](J01-parite-forward-black-scholes.md).
+3. Les blocs 🧮 dans le J1 renvoient au module M0 correspondant.
 
 ## Convention de rédaction
 

@@ -22,7 +22,26 @@ sont à dire **à voix haute, debout, chrono 90 s**. Les blocs
 
 > ⚠️ **Piège** — l'erreur qui te fait perdre le Superday.
 
-sont ce que l'intervieweur cherche.
+sont ce que l'intervieweur cherche. Enfin, les blocs
+
+> 🧮 **Maths** — renvoi vers le module de rappel correspondant.
+
+signalent un passage calculatoire dont **la marche est reprise plus lentement
+ailleurs**.
+
+### ⚠️ Si les maths sont rouillées, commence par M0
+
+Ce cours suppose exponentielle, log, dérivées, loi normale. Si une ligne comme
+$\lim_{m\to\infty}(1+\frac{r}{m})^{mT}=e^{rT}$ te bloque, **ce n'est pas un
+problème de niveau, c'est un problème d'ordre de lecture.**
+
+👉 **Lis d'abord [`M0-rappels-maths.md`](M0-rappels-maths.md)** (1 h 30, huit
+modules courts avec micro-exercices corrigés). Il ne contient **que** les
+maths utilisées ici, chacune reliée à l'endroit du J1 où elle sert.
+
+**Il n'y a aucune honte à ça.** Un desk ne teste pas ta capacité à démontrer
+un théorème : il teste ta capacité à manipuler ces objets vite et juste. M0
+sert exactement à ça.
 
 **Plan**
 
@@ -44,12 +63,42 @@ sont ce que l'intervieweur cherche.
 
 ## 0.1 Composition continue — pourquoi $e$ partout
 
+### D'abord le sens, sans une seule formule
+
+Je place 100 € à 5 % pendant un an. Tout dépend de **combien de fois** on me
+verse les intérêts :
+
+| Intérêts versés | Capital final |
+|---|---|
+| 1 fois (annuel) | $105{,}0000$ |
+| 2 fois (semestriel) | $105{,}0625$ |
+| 12 fois (mensuel) | $105{,}1162$ |
+| 365 fois (quotidien) | $105{,}1267$ |
+| **en continu** | $\mathbf{105{,}1271}$ |
+
+Chaque ligne est un peu au-dessus de la précédente : les intérêts du début
+produisent eux-mêmes des intérêts. Mais **ça plafonne**. Découper à l'infini ne
+fait pas exploser le résultat : ça converge vers une limite, et cette limite
+s'appelle $100\,e^{0{,}05}$.
+
+**Voilà tout ce que dit la formule ci-dessous.** Le reste est de la plomberie.
+
+### Maintenant l'écriture compacte
+
 Un capital $A$ placé au taux annuel $r$ composé $m$ fois par an donne
 $A\left(1+\frac{r}{m}\right)^{mT}$. On fait $m\to\infty$ :
 
 $$\lim_{m\to\infty}\left(1+\frac{r}{m}\right)^{mT}
 =\lim_{m\to\infty}\exp\left(mT\ln\left(1+\frac{r}{m}\right)\right)
 =\exp\left(mT\cdot\frac{r}{m}+O(1/m)\right)=e^{rT}.$$
+
+> 🧮 **Cette ligne te paraît brutale ? C'est normal, elle enchaîne trois
+> outils d'un coup.** Elle est reprise **pas à pas, en cinq étapes**, dans
+> [`M0-rappels-maths.md`](M0-rappels-maths.md), **module M4**. En résumé :
+> on passe au log pour casser la puissance, on utilise $\ln(1+x)\approx x$
+> quand $x$ est minuscule, **le $m$ se simplifie**, et il reste $rT$.
+> Le symbole $O(1/m)$ se lit simplement **« + des poussières qui disparaissent »**.
+> Rien à calculer là-dedans.
 
 On garde la composition continue pour **une seule raison technique** : elle est
 stable par addition d'intervalles ($e^{rT_1}e^{rT_2}=e^{r(T_1+T_2)}$) et se
@@ -102,6 +151,9 @@ sophistication (statique, statique, **dynamique**).
 ---
 
 # § 1. Le forward
+
+> 🧮 **Maths** — tout le § 1 repose sur $e^a e^b=e^{a+b}$ et
+> $\ln(a/b)=\ln a-\ln b$ : **module M1** de [`M0`](M0-rappels-maths.md).
 
 ## 1.1 Définition et payoff
 
@@ -457,6 +509,10 @@ $$df=\left(\frac{\partial f}{\partial t}+a\frac{\partial f}{\partial X}
 +\frac12 b^2\frac{\partial^2f}{\partial X^2}\right)dt
 +b\frac{\partial f}{\partial X} dW_t.$$
 
+> 🧮 **Maths** — dérivées partielles ($f_t$, $f_X$, $f_{XX}$) et règle de la
+> chaîne : **module M8** de [`M0`](M0-rappels-maths.md). Approximation de
+> Taylor : **module M3**.
+
 **D'où vient le terme en $\frac12 b^2 f_{XX}$ ?** Développement de Taylor à
 l'ordre 2 :
 $$df=f_t dt+f_X dX+\tfrac12 f_{XX}(dX)^2+\dots$$
@@ -473,6 +529,10 @@ $$d\ln S_t=\left(\mu-\frac{\sigma^2}{2}\right)dt+\sigma dW_t
 \boxed{S_T=S_0\exp\left[\left(\mu-\tfrac{\sigma^2}{2}\right)T+\sigma W_T\right]}$$
 avec $W_T\sim\mathcal N(0,T)$. Donc
 $$\ln S_T\sim\mathcal N\!\left(\ln S_0+\left(\mu-\tfrac{\sigma^2}{2}\right)T,\;\sigma^2T\right).$$
+
+> 🧮 **Maths** — log-normale et origine du $-\sigma^2/2$ : **module M7** de
+> [`M0`](M0-rappels-maths.md), avec l'exemple chiffré moyenne $110{,}52$ vs
+> médiane $105{,}65$.
 
 > ⚠️ **Piège classique d'entretien** — « pourquoi $-\sigma^2/2$ ? »
 > Réponse : parce que $\mathbb E[S_T]=S_0e^{\mu T}$ **impose** ce terme
@@ -578,6 +638,13 @@ $$\mathbb E\left[S_T\mathbb 1_{S_T>K}\right]
 On complète le carré à l'exposant :
 $$-\frac{z^2}{2}+sz=-\frac{(z-s)^2}{2}+\frac{s^2}{2},
 \qquad s^2=\sigma^2T,$$
+
+> 🧮 **Maths** — c'est **le seul passage calculatoire dur du J1**, et c'est un
+> exercice de collège déguisé (celui de l'équation du second degré). Repris
+> pas à pas au **module M6** de [`M0`](M0-rappels-maths.md). À retenir en une
+> phrase : *multiplier une cloche par $e^{sz}$, c'est déplacer son centre de
+> $s$* — et ce décalage est exactement ce qui transforme $d_2$ en $d_1$.
+
 donc
 $$\mathbb E\left[S_T\mathbb 1_{S_T>K}\right]
 =S_0e^{(r-q-\frac{\sigma^2}{2})T+\frac{\sigma^2T}{2}}
@@ -643,6 +710,9 @@ Black‑Scholes. $\blacksquare$
 ---
 
 # § 5. Lire la formule comme un trader
+
+> 🧮 **Maths** — la loi normale, $\phi$ contre $N$, la symétrie
+> $N(-x)=1-N(x)$ : **module M5** de [`M0`](M0-rappels-maths.md).
 
 ## 5.1 Décomposition économique
 
@@ -712,6 +782,10 @@ $\approx 0{,}4\times0{,}20\times100=8$.
 ---
 
 # § 6. Les grecs, dérivés à la main
+
+> 🧮 **Maths** — un grec **est** une dérivée. Les six dérivées utiles et la
+> règle de la chaîne : **module M2** de [`M0`](M0-rappels-maths.md).
+> Le dictionnaire grec ↔ dérivée partielle : **module M8**.
 
 Notations : $\phi(x)=\frac{1}{\sqrt{2\pi}}e^{-x^2/2}$ (densité), $N$ (répartition),
 $C=Se^{-qT}N(d_1)-Ke^{-rT}N(d_2)$.

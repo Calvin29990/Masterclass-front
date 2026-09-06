@@ -16,7 +16,10 @@ On avance **cours par cours** (un jour = un fichier). Voir [`cours/`](cours/).
 
 | Jour | Date | Cours | Livrable |
 |---|---|---|---|
+| **M0** | 06/09 | [**Rappels maths**](cours/M0-rappels-maths.md) — à lire en premier si les maths sont rouillées | — |
 | J1 | 05/09 | [Parité, forward, Black‑Scholes‑Merton](cours/J01-parite-forward-black-scholes.md) | [`livrables/j01_bs_closed_form.py`](livrables/j01_bs_closed_form.py) ✅ |
+
+Planning révisé au 06/09 : [`cours/PLAN-rattrapage-06-09.md`](cours/PLAN-rattrapage-06-09.md)
 
 ```bash
 python3 livrables/j01_bs_closed_form.py        # auto-tests (doivent tous être OK)
