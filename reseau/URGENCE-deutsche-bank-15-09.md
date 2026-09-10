@@ -41,7 +41,7 @@ répondre en 48 h**.
 |---|---|---|---|---|
 | ~~1~~ | ~~**Yann Simo**~~ | ~~VP, Rates Trader~~ | Paris | ❌ **A ghosté** (2 messages sans réponse). Ne pas relancer avant le 16/09 — voir Plan B §4. |
 | 🔒 | **Ali** | S&T, DB | Paris | 🔒 **Intouchable — géré en direct par Calvin.** Aucun message de ce kit ne le concerne. |
-| ❌ | **Othmane Kabbaj** | ex-DB · SGCIB · Tikehau | Paris | ❌ **A ghosté aussi** (même template que Yann, 11/08). Relance le 16/09. |
+| ❌ | **Othmane Kabbaj** | ex-DB · SGCIB · Tikehau | Paris | ❌ Pas de réponse (11/08). Relance le 16/09. NB : le **même texte a fonctionné avec Ali** (réponse en 3 min) — problème de volume, pas de message. |
 | **1** | **Alexis Bouvet** | Structured Products Specialist | **Genève** | ✅ **CIBLE N°1.** arrivé chez DB en **août 2026 (2 mois)** donc process récent en tête et peu sollicité · **même fuseau** · post d'annonce d'il y a 1 mois = prétexte parfait. Plan B §2 bis. |
 | **2** | **Jason Kong** | FX & Rates Trader | **Hong Kong** | ✅ +6 h → 9h Paris = 15h chez lui, meilleure dispo horaire. FX & Rates = pile le sujet. |
 
@@ -60,7 +60,7 @@ répondre en 48 h**.
 |---|---|---|
 | **Natalja Zvonarjova** | **Early Careers Recruiter** DB | ⚠️ **Cas à part — voir §2.4.** C'est **la RH**. À ne contacter qu'**après** l'event, jamais avant. |
 | Jason Kong | FX & Rates Trader, Hong Kong | ✅ **Remonté en P1** (voir tableau du haut) — HK +6 h = la meilleure dispo du réseau. |
-| ~~Alexis Bouvet~~ | — | ✅ **Remonté en CIBLE N°1** (voir tableau du haut). Mon verdict initial « structurés ≠ FIC » était une erreur : l'arrivée récente chez DB prime sur le desk. |
+| ~~Alexis Bouvet~~ | — | ✅ **Remonté en CIBLE N°1** (voir tableau du haut). Mon verdict initial « structurés ≠ FIC » était une erreur : l'arrivée récente chez DB prime sur le desk. Message **court** : 5 lignes. |
 | Kelvin Asare | EM Sales, Londres | ✅ **Remonté en P2** — junior donc réactif, et **porte d'entrée sur les réseaux internes DB** (dbENRICH, Black Leadership Forum) + le programme **Inspiring Black Future Leaders**. Plan B §2 ter. |
 | Othmane Kabbaj | ex-DB \| SGCIB \| Tikehau | ❌ **A ghosté** (même template que Yann, 11/08 19h50). Relance le 16/09 uniquement. |
 | Mian Zhang | Strat, Londres | Strat ≠ front trading. Utile pour un profil quant, pas pour ça. |
@@ -427,7 +427,9 @@ réussir le Superday ; le réseau sert à **l'obtenir**.
 ## Checklist — à cocher
 
 **Ce soir (10/09)** — voir [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md)
-- [ ] **Alexis Bouvet** (FR) — Plan B §2 bis — *meilleure proba de réponse*
+- [ ] **Alexis Bouvet** (FR) — Plan B §2 bis — *5 lignes*
+- [ ] ✉️ **Brahim Louati** — email, recommandé par Ali — Plan B §2 bis
+- [ ] 🔎 **Matthieu Mugler** — identifier puis écrire — Plan B §2 bis
 - [ ] **Jason Kong** (EN) — Plan B §3.2
 - [ ] **Viraj Aggarwal** (EN) — Plan B §3.1
 - [ ] **Kelvin Asare** (EN) — Plan B **§2 ter**

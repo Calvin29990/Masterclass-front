@@ -109,103 +109,119 @@ Simo le 11 août à 19h49** — une minute plus tôt.
    11 août.** Écrire « nous ne nous connaissons pas » à quelqu'un à qui tu l'as
    déjà écrit, c'est ce qui a tué la relance de Yann.
 
-## ✅ Le francophone qu'on avait mal évalué : Alexis Bouvet
+## Alexis Bouvet — message court
 
-> 🛑 **Correction du 10/09.** J'avais écrit qu'Alexis et toi partagiez l'ESSCA.
-> **C'est faux : Calvin est à SKEMA Business School** (PGE M2 + MSc Corporate
-> Financial Management). J'ai inventé un lien qui n'existe pas — le message
-> précédent aurait été embarrassant à envoyer. **Ne jamais affirmer un lien
-> d'école sans l'avoir lu sur le profil.**
+> 🛑 **Trois erreurs corrigées.** (1) Calvin est à **SKEMA**, pas ESSCA.
+> (2) **Alexis est ESSEC**, pas ESSCA — **aucune école commune**, ne rien
+> inventer. (3) « beau move » commentait sa carrière : **on ne commente pas la
+> carrière de quelqu'un qu'on ne connaît pas**. Et mes messages étaient
+> **beaucoup trop longs**.
 
-### ⚠️ À vérifier en 10 secondes avant d'envoyer
+### Le modèle qui marche vraiment : celui d'Ali
 
-Sur la capture de son profil, l'encart LinkedIn **« Personnes que vous pourriez
-connaître — *De l'école de Alexis* »** propose notamment **Baptiste Lhonneur,
-Analyst Private Equity, SKEMA Business School**.
+Le message qui a obtenu une réponse en **3 minutes** (11/08, 19h48) faisait
+**4 lignes** :
 
-**LinkedIn ne suggère ce bloc que sur la base de l'école déclarée d'Alexis.**
-Il est donc possible qu'**Alexis soit lui-même passé par SKEMA** — auquel cas
-le lien alumni existe vraiment, mais dans l'autre sens que ce que j'avais écrit.
+> Bonjour Ali, Nous ne nous connaissons pas mais votre profil a fortement retenu
+> mon attention car j'aimerais avoir une carrière similaire. Seriez-vous
+> disponible pour échanger quelques minutes ?
 
-> 👉 **Ouvre son profil, section *Formation*.**
-> — **SKEMA confirmé** → utilise la **variante A** (alumni)
-> — **Autre école** → utilise la **variante B** (sans école), qui reste
-> excellente
+Pas de créneaux, pas de preuve de travail, pas de storytelling. **Court, direct,
+une seule demande.** C'est le format à reprendre.
 
-Ce qui reste vrai et solide dans tous les cas :
-
-| Facteur | Détail |
-|---|---|
-| 🆕 **Arrivé en août 2026** | **2 mois** chez DB Genève : peu sollicité, process de recrutement encore frais |
-| 🕐 **Genève = CET** | même fuseau que Paris |
-| 📣 **Post d'annonce il y a 1 mois** | 197 réactions — prétexte d'écriture qui expire vers 3 mois |
-| 🏦 **Il est chez DB** | il connaît la culture maison, c'est tout ce qu'il te faut |
-
-### Variante A — si son profil affiche SKEMA
+### Le message à Alexis
 
 > Bonjour Alexis,
 >
-> Calvin, **également passé par SKEMA**, aujourd'hui en dernière année (PGE M2
-> + MSc Corporate Financial Management) à Paris.
+> Calvin, étudiant M2 à SKEMA en finance de marché.
 >
-> **Félicitations pour votre arrivée chez Deutsche Bank** — j'ai vu votre post,
-> Genève et les structurés, beau move.
+> J'ai vu que vous avez rejoint Deutsche Bank. Je participe au **Spotlight FIC
+> de DB mardi** et je prépare mes questions.
 >
-> Je suis inscrit au **Spotlight FIC de DB mardi prochain (15/09)** et je
-> prépare mes questions. Comme vous avez fait le process récemment, votre
-> regard m'intéresse beaucoup plus que celui de quelqu'un qui est là depuis
-> dix ans.
+> Auriez-vous quelques minutes pour m'aider à les travailler — ou quelqu'un à
+> me recommander qui serait plus proche du FIC ?
 >
-> Auriez-vous **15 minutes d'ici lundi** ? Deux choses : est-ce que mes deux
-> questions tiennent la route, et ce qui vous a le plus surpris en arrivant
-> chez DB.
->
-> **Vendredi 18h, samedi 11h ou dimanche 18h** me vont — dites-moi ce qui vous
-> arrange.
->
-> Merci beaucoup,
+> Merci,
 > Calvin
 
-### Variante B — si aucune école commune *(par défaut)*
+**5 lignes. Une demande. Une porte de sortie.**
 
-On remplace le lien d'école par une **preuve de travail**, qui vaut au moins
-autant : tu as déjà pricé des options et manipulé des courbes Bloomberg.
+> 🔑 **« ou quelqu'un à me recommander » est la clé.** C'est exactement ce qui a
+> fonctionné avec Ali : il n'avait pas le temps, alors **il a donné trois
+> noms**. Un contact qui ne peut pas t'aider lui-même peut presque toujours te
+> passer quelqu'un — mais seulement si tu lui laisses cette option.
+> Et pour Alexis, c'est d'autant plus pertinent qu'il est en **structurés, pas
+> en FIC** : la recommandation est peut-être sa réponse la plus naturelle.
 
-> Bonjour Alexis,
+---
+
+## 🎁 Ce qu'Ali t'a déjà donné le 17/08 — et que tu n'as pas exploité
+
+À 22h08, Ali a répondu par **trois noms**. C'est une mine, et deux d'entre eux
+ne sont dans aucun de tes fichiers :
+
+| Nom | Ce qu'on en sait | Action |
+|---|---|---|
+| **Matthieu Mugler** | donné par Ali, à identifier sur LinkedIn | 🔎 à chercher |
+| **Brahim Louati** | **brahim.louati@lcl-sdm.fr** — **tu as son email direct** | ✉️ **contactable tout de suite** |
+| **Natalja Zvonarjova** | **Early Careers Recruiter DB** — déjà dans ton réseau | 🕐 après l'event, le 16/09 |
+
+> **Le point que tu as manqué :** quand Ali cite ces trois noms, **il te donne
+> implicitement le droit de les citer.** Un message qui commence par « Ali
+> Megarni m'a donné votre nom » n'est plus un cold message — c'est une
+> **recommandation**. Le taux de réponse n'a rien à voir.
+
+### Brahim Louati — email, à envoyer ce soir
+
+Objet : **Recommandé par Ali Megarni**
+
+> Bonjour Brahim,
 >
-> Calvin, étudiant en dernière année à **SKEMA** (PGE M2 + MSc Corporate
-> Financial Management), en finance de marché à Paris.
+> Calvin Minang, étudiant M2 à SKEMA en finance de marché. **Ali Megarni m'a
+> donné votre nom.**
 >
-> **Félicitations pour votre arrivée chez Deutsche Bank** — j'ai vu votre post,
-> Genève et les structurés, beau move.
+> Je participe au **Spotlight FIC de Deutsche Bank mardi** et je prépare mes
+> questions.
 >
-> Je suis inscrit au **Spotlight FIC de DB mardi prochain (15/09)** et je
-> prépare mes questions. J'ai construit un pricer Black-Scholes et travaillé
-> les courbes Bloomberg en stage, mais sur la réalité d'un desk je préfère
-> demander à quelqu'un qui y est.
+> Auriez-vous quelques minutes cette semaine pour m'aider à les travailler ?
 >
-> Comme vous avez fait le process récemment, votre regard m'intéresse beaucoup
-> plus que celui de quelqu'un qui est là depuis dix ans. Auriez-vous
-> **15 minutes d'ici lundi** ? Est-ce que mes deux questions tiennent la route,
-> et ce qui vous a le plus surpris en arrivant chez DB.
+> Merci d'avance,
+> Calvin Minang
+> +33 7 52 97 58 09
+
+### Matthieu Mugler — LinkedIn, après l'avoir identifié
+
+> Bonjour Matthieu,
 >
-> **Vendredi 18h, samedi 11h ou dimanche 18h** me vont — dites-moi ce qui vous
-> arrange.
+> Calvin, étudiant M2 à SKEMA en finance de marché. **Ali Megarni m'a donné
+> votre nom.**
 >
-> Merci beaucoup,
+> Je participe au **Spotlight FIC de Deutsche Bank mardi** et je prépare mes
+> questions. Auriez-vous quelques minutes pour m'aider à les travailler ?
+>
+> Merci,
 > Calvin
 
-**Les 4 leviers, communs aux deux variantes :**
+---
 
-1. **Félicitations datées** — tu as vu son post, tu n'es pas un bot
-2. **« comme vous avez fait le process récemment »** — ses 2 mois d'ancienneté
-   deviennent **son atout unique** au lieu d'un handicap
-3. **« ce qui vous a le plus surpris »** — il y pense encore tous les jours
-4. **3 créneaux** — répondre coûte 2 secondes
+## 🛑 Mon diagnostic du template était faux
 
-> ⚠️ **Et toujours :** s'il a reçu ton template du 11/08, ajoute
-> *« je vous avais écrit en août sans grand succès — je m'y prends mieux cette
-> fois »*. L'auto-dérision désamorce, le silence gêné non.
+J'avais écrit que le message du 11/08 « n'avait pas fonctionné ». **C'est
+inexact**, et la correction compte :
+
+| Heure | Destinataire | Résultat |
+|---|---|---|
+| 19h48 | **Ali** | ✅ **réponse à 19h51 — 3 minutes** |
+| 19h49 | Yann | ❌ |
+| 19h50 | Othmane | ❌ |
+
+**1 réponse sur 3 en trois minutes.** En networking à froid, c'est un **très bon
+taux** — la plupart des étudiants sont à 1 sur 10.
+
+> **Ce que ça change :** le problème n'était pas le message, c'était le
+> **volume**. Trois envois ne suffisent pas. Le networking est un jeu de nombre :
+> tu écris court, tu écris à beaucoup, tu acceptes que les deux tiers ne
+> répondent jamais. **Ne cherche pas le message parfait — envoie-en plus.**
 
 ## État réel du réseau DB
 
@@ -462,22 +478,29 @@ bonus, pas un prérequis. Plan de repli :
 5. **Toujours une preuve de travail.** Une ligne suffit : l'event, le lab, les taux.
 6. **Jamais deux relances identiques.** Le 2e message doit **citer le 1er**.
 7. **Vise le junior, pas le titre.** Un analyst répond, un MD lit en diagonale.
-8. **Jamais deux fois le même template.** Le 11 août, le même texte est parti à
-   Yann (19h49) et Othmane (19h50). Zéro réponse. Un message qui pourrait être
-   envoyé à n'importe qui ne sera lu par personne.
-9. **Ne jamais affirmer un lien (école, promo, ancien employeur) sans l'avoir
-   lu sur le profil.** Un lien inventé se voit immédiatement et détruit le
-   message. Calvin est à **SKEMA**.
-10. **Une origine partagée est une raison de répondre, jamais un argument à
+8. **Court gagne.** Le message qui a marché (Ali, réponse en 3 min) faisait
+   4 lignes. Un long message n'est pas plus convaincant, il est moins lu.
+9. **Toujours offrir la porte de sortie** « ou quelqu'un à me recommander ».
+   C'est ce qui a fait sortir 3 noms à Ali.
+10. **Ne jamais commenter la carrière de quelqu'un** qu'on ne connaît pas
+   (« beau move », « parcours inspirant ») : tu n'as pas la légitimité, et ça
+   sonne faux.
+11. **C'est un jeu de volume, pas de perfection.** 1 réponse sur 3 est un bon
+   taux. Le levier n'est pas d'améliorer le message, c'est d'en envoyer plus.
+12. **Ne jamais affirmer un lien (école, promo, ancien employeur) sans l'avoir
+   lu sur le profil.** Calvin est à **SKEMA**, Alexis à l'**ESSEC**.
+13. **Une origine partagée est une raison de répondre, jamais un argument à
    avancer.** Elle joue à plein sans être nommée. Le sujet reste le métier.
-11. **Contact chaud ≠ contact froid.** Avec quelqu'un que tu connais déjà, tu ne
+14. **Contact chaud ≠ contact froid.** Avec quelqu'un que tu connais déjà, tu ne
    remontes **jamais** d'un cran dans la demande (message → call). Tu restes au
    niveau déjà accepté et tu y mets du contenu. Et **jamais d'accroche de cold
    message** (« on a X relations en commun ») à quelqu'un qui a ton numéro.
 
 ## Checklist ce soir
 
-- [ ] **Alexis Bouvet** (FR) — §2 bis — *vérifier son école, puis variante A ou B*
+- [ ] **Alexis Bouvet** (FR) — §2 bis — *5 lignes*
+- [ ] **Brahim Louati** — ✉️ **email**, recommandé par Ali — §2 bis
+- [ ] **Matthieu Mugler** — identifier sur LinkedIn puis écrire — §2 bis
 - [ ] **Jason Kong** (EN) — §3.2
 - [ ] **Viraj Aggarwal** (EN) — §3.1
 - [ ] **Kelvin Asare** (EN) — **§2 ter** (version enrichie, réseaux internes)
