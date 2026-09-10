@@ -187,6 +187,109 @@ cours sur les swaps.
 
 ---
 
+# 2 ter. Kelvin Asare — et la piste que ça ouvre
+
+> ⚠️ Petite correction de nom : sur LinkedIn c'est **Kelvin Asare** (pas Kevin)
+> — *Emerging Markets Sales at Deutsche Bank*. Écris bien « Kelvin ».
+
+## Le levier est réel, mais il ne va pas dans le message
+
+Une origine partagée **crée de la disponibilité**. Beaucoup de professionnels
+noirs en finance de marché savent ce que c'est d'être le seul dans la salle, et
+sont **nettement plus enclins** à donner 15 minutes à un étudiant qui leur
+ressemble. Ce n'est pas une théorie : c'est la raison d'être des réseaux
+internes des banques, DB compris.
+
+**Mais ne l'écris pas dans le premier message.** Pas par pudeur — pour une
+raison tactique :
+
+| Si tu l'écris d'emblée | Effet |
+|---|---|
+| « je suis noir comme vous » | tu fais de **l'origine** le sujet, et de ta demande une **demande de solidarité** |
+| Message centré sur le métier | il **voit** ton nom et ta photo, il fait le lien tout seul, et il répond à quelqu'un de **sérieux** |
+
+> **La règle :** l'origine partagée est une **raison de répondre**, pas un
+> **argument à avancer**. Elle joue à 100 % sans être nommée. Ce que tu veux,
+> c'est qu'il pense « ce type est bon **et** il me ressemble » — pas l'inverse.
+
+**En revanche, il existe une façon parfaitement légitime de l'aborder :** poser
+une question sur les **réseaux internes de la banque**. C'est un sujet
+professionnel, factuel, et sur lequel il aura probablement envie de s'exprimer.
+
+## Ce que DB a réellement mis en place (vérifié)
+
+| Dispositif | Ce que c'est |
+|---|---|
+| **Black Leadership Forum (BLF)** | Réseau des collaborateurs noirs, UKI et US. Décrit par ses membres comme un espace pour « échanger avec des gens qui comprennent les nuances d'être un professionnel noir dans un environnement intense ». |
+| **dbENRICH** | ERG multiculturel UK/Allemagne. **+125 % de membres en 2024** · lancement du Black History Month à **350 participants** · sponsor de la **UK Black Business Week** et des **Powerlist awards**. |
+| **dbBOLD** *(Black Opportunity Leadership Development)* | Programme de développement pour VP noirs, né aux Amériques en 2020, **étendu au UK/Irlande en 2021**, élargi aux AVP. Créé après le constat interne d'un « **barreau cassé au niveau VP** » pour les talents noirs. |
+
+## 🎯 Et surtout : « Inspiring Black Future Leaders »
+
+**C'est la vraie trouvaille de cette recherche.**
+
+Deutsche Bank organise à Londres un **Insight event réservé aux étudiants
+d'origine noire ou métisse** — éditions passées : **octobre 2024** (18h-21h) et
+**16 juin 2025** (13h-15h, 10 Upper Bank St).
+
+L'édition 2025 ciblait explicitement les **étudiants diplômés entre 2026 et
+2028**, et présentait **Fixed Income & Currencies** et Origination & Advisory,
+avec **networking direct avec des représentants de ces divisions**.
+
+> **Traduction : c'est le même périmètre FIC que ton event de mardi, mais en
+> présentiel, en petit comité, et avec une concurrence dix fois plus faible.**
+> Candidature = simple envoi de CV.
+
+**Action concrète :**
+
+- [ ] Surveiller l'ouverture de l'édition suivante sur **brightnetwork.co.uk**
+      (filtre Deutsche Bank) et sur **careers.db.com**
+- [ ] Demander à Kelvin s'il en a connaissance — un salarié voit passer ces
+      programmes en interne **avant** qu'ils ne soient publiés
+- [ ] Ne pas confondre avec le Spotlight FIC du 15/09, qui est virtuel et ouvert
+      à tous
+
+> 💡 **Le point qui vaut tout le reste :** DB a construit ces dispositifs parce
+> que la banque a un **problème de représentation qu'elle reconnaît
+> publiquement** et un objectif de recrutement associé. Un candidat noir
+> sérieux, techniquement solide, qui postule à un programme FIC, n'est pas en
+> train de demander une faveur — **il répond à un besoin que la banque a
+> chiffré et rendu public**. C'est un rapport de force très différent de celui
+> que tu imagines peut-être.
+
+## Message LinkedIn — Kelvin Asare (EN)
+
+Le métier d'abord, le réseau interne en question secondaire — jamais l'inverse.
+
+> Hi Kelvin,
+>
+> Calvin, finance student in Paris preparing for S&T graduate processes.
+>
+> I'm attending **DB's FIC Virtual Spotlight on Tuesday**. I noticed you're in
+> EM Sales — most students only ever hear about trading, so I'd be interested
+> in how a sales role actually differs day to day.
+>
+> Would **15 minutes before Monday** be possible? I'd also be curious about the
+> **networks inside the bank** — I've read about dbENRICH and the Black
+> Leadership Forum, and I'd like to know how visible they really are from a
+> desk.
+>
+> Happy to fit around your schedule.
+>
+> Best,
+> Calvin
+
+**Pourquoi cette construction fonctionne :**
+
+1. **Le métier d'abord** — tu es un candidat, pas un demandeur
+2. **« I've read about dbENRICH and the BLF »** — tu as fait le travail, tu
+   nommes les bons dispositifs. Ça te distingue de 99 % des étudiants
+3. **« how visible they really are from a desk »** — une **vraie** question,
+   à laquelle il peut répondre franchement
+4. **L'origine n'est jamais mentionnée** — et pourtant tout le monde a compris
+
+---
+
 # 3. Élargir : 4 messages ce soir, pas 1
 
 Avec 5 jours devant toi, **un seul message = un seul point de défaillance**.
@@ -198,7 +301,8 @@ premier qui répond.
 | 1 | **Alexis Bouvet** — Genève | **ESSCA + nouveau chez DB** | FR | CET ✅ |
 | 2 | **Jason Kong** — FX & Rates, HK | meilleure dispo | EN | HK, +6 h ✅ |
 | 2 | **Viraj Aggarwal** — Credit Trader, Londres | anglais FO | **EN** | Londres, −1 h |
-| 3 | **James Eardley** — Director STIR, US | desk le + proche du sujet | **EN** | US, −6 h |
+| 3 | **Kelvin Asare** — EM Sales, Londres | junior + réseaux internes | **EN** | Londres |
+| 4 | **Viraj Aggarwal** — Credit, Londres | anglais FO | **EN** | Londres |
 | 4 | **Kelvin Asare** — EM Sales, Londres | S&T, junior | **EN** | Londres |
 
 > 💡 **Jason Kong, que j'avais écarté à tort la dernière fois.** Hong Kong est
@@ -327,7 +431,9 @@ bonus, pas un prérequis. Plan de repli :
 8. **Jamais deux fois le même template.** Le 11 août, le même texte est parti à
    Yann (19h49) et Othmane (19h50). Zéro réponse. Un message qui pourrait être
    envoyé à n'importe qui ne sera lu par personne.
-9. **Contact chaud ≠ contact froid.** Avec quelqu'un que tu connais déjà, tu ne
+9. **Une origine partagée est une raison de répondre, jamais un argument à
+   avancer.** Elle joue à plein sans être nommée. Le sujet reste le métier.
+10. **Contact chaud ≠ contact froid.** Avec quelqu'un que tu connais déjà, tu ne
    remontes **jamais** d'un cran dans la demande (message → call). Tu restes au
    niveau déjà accepté et tu y mets du contenu. Et **jamais d'accroche de cold
    message** (« on a X relations en commun ») à quelqu'un qui a ton numéro.
@@ -337,7 +443,7 @@ bonus, pas un prérequis. Plan de repli :
 - [ ] **Alexis Bouvet** (FR) — §2 bis — *la meilleure probabilité de réponse*
 - [ ] **Jason Kong** (EN) — §3.2
 - [ ] **Viraj Aggarwal** (EN) — §3.1
-- [ ] **Kelvin Asare** (EN) — §3.3
+- [ ] **Kelvin Asare** (EN) — **§2 ter** (version enrichie, réseaux internes)
 - [ ] 🔒 **Ali** : rien, tu gères en direct
 - [ ] ❌ **Pas** de relance Yann · ❌ **Pas** de relance Othmane (le 16/09)
 - [ ] Message du 16/09 pour Yann préparé dans un brouillon

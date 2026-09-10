@@ -61,7 +61,7 @@ répondre en 48 h**.
 | **Natalja Zvonarjova** | **Early Careers Recruiter** DB | ⚠️ **Cas à part — voir §2.4.** C'est **la RH**. À ne contacter qu'**après** l'event, jamais avant. |
 | Jason Kong | FX & Rates Trader, Hong Kong | ✅ **Remonté en P1** (voir tableau du haut) — HK +6 h = la meilleure dispo du réseau. |
 | ~~Alexis Bouvet~~ | — | ✅ **Remonté en CIBLE N°1** (voir tableau du haut). Mon verdict initial « structurés ≠ FIC » était une erreur : ESSCA + arrivée récente chez DB priment sur le desk. |
-| Kelvin Asare | EM Sales, Londres | ✅ **Remonté en P2** — junior, donc réactif. Plan B §3.3. |
+| Kelvin Asare | EM Sales, Londres | ✅ **Remonté en P2** — junior donc réactif, et **porte d'entrée sur les réseaux internes DB** (dbENRICH, Black Leadership Forum) + le programme **Inspiring Black Future Leaders**. Plan B §2 ter. |
 | Othmane Kabbaj | ex-DB \| SGCIB \| Tikehau | ❌ **A ghosté** (même template que Yann, 11/08 19h50). Relance le 16/09 uniquement. |
 | Mian Zhang | Strat, Londres | Strat ≠ front trading. Utile pour un profil quant, pas pour ça. |
 
@@ -430,7 +430,7 @@ réussir le Superday ; le réseau sert à **l'obtenir**.
 - [ ] **Alexis Bouvet** (FR) — Plan B §2 bis — *meilleure proba de réponse*
 - [ ] **Jason Kong** (EN) — Plan B §3.2
 - [ ] **Viraj Aggarwal** (EN) — Plan B §3.1
-- [ ] **Kelvin Asare** (EN) — Plan B §3.3
+- [ ] **Kelvin Asare** (EN) — Plan B **§2 ter**
 - [ ] 🔒 **Ali** : rien, géré en direct par Calvin
 - [ ] ❌ **Pas** de relance Yann · ❌ **Pas** de relance Othmane (le 16/09)
 - [ ] Vocabulaire §4.1 lu à voix haute
