@@ -11,6 +11,12 @@ réponds **à voix haute**, tu t'enregistres. C'est tout.
 
 ---
 
+> 🎯 **À envoyer à Gemini : [`DOSSIER-GEMINI-complet.pdf`](DOSSIER-GEMINI-complet.pdf)**
+> (10 p. — cours bilingue + ShockDesk + protocole de simulation).
+> Le détail ShockDesk : [`SHOCKDESK-pitch-et-defense.md`](SHOCKDESK-pitch-et-defense.md)
+> — pitch de 60 s, **3 angles d'attaque à préparer**, et les questions d'Ali
+> reformulées autour du projet.
+>
 > 🚨 **Le plus important : [`COURS-URGENCE-bilingue.md`](COURS-URGENCE-bilingue.md)**
 > — cours FR/EN en 2 h + **[le PDF](COURS-URGENCE-bilingue.pdf) à envoyer à
 > Gemini** avec le protocole de simulation d'entretien (Partie 5).
