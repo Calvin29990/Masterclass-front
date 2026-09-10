@@ -44,3 +44,5 @@ GitHub (natif), VS Code + *Markdown Preview Enhanced*, Obsidian, ou :
 ```bash
 pandoc cours/J01-parite-forward-black-scholes.md -o J01.pdf --pdf-engine=xelatex
 ```
+
+- [`PLAN-10-au-16-09.md`](PLAN-10-au-16-09.md) — plan allégé de la semaine event (1 h/jour : 20 min anglais + 40 min cours). Reprise du programme J2 le 16/09.
