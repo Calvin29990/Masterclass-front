@@ -11,6 +11,10 @@ réponds **à voix haute**, tu t'enregistres. C'est tout.
 
 ---
 
+> 📘 **Commence par [`BASES-vocabulaire-et-cours.md`](BASES-vocabulaire-et-cours.md)** —
+> vocabulaire FO (12 mots essentiels, marché, desk, phrases de secours) et tout
+> J1 résumé en une page. **Lis-la à voix haute avant le premier audio.**
+
 ## Le protocole — 20 min/jour, du 10 au 15
 
 1. **Écoute une question** (ne la lis pas d'abord)
