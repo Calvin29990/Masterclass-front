@@ -59,63 +59,95 @@ un joker pour un mock call.
 
 ---
 
-# 2. La nouvelle cible : Ali Megarni
+# 2. Ali — même personne, et on ne demande PAS de call
 
-Yann était le choix n°1 sur le papier. Sans lui, **Ali Megarni devient ta
-meilleure carte**, et il est objectivement presque aussi bon :
+> ⚠️ **Correction du 10/09 (2e passe).** « Ali Megarni » et « Ali Deutsche »
+> sont **la même personne**. Ton réseau DB compte donc **9 contacts, pas 10**.
+> Vous êtes **déjà en conversation WhatsApp**, vous vous **tutoyez**, et la
+> conversation s'est close sur : **appel uniquement si ça se concrétise**.
 
-| Critère | Ali Megarni |
-|---|---|
-| Poste | **Sales & Trading \| Deutsche Bank \| Crédit Agricole** |
-| Lieu | **Paris** — même fuseau, mock call facile |
-| Relations communes | **231** — le plus élevé de tout ton réseau DB |
-| Séniorité | profil **junior/mid** → **beaucoup plus disponible** qu'un VP |
-| Pertinence event | S&T, donc directement dans le périmètre FIC |
+**Conséquences directes :**
 
-> **Le paradoxe du networking que personne ne t'a dit :** un profil **junior
-> répond 3 à 5 fois plus** qu'un VP ou un Director. Il se souvient d'avoir été à
-> ta place il y a deux ans, il a moins de sollicitations, et il a encore le
-> temps. **Vise le junior, pas le titre.**
+1. ❌ **Aucun message LinkedIn de premier contact.** Lui écrire « on a 231
+   relations en commun » alors qu'il a ton numéro te ferait passer pour
+   quelqu'un qui déroule un script.
+2. ❌ **Aucune demande d'appel.** C'est le point qui a été acté entre vous.
+   Le redemander 5 jours après, c'est piétiner ce qui a été convenu — et c'est
+   le meilleur moyen d'abîmer ton joker Londres.
+3. ✅ **Mais tu peux poser une question par écrit.** Répondre à un message ne
+   lui coûte rien, ne rouvre aucune négociation, et te rapporte **l'essentiel
+   de la valeur d'un mock call**.
 
-## Le message à Ali Megarni — envoie ce soir
+## Le message WhatsApp — 4 lignes, tutoiement
 
-Corrigé de toutes les erreurs du message à Yann : court, daté, créneau précis,
-preuve de travail, sujet qui n'est pas « parlez-moi de vous ».
-
-> Bonjour Ali,
+> Salut Ali, j'espère que tu vas bien.
 >
-> Calvin, étudiant en finance de marché à Paris — on a 231 relations en commun,
+> Petite question rapide, pas besoin de call : je suis inscrit au **Spotlight
+> FIC de DB mardi soir**. J'ai préparé **2 questions** à poser pendant la
+> session, je voulais juste ton avis pour savoir si elles sonnent justes ou un
+> peu naïves.
+>
+> Je te les envoie ?
+
+**Pourquoi ça passe :**
+
+| Élément | Effet |
+|---|---|
+| **« pas besoin de call »** | désamorce d'entrée ce qui a été acté entre vous |
+| **4 lignes** | c'est un WhatsApp, pas une lettre de motivation |
+| **finit sur « Je te les envoie ? »** | un **oui/non**, coût de réponse ≈ 1 seconde |
+| **tu demandes un avis** | pas un service, pas une intro, pas un CV |
+| **aucune accroche artificielle** | il te connaît déjà : pas de « 231 relations » |
+
+**S'il dit oui** → tu colles tes 2 questions (§3 du kit event) telles quelles.
+Il te dira laquelle tombe à plat. **C'est ton mock call, en version écrite.**
+
+**S'il ne répond pas** → tu n'as rien perdu, rien forcé, et le joker reste
+entier pour Londres.
+
+> 🔑 **La règle à retenir :** avec un contact chaud, on ne remonte jamais d'un
+> cran dans la demande (message → call). On reste **au niveau déjà accepté**, et
+> on y met du contenu.
+
+---
+
+# 2 bis. Ta nouvelle cible francophone : Othmane Kabbaj
+
+Ali étant hors-jeu pour le mock call, il te faut un **francophone à Paris**.
+C'est Othmane.
+
+| Critère | Othmane Kabbaj |
+|---|---|
+| Parcours | **Deutsche Bank** · SGCIB · Tikehau |
+| Lieu | **Paris** — même fuseau |
+| Relations communes | **124** — 2e plus élevé de ton réseau |
+| Angle | il **a fait** DB puis en est parti → parole **libre**, sans filtre corporate |
+
+> **L'avantage que personne n'exploite :** un ex-DB te dira ce qu'un DB actuel
+> ne peut pas dire. Sur la culture du desk, sur ce qui marche vraiment en
+> entretien, sur les faiblesses de la banque. Et il est **flatté** qu'on
+> l'interroge sur un passage qu'on lui demande rarement.
+
+## Message LinkedIn — Othmane (FR, vouvoiement)
+
+> Bonjour Othmane,
+>
+> Calvin, étudiant en finance de marché à Paris. On a 124 relations en commun,
 > dont Alexis Planque.
 >
-> Je suis inscrit au **Spotlight FIC de Deutsche Bank mardi prochain (15/09)** et
-> je prépare mes questions. Je bosse en ce moment les produits de taux et je
-> monte un petit lab de pricing sur données réelles.
+> Je suis inscrit au **Spotlight FIC de Deutsche Bank mardi (15/09)** et je
+> prépare mes questions. Votre parcours m'intéresse justement parce que vous
+> avez vu DB **de l'intérieur puis de l'extérieur** — c'est un recul qu'on
+> trouve rarement.
 >
-> Auriez-vous **15 minutes d'ici lundi**, en visio ou au téléphone ? Deux
-> choses seulement : est-ce que mes 2 questions tiennent la route, et
-> qu'est-ce qui compte vraiment quand vous regardez un profil junior en S&T.
+> Auriez-vous **15 minutes d'ici lundi** ? Deux choses : est-ce que mes deux
+> questions tiennent la route, et ce que vous retenez de la culture S&T là-bas.
 >
-> **Mardi 18h, mercredi 12h30 ou jeudi 19h** me vont — mais dites-moi ce qui
-> vous arrange.
+> **Vendredi 18h, samedi 11h ou dimanche 18h** me vont — dites-moi ce qui vous
+> arrange.
 >
 > Merci beaucoup,
 > Calvin
-
-### Les 6 différences avec ton message à Yann
-
-| | Message Yann | Message Ali |
-|---|---|---|
-| Longueur | ~110 mots | **~85 mots, 4 paragraphes courts** |
-| Durée demandée | « un échange rapide » | **« 15 minutes »** |
-| Créneaux | aucun | **3 créneaux précis** |
-| Sujet | son parcours, son pivot | **tes questions à toi** |
-| Preuve de travail | aucune | **event + lab + taux** |
-| Accroche | « j'ai suivi votre parcours » | **« 231 relations, dont Alexis Planque »** |
-
-> **La règle des 3 créneaux** : ne demande jamais « êtes-vous disponible ? ».
-> Propose. Répondre « mercredi 12h30 » coûte 2 secondes ; trouver un créneau
-> soi-même coûte un effort mental — et c'est précisément là que le message
-> meurt.
 
 ---
 
@@ -127,7 +159,7 @@ premier qui répond.
 
 | # | Contact | Angle | Langue | Fuseau |
 |---|---|---|---|---|
-| 1 | **Ali Megarni** — S&T, Paris | mock call | FR | Paris ✅ |
+| 1 | **Othmane Kabbaj** — ex-DB, Paris | mock call FR | FR | Paris ✅ |
 | 2 | **Viraj Aggarwal** — Credit Trader, Londres | anglais FO | **EN** | Londres, −1 h |
 | 3 | **Jason Kong** — FX & Rates Trader, HK | anglais FO | **EN** | **HK : dispo le matin Paris** |
 | 4 | **Kelvin Asare** — EM Sales, Londres | S&T, junior | **EN** | Londres |
@@ -255,14 +287,19 @@ bonus, pas un prérequis. Plan de repli :
 5. **Toujours une preuve de travail.** Une ligne suffit : l'event, le lab, les taux.
 6. **Jamais deux relances identiques.** Le 2e message doit **citer le 1er**.
 7. **Vise le junior, pas le titre.** Un analyst répond, un MD lit en diagonale.
+8. **Contact chaud ≠ contact froid.** Avec quelqu'un que tu connais déjà, tu ne
+   remontes **jamais** d'un cran dans la demande (message → call). Tu restes au
+   niveau déjà accepté et tu y mets du contenu. Et **jamais d'accroche de cold
+   message** (« on a X relations en commun ») à quelqu'un qui a ton numéro.
 
 ## Checklist ce soir
 
-- [ ] **Ali Megarni** (FR) — §2
+- [ ] **Ali** — WhatsApp, 4 lignes, **aucune demande de call** — §2
+- [ ] **Othmane Kabbaj** (FR) — §2 bis
 - [ ] **Viraj Aggarwal** (EN) — §3.1
 - [ ] **Jason Kong** (EN) — §3.2
 - [ ] **Kelvin Asare** (EN) — §3.3
-- [ ] ❌ **Pas** de relance Yann · ❌ **Pas** de message à Ali (joker Londres)
+- [ ] ❌ **Pas** de relance Yann · ❌ **Pas** de demande d'appel à Ali
 - [ ] Message du 16/09 pour Yann préparé dans un brouillon
 
 **Si un seul répond, tu as ton mock call. S'il n'y en a aucun, tu as quand même

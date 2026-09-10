@@ -19,8 +19,10 @@
 ---
 
 > ⚠️ **MISE À JOUR 10/09 — la sélection de ce § a changé.**
-> **Yann Simo a ghosté** (2 messages en juillet/août, sans réponse) et **Ali
-> Deutsche reste intouché** (joker Londres physique).
+> **Yann Simo a ghosté** (2 messages en juillet/août, sans réponse).
+> **« Ali Megarni » et « Ali Deutsche » sont la même personne** → réseau DB =
+> **9 contacts**. Conversation WhatsApp déjà en cours, close sur « appel si ça
+> se concrétise » → **aucune demande de call**, juste une question écrite.
 > 👉 **Lis [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md)** : diagnostic du
 > ghosting, nouvelle cible (**Ali Megarni**), 4 messages à envoyer ce soir, et
 > le message de relance Yann pour le 16/09.
@@ -38,7 +40,8 @@ répondre en 48 h**.
 | # | Contact | Poste | Lieu | Pourquoi lui |
 |---|---|---|---|---|
 | ~~1~~ | ~~**Yann Simo**~~ | ~~VP, Rates Trader~~ | Paris | ❌ **A ghosté** (2 messages sans réponse). Ne pas relancer avant le 16/09 — voir Plan B §4. |
-| **1** | **Ali Megarni** | Sales & Trading, DB (ex-CACIB) | Paris | ✅ **Nouvelle cible n°1.** S&T pur, Paris, **231 relations communes**. Profil junior/mid = très accessible. |
+| ⚠️ | **Ali** (= « Ali Megarni » = « Ali Deutsche », **une seule personne**) | S&T, DB | Paris | 🔒 **Joker Londres.** Contact chaud (WhatsApp). **Pas de call**, uniquement une question écrite — Plan B §2. |
+| **1** | **Othmane Kabbaj** | ex-DB · SGCIB · Tikehau | Paris | ✅ **Nouvelle cible FR n°1.** 124 relations communes. Ex-DB = **parole libre** sur la culture du desk. Plan B §2 bis. |
 
 **Voir le Plan B : 4 messages ce soir**, pas un seul. Le premier qui répond prend le mock call.
 
@@ -101,11 +104,16 @@ répondre en 48 h**.
 
 </details>
 
-## 2.2 Ali Megarni — ✅ **cible n°1, envoie ce soir**
+## 2.2 ~~Ali Megarni~~ — ❌ **NE PAS ENVOYER** (contact chaud)
 
-> **Utilise la version améliorée du Plan B §2** : elle ajoute les 3 créneaux
-> précis et l'accroche « 231 relations, dont Alexis Planque ». Le texte
-> ci-dessous reste valable mais est moins efficace.
+> **Périmé au 10/09.** C'est **la même personne** qu'« Ali Deutsche », ton joker
+> Londres, et vous êtes **déjà sur WhatsApp**. Lui envoyer un message LinkedIn
+> de premier contact (« on a 231 relations en commun ») serait absurde, et la
+> conversation a été close sur **« appel si ça se concrétise »**.
+> 👉 Le bon message — WhatsApp, 4 lignes, **sans demande d'appel** — est dans
+> [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md) **§2**.
+
+<details><summary>Ancien message (ne pas envoyer)</summary>
 
 > Bonjour Ali,
 >
@@ -120,6 +128,8 @@ répondre en 48 h**.
 >
 > Merci beaucoup,
 > Calvin
+
+</details>
 
 ## 2.3 Viraj Aggarwal — **en anglais, envoie demain**
 
@@ -415,7 +425,8 @@ réussir le Superday ; le réseau sert à **l'obtenir**.
 ## Checklist — à cocher
 
 **Ce soir (10/09)** — voir [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md)
-- [ ] **Ali Megarni** (FR) — Plan B §2
+- [ ] **Ali** — WhatsApp, sans demande de call — Plan B §2
+- [ ] **Othmane Kabbaj** (FR) — Plan B §2 bis
 - [ ] **Viraj Aggarwal** (EN) — Plan B §3.1
 - [ ] **Jason Kong** (EN) — Plan B §3.2
 - [ ] **Kelvin Asare** (EN) — Plan B §3.3
