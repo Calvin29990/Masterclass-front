@@ -40,8 +40,9 @@ répondre en 48 h**.
 | # | Contact | Poste | Lieu | Pourquoi lui |
 |---|---|---|---|---|
 | ~~1~~ | ~~**Yann Simo**~~ | ~~VP, Rates Trader~~ | Paris | ❌ **A ghosté** (2 messages sans réponse). Ne pas relancer avant le 16/09 — voir Plan B §4. |
-| ⚠️ | **Ali** (= « Ali Megarni » = « Ali Deutsche », **une seule personne**) | S&T, DB | Paris | 🔒 **Joker Londres.** Contact chaud (WhatsApp). **Pas de call**, uniquement une question écrite — Plan B §2. |
-| **1** | **Othmane Kabbaj** | ex-DB · SGCIB · Tikehau | Paris | ✅ **Nouvelle cible FR n°1.** 124 relations communes. Ex-DB = **parole libre** sur la culture du desk. Plan B §2 bis. |
+| 🔒 | **Ali** | S&T, DB | Paris | 🔒 **Intouchable — géré en direct par Calvin.** Aucun message de ce kit ne le concerne. |
+| ❌ | **Othmane Kabbaj** | ex-DB · SGCIB · Tikehau | Paris | ❌ **A ghosté aussi** (même template que Yann, 11/08). Relance le 16/09. |
+| **1** | **Jason Kong** | FX & Rates Trader | **Hong Kong** | ✅ **Cible n°1.** +6 h → 9h Paris = 15h chez lui, **la meilleure dispo du réseau**. FX & Rates = pile le sujet. |
 
 **Voir le Plan B : 4 messages ce soir**, pas un seul. Le premier qui répond prend le mock call.
 
@@ -57,10 +58,10 @@ répondre en 48 h**.
 | Contact | Poste | Verdict |
 |---|---|---|
 | **Natalja Zvonarjova** | **Early Careers Recruiter** DB | ⚠️ **Cas à part — voir §2.4.** C'est **la RH**. À ne contacter qu'**après** l'event, jamais avant. |
-| Jason Kong | FX & Rates Trader, Hong Kong | ✅ **Remonté en P2** — HK est +6 h : quand il est 9h à Paris, il est 15h chez lui, **le créneau le plus disponible de ton réseau**. Voir Plan B §3.2. |
+| Jason Kong | FX & Rates Trader, Hong Kong | ✅ **Remonté en P1** (voir tableau du haut) — HK +6 h = la meilleure dispo du réseau. |
 | Alexis Bouvet | Structured Products, Genève | Pertinent pour ton desk n°1 (equity derivatives / structurés), **pas pour un event FIC**. Contacte-le en octobre. |
-| Kelvin Asare | EM Sales, Londres | EM = niche. Utile plus tard. |
-| Othmane Kabbaj | DB \| SGCIB \| Tikehau | Poste actuel ambigu (peut-être plus chez DB). Faible priorité. |
+| Kelvin Asare | EM Sales, Londres | ✅ **Remonté en P2** — junior, donc réactif. Plan B §3.3. |
+| Othmane Kabbaj | ex-DB \| SGCIB \| Tikehau | ❌ **A ghosté** (même template que Yann, 11/08 19h50). Relance le 16/09 uniquement. |
 | Mian Zhang | Strat, Londres | Strat ≠ front trading. Utile pour un profil quant, pas pour ça. |
 
 > ⚠️ **Règle absolue :** tu ne demandes **jamais** un stage ni une
@@ -425,12 +426,11 @@ réussir le Superday ; le réseau sert à **l'obtenir**.
 ## Checklist — à cocher
 
 **Ce soir (10/09)** — voir [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md)
-- [ ] **Ali** — WhatsApp, sans demande de call — Plan B §2
-- [ ] **Othmane Kabbaj** (FR) — Plan B §2 bis
+- [ ] **Jason Kong** (EN) — Plan B §3.2 — *meilleure proba de réponse*
 - [ ] **Viraj Aggarwal** (EN) — Plan B §3.1
-- [ ] **Jason Kong** (EN) — Plan B §3.2
 - [ ] **Kelvin Asare** (EN) — Plan B §3.3
-- [ ] ❌ **Pas** de relance Yann · ❌ **Pas** de message à Ali Deutsche (joker)
+- [ ] 🔒 **Ali** : rien, géré en direct par Calvin
+- [ ] ❌ **Pas** de relance Yann · ❌ **Pas** de relance Othmane (le 16/09)
 - [ ] Vocabulaire §4.1 lu à voix haute
 
 **Demain (11/09)**
