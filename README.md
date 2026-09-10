@@ -21,6 +21,15 @@ On avance **cours par cours** (un jour = un fichier). Voir [`cours/`](cours/).
 
 Planning révisé au 06/09 : [`cours/PLAN-rattrapage-06-09.md`](cours/PLAN-rattrapage-06-09.md)
 
+---
+
+## 🔴 PRIORITÉ — Event Deutsche Bank FIC, mardi 15/09/2026 (18:00 Paris)
+
+👉 [**`reseau/URGENCE-deutsche-bank-15-09.md`**](reseau/URGENCE-deutsche-bank-15-09.md)
+
+Sélection réseau DB · messages prêts à envoyer · 3 questions chiffrées pour
+l'event · mock call en anglais Front Office · checklist jour J.
+
 ```bash
 python3 livrables/j01_bs_closed_form.py        # auto-tests (doivent tous être OK)
 python3 livrables/j01_bs_closed_form.py --td   # corrigé du TD
