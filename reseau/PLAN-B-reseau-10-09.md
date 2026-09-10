@@ -109,20 +109,81 @@ Simo le 11 août à 19h49** — une minute plus tôt.
    11 août.** Écrire « nous ne nous connaissons pas » à quelqu'un à qui tu l'as
    déjà écrit, c'est ce qui a tué la relance de Yann.
 
-## Il ne reste aucun francophone Paris disponible
+## ✅ Le francophone qu'on avait mal évalué : Alexis Bouvet
+
+Je l'avais écarté (« structurés ≠ FIC »). **C'était une erreur d'analyse** :
+j'ai jugé le desk, pas la situation. Trois facteurs se cumulent et en font
+**ta meilleure cible, tous contacts confondus**.
+
+| Facteur | Détail | Pourquoi ça compte |
+|---|---|---|
+| 🎓 **ESSCA** | **Même école que toi** | Le seul lien qu'aucun autre contact n'a. Un alumni répond par réflexe, pas par calcul. |
+| 🆕 **Arrivé en août 2026** | **2 mois d'ancienneté** chez DB Genève | Il est **en phase d'intégration** : il découvre encore la banque, il n'est pas saturé de sollicitations, et il se souvient **parfaitement** du process de recrutement. |
+| 🕐 **Genève = CET** | **Même fuseau** que Paris | Aucune gymnastique d'horaires. |
+| 📣 **Post d'annonce il y a 1 mois** | 197 réactions | **Prétexte d'écriture en or** — et il expire : au-delà de ~3 mois, féliciter devient bizarre. |
+
+> **Le renversement complet de mon raisonnement :** j'avais raisonné « quel desk
+> ? ». La bonne question est « **qui a une raison de répondre ?** ».
+> Un VP Rates parfaitement pertinent qui ne répond pas vaut **zéro**.
+> Un spécialiste structurés ESSCA, arrivé il y a 2 mois, dans ton fuseau, qui
+> répond, vaut **infiniment plus**.
+
+**Et « structurés ≠ FIC » est une objection plus faible qu'elle n'en a l'air :**
+il est chez **Deutsche Bank**, il a passé **le process DB récemment**, il
+connaît la culture maison et l'organisation. Pour préparer un event DB et un
+mock call, c'est **exactement** ce qu'il te faut. Tu ne lui demandes pas un
+cours sur les swaps.
+
+### Message LinkedIn — Alexis Bouvet
+
+> Bonjour Alexis,
+>
+> Calvin, **également passé par l'ESSCA**, aujourd'hui en finance de marché à
+> Paris.
+>
+> **Félicitations pour votre arrivée chez Deutsche Bank** — j'ai vu votre post,
+> Genève et les structurés, beau move.
+>
+> Je suis inscrit au **Spotlight FIC de DB mardi prochain (15/09)** et je
+> prépare mes questions. Comme vous avez fait le process récemment, votre
+> regard m'intéresse beaucoup plus que celui de quelqu'un qui est là depuis
+> dix ans.
+>
+> Auriez-vous **15 minutes d'ici lundi** ? Deux choses : est-ce que mes deux
+> questions tiennent la route, et ce qui vous a le plus surpris en arrivant
+> chez DB.
+>
+> **Vendredi 18h, samedi 11h ou dimanche 18h** me vont — dites-moi ce qui vous
+> arrange.
+>
+> Merci beaucoup,
+> Calvin
+
+**Les 4 leviers de ce message :**
+
+1. **« également passé par l'ESSCA »** en première ligne — le lien avant tout
+2. **Félicitations sincères et datées** — tu as vu son post, tu n'es pas un bot
+3. **« comme vous avez fait le process récemment »** — tu transformes son
+   faible ancienneté, qui pourrait sembler un handicap, en **son atout unique**
+4. **« ce qui vous a le plus surpris »** — question à laquelle il a *envie* de
+   répondre, parce qu'il y pense encore tous les jours
+
+> ⚠️ **Vérifie une chose avant d'envoyer :** Alexis fait-il partie des contacts
+> qui ont reçu le template du 11/08 ? Si oui, ajoute une ligne : « je vous
+> avais écrit en août sans grand succès — je m'y prends mieux cette fois ».
+> L'auto-dérision passe très bien entre alumni.
+
+## État réel du réseau DB
 
 | Contact | Statut |
 |---|---|
+| **Alexis Bouvet** — Structurés, Genève | ✅ **CIBLE N°1** — ESSCA + nouveau + même fuseau |
 | Ali | 🔒 intouchable — géré par toi |
 | Yann Simo | ❌ ghosté — relance le 16/09 |
 | Othmane Kabbaj | ❌ ghosté — relance le 16/09 |
-| **Alexis Bouvet** — Structured Products, **Genève** | ⚠️ dernier francophone, **même fuseau**, 66 relations communes. Mais **structurés ≠ FIC** : utile pour parler métier en français, peu utile pour l'event. |
-
-> **Conclusion : le mock call se fera en anglais, ou ne se fera pas.**
-> Et ce n'est pas un mauvais résultat — **l'anglais Front Office est
-> précisément le trou que tu as identifié.** Un mock call en français t'aurait
-> rassuré ; un mock call en anglais t'aurait servi. Le hasard te force sur le
-> bon exercice.
+| Jason Kong (HK) | ✅ cible n°2 — meilleure dispo horaire |
+| Viraj Aggarwal (Londres) | ✅ anglais FO |
+| Kelvin Asare (Londres) | ✅ junior, réactif |
 
 ---
 
@@ -134,7 +195,8 @@ premier qui répond.
 
 | # | Contact | Angle | Langue | Fuseau |
 |---|---|---|---|---|
-| 1 | **Jason Kong** — FX & Rates, HK | **meilleure dispo** | EN | HK, +6 h ✅ |
+| 1 | **Alexis Bouvet** — Genève | **ESSCA + nouveau chez DB** | FR | CET ✅ |
+| 2 | **Jason Kong** — FX & Rates, HK | meilleure dispo | EN | HK, +6 h ✅ |
 | 2 | **Viraj Aggarwal** — Credit Trader, Londres | anglais FO | **EN** | Londres, −1 h |
 | 3 | **James Eardley** — Director STIR, US | desk le + proche du sujet | **EN** | US, −6 h |
 | 4 | **Kelvin Asare** — EM Sales, Londres | S&T, junior | **EN** | Londres |
@@ -272,7 +334,8 @@ bonus, pas un prérequis. Plan de repli :
 
 ## Checklist ce soir
 
-- [ ] **Jason Kong** (EN) — §3.2 — *la meilleure probabilité de réponse*
+- [ ] **Alexis Bouvet** (FR) — §2 bis — *la meilleure probabilité de réponse*
+- [ ] **Jason Kong** (EN) — §3.2
 - [ ] **Viraj Aggarwal** (EN) — §3.1
 - [ ] **Kelvin Asare** (EN) — §3.3
 - [ ] 🔒 **Ali** : rien, tu gères en direct

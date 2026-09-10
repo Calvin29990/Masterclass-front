@@ -42,7 +42,8 @@ répondre en 48 h**.
 | ~~1~~ | ~~**Yann Simo**~~ | ~~VP, Rates Trader~~ | Paris | ❌ **A ghosté** (2 messages sans réponse). Ne pas relancer avant le 16/09 — voir Plan B §4. |
 | 🔒 | **Ali** | S&T, DB | Paris | 🔒 **Intouchable — géré en direct par Calvin.** Aucun message de ce kit ne le concerne. |
 | ❌ | **Othmane Kabbaj** | ex-DB · SGCIB · Tikehau | Paris | ❌ **A ghosté aussi** (même template que Yann, 11/08). Relance le 16/09. |
-| **1** | **Jason Kong** | FX & Rates Trader | **Hong Kong** | ✅ **Cible n°1.** +6 h → 9h Paris = 15h chez lui, **la meilleure dispo du réseau**. FX & Rates = pile le sujet. |
+| **1** | **Alexis Bouvet** | Structured Products Specialist | **Genève** | ✅ **CIBLE N°1.** **ESSCA comme toi** · arrivé chez DB en **août 2026 (2 mois)** donc process récent en tête et peu sollicité · **même fuseau** · post d'annonce d'il y a 1 mois = prétexte parfait. Plan B §2 bis. |
+| **2** | **Jason Kong** | FX & Rates Trader | **Hong Kong** | ✅ +6 h → 9h Paris = 15h chez lui, meilleure dispo horaire. FX & Rates = pile le sujet. |
 
 **Voir le Plan B : 4 messages ce soir**, pas un seul. Le premier qui répond prend le mock call.
 
@@ -59,7 +60,7 @@ répondre en 48 h**.
 |---|---|---|
 | **Natalja Zvonarjova** | **Early Careers Recruiter** DB | ⚠️ **Cas à part — voir §2.4.** C'est **la RH**. À ne contacter qu'**après** l'event, jamais avant. |
 | Jason Kong | FX & Rates Trader, Hong Kong | ✅ **Remonté en P1** (voir tableau du haut) — HK +6 h = la meilleure dispo du réseau. |
-| Alexis Bouvet | Structured Products, Genève | Pertinent pour ton desk n°1 (equity derivatives / structurés), **pas pour un event FIC**. Contacte-le en octobre. |
+| ~~Alexis Bouvet~~ | — | ✅ **Remonté en CIBLE N°1** (voir tableau du haut). Mon verdict initial « structurés ≠ FIC » était une erreur : ESSCA + arrivée récente chez DB priment sur le desk. |
 | Kelvin Asare | EM Sales, Londres | ✅ **Remonté en P2** — junior, donc réactif. Plan B §3.3. |
 | Othmane Kabbaj | ex-DB \| SGCIB \| Tikehau | ❌ **A ghosté** (même template que Yann, 11/08 19h50). Relance le 16/09 uniquement. |
 | Mian Zhang | Strat, Londres | Strat ≠ front trading. Utile pour un profil quant, pas pour ça. |
@@ -426,7 +427,8 @@ réussir le Superday ; le réseau sert à **l'obtenir**.
 ## Checklist — à cocher
 
 **Ce soir (10/09)** — voir [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md)
-- [ ] **Jason Kong** (EN) — Plan B §3.2 — *meilleure proba de réponse*
+- [ ] **Alexis Bouvet** (FR) — Plan B §2 bis — *meilleure proba de réponse*
+- [ ] **Jason Kong** (EN) — Plan B §3.2
 - [ ] **Viraj Aggarwal** (EN) — Plan B §3.1
 - [ ] **Kelvin Asare** (EN) — Plan B §3.3
 - [ ] 🔒 **Ali** : rien, géré en direct par Calvin
