@@ -11,9 +11,13 @@ réponds **à voix haute**, tu t'enregistres. C'est tout.
 
 ---
 
-> 📘 **Commence par [`BASES-vocabulaire-et-cours.md`](BASES-vocabulaire-et-cours.md)** —
-> vocabulaire FO (12 mots essentiels, marché, desk, phrases de secours) et tout
-> J1 résumé en une page. **Lis-la à voix haute avant le premier audio.**
+> 🚨 **Le plus important : [`COURS-URGENCE-bilingue.md`](COURS-URGENCE-bilingue.md)**
+> — cours FR/EN en 2 h + **[le PDF](COURS-URGENCE-bilingue.pdf) à envoyer à
+> Gemini** avec le protocole de simulation d'entretien (Partie 5).
+>
+> 📘 **Ou plus court : [`BASES-vocabulaire-et-cours.md`](BASES-vocabulaire-et-cours.md)** —
+> commence par [`BASES-vocabulaire-et-cours.md`](BASES-vocabulaire-et-cours.md)** —
+> vocabulaire FO et J1 en une page. **À lire à voix haute.**
 
 ## Le protocole — 20 min/jour, du 10 au 15
 
