@@ -111,35 +111,42 @@ Simo le 11 août à 19h49** — une minute plus tôt.
 
 ## ✅ Le francophone qu'on avait mal évalué : Alexis Bouvet
 
-Je l'avais écarté (« structurés ≠ FIC »). **C'était une erreur d'analyse** :
-j'ai jugé le desk, pas la situation. Trois facteurs se cumulent et en font
-**ta meilleure cible, tous contacts confondus**.
+> 🛑 **Correction du 10/09.** J'avais écrit qu'Alexis et toi partagiez l'ESSCA.
+> **C'est faux : Calvin est à SKEMA Business School** (PGE M2 + MSc Corporate
+> Financial Management). J'ai inventé un lien qui n'existe pas — le message
+> précédent aurait été embarrassant à envoyer. **Ne jamais affirmer un lien
+> d'école sans l'avoir lu sur le profil.**
 
-| Facteur | Détail | Pourquoi ça compte |
-|---|---|---|
-| 🎓 **ESSCA** | **Même école que toi** | Le seul lien qu'aucun autre contact n'a. Un alumni répond par réflexe, pas par calcul. |
-| 🆕 **Arrivé en août 2026** | **2 mois d'ancienneté** chez DB Genève | Il est **en phase d'intégration** : il découvre encore la banque, il n'est pas saturé de sollicitations, et il se souvient **parfaitement** du process de recrutement. |
-| 🕐 **Genève = CET** | **Même fuseau** que Paris | Aucune gymnastique d'horaires. |
-| 📣 **Post d'annonce il y a 1 mois** | 197 réactions | **Prétexte d'écriture en or** — et il expire : au-delà de ~3 mois, féliciter devient bizarre. |
+### ⚠️ À vérifier en 10 secondes avant d'envoyer
 
-> **Le renversement complet de mon raisonnement :** j'avais raisonné « quel desk
-> ? ». La bonne question est « **qui a une raison de répondre ?** ».
-> Un VP Rates parfaitement pertinent qui ne répond pas vaut **zéro**.
-> Un spécialiste structurés ESSCA, arrivé il y a 2 mois, dans ton fuseau, qui
-> répond, vaut **infiniment plus**.
+Sur la capture de son profil, l'encart LinkedIn **« Personnes que vous pourriez
+connaître — *De l'école de Alexis* »** propose notamment **Baptiste Lhonneur,
+Analyst Private Equity, SKEMA Business School**.
 
-**Et « structurés ≠ FIC » est une objection plus faible qu'elle n'en a l'air :**
-il est chez **Deutsche Bank**, il a passé **le process DB récemment**, il
-connaît la culture maison et l'organisation. Pour préparer un event DB et un
-mock call, c'est **exactement** ce qu'il te faut. Tu ne lui demandes pas un
-cours sur les swaps.
+**LinkedIn ne suggère ce bloc que sur la base de l'école déclarée d'Alexis.**
+Il est donc possible qu'**Alexis soit lui-même passé par SKEMA** — auquel cas
+le lien alumni existe vraiment, mais dans l'autre sens que ce que j'avais écrit.
 
-### Message LinkedIn — Alexis Bouvet
+> 👉 **Ouvre son profil, section *Formation*.**
+> — **SKEMA confirmé** → utilise la **variante A** (alumni)
+> — **Autre école** → utilise la **variante B** (sans école), qui reste
+> excellente
+
+Ce qui reste vrai et solide dans tous les cas :
+
+| Facteur | Détail |
+|---|---|
+| 🆕 **Arrivé en août 2026** | **2 mois** chez DB Genève : peu sollicité, process de recrutement encore frais |
+| 🕐 **Genève = CET** | même fuseau que Paris |
+| 📣 **Post d'annonce il y a 1 mois** | 197 réactions — prétexte d'écriture qui expire vers 3 mois |
+| 🏦 **Il est chez DB** | il connaît la culture maison, c'est tout ce qu'il te faut |
+
+### Variante A — si son profil affiche SKEMA
 
 > Bonjour Alexis,
 >
-> Calvin, **également passé par l'ESSCA**, aujourd'hui en finance de marché à
-> Paris.
+> Calvin, **également passé par SKEMA**, aujourd'hui en dernière année (PGE M2
+> + MSc Corporate Financial Management) à Paris.
 >
 > **Félicitations pour votre arrivée chez Deutsche Bank** — j'ai vu votre post,
 > Genève et les structurés, beau move.
@@ -159,25 +166,52 @@ cours sur les swaps.
 > Merci beaucoup,
 > Calvin
 
-**Les 4 leviers de ce message :**
+### Variante B — si aucune école commune *(par défaut)*
 
-1. **« également passé par l'ESSCA »** en première ligne — le lien avant tout
-2. **Félicitations sincères et datées** — tu as vu son post, tu n'es pas un bot
-3. **« comme vous avez fait le process récemment »** — tu transformes son
-   faible ancienneté, qui pourrait sembler un handicap, en **son atout unique**
-4. **« ce qui vous a le plus surpris »** — question à laquelle il a *envie* de
-   répondre, parce qu'il y pense encore tous les jours
+On remplace le lien d'école par une **preuve de travail**, qui vaut au moins
+autant : tu as déjà pricé des options et manipulé des courbes Bloomberg.
 
-> ⚠️ **Vérifie une chose avant d'envoyer :** Alexis fait-il partie des contacts
-> qui ont reçu le template du 11/08 ? Si oui, ajoute une ligne : « je vous
-> avais écrit en août sans grand succès — je m'y prends mieux cette fois ».
-> L'auto-dérision passe très bien entre alumni.
+> Bonjour Alexis,
+>
+> Calvin, étudiant en dernière année à **SKEMA** (PGE M2 + MSc Corporate
+> Financial Management), en finance de marché à Paris.
+>
+> **Félicitations pour votre arrivée chez Deutsche Bank** — j'ai vu votre post,
+> Genève et les structurés, beau move.
+>
+> Je suis inscrit au **Spotlight FIC de DB mardi prochain (15/09)** et je
+> prépare mes questions. J'ai construit un pricer Black-Scholes et travaillé
+> les courbes Bloomberg en stage, mais sur la réalité d'un desk je préfère
+> demander à quelqu'un qui y est.
+>
+> Comme vous avez fait le process récemment, votre regard m'intéresse beaucoup
+> plus que celui de quelqu'un qui est là depuis dix ans. Auriez-vous
+> **15 minutes d'ici lundi** ? Est-ce que mes deux questions tiennent la route,
+> et ce qui vous a le plus surpris en arrivant chez DB.
+>
+> **Vendredi 18h, samedi 11h ou dimanche 18h** me vont — dites-moi ce qui vous
+> arrange.
+>
+> Merci beaucoup,
+> Calvin
+
+**Les 4 leviers, communs aux deux variantes :**
+
+1. **Félicitations datées** — tu as vu son post, tu n'es pas un bot
+2. **« comme vous avez fait le process récemment »** — ses 2 mois d'ancienneté
+   deviennent **son atout unique** au lieu d'un handicap
+3. **« ce qui vous a le plus surpris »** — il y pense encore tous les jours
+4. **3 créneaux** — répondre coûte 2 secondes
+
+> ⚠️ **Et toujours :** s'il a reçu ton template du 11/08, ajoute
+> *« je vous avais écrit en août sans grand succès — je m'y prends mieux cette
+> fois »*. L'auto-dérision désamorce, le silence gêné non.
 
 ## État réel du réseau DB
 
 | Contact | Statut |
 |---|---|
-| **Alexis Bouvet** — Structurés, Genève | ✅ **CIBLE N°1** — ESSCA + nouveau + même fuseau |
+| **Alexis Bouvet** — Structurés, Genève | ✅ **CIBLE N°1** — arrivé chez DB en août, même fuseau |
 | Ali | 🔒 intouchable — géré par toi |
 | Yann Simo | ❌ ghosté — relance le 16/09 |
 | Othmane Kabbaj | ❌ ghosté — relance le 16/09 |
@@ -298,7 +332,7 @@ premier qui répond.
 
 | # | Contact | Angle | Langue | Fuseau |
 |---|---|---|---|---|
-| 1 | **Alexis Bouvet** — Genève | **ESSCA + nouveau chez DB** | FR | CET ✅ |
+| 1 | **Alexis Bouvet** — Genève | **nouveau chez DB** (école à vérifier) | FR | CET ✅ |
 | 2 | **Jason Kong** — FX & Rates, HK | meilleure dispo | EN | HK, +6 h ✅ |
 | 2 | **Viraj Aggarwal** — Credit Trader, Londres | anglais FO | **EN** | Londres, −1 h |
 | 3 | **Kelvin Asare** — EM Sales, Londres | junior + réseaux internes | **EN** | Londres |
@@ -431,16 +465,19 @@ bonus, pas un prérequis. Plan de repli :
 8. **Jamais deux fois le même template.** Le 11 août, le même texte est parti à
    Yann (19h49) et Othmane (19h50). Zéro réponse. Un message qui pourrait être
    envoyé à n'importe qui ne sera lu par personne.
-9. **Une origine partagée est une raison de répondre, jamais un argument à
+9. **Ne jamais affirmer un lien (école, promo, ancien employeur) sans l'avoir
+   lu sur le profil.** Un lien inventé se voit immédiatement et détruit le
+   message. Calvin est à **SKEMA**.
+10. **Une origine partagée est une raison de répondre, jamais un argument à
    avancer.** Elle joue à plein sans être nommée. Le sujet reste le métier.
-10. **Contact chaud ≠ contact froid.** Avec quelqu'un que tu connais déjà, tu ne
+11. **Contact chaud ≠ contact froid.** Avec quelqu'un que tu connais déjà, tu ne
    remontes **jamais** d'un cran dans la demande (message → call). Tu restes au
    niveau déjà accepté et tu y mets du contenu. Et **jamais d'accroche de cold
    message** (« on a X relations en commun ») à quelqu'un qui a ton numéro.
 
 ## Checklist ce soir
 
-- [ ] **Alexis Bouvet** (FR) — §2 bis — *la meilleure probabilité de réponse*
+- [ ] **Alexis Bouvet** (FR) — §2 bis — *vérifier son école, puis variante A ou B*
 - [ ] **Jason Kong** (EN) — §3.2
 - [ ] **Viraj Aggarwal** (EN) — §3.1
 - [ ] **Kelvin Asare** (EN) — **§2 ter** (version enrichie, réseaux internes)
