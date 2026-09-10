@@ -46,3 +46,4 @@ pandoc cours/J01-parite-forward-black-scholes.md -o J01.pdf --pdf-engine=xelatex
 ```
 
 - [`PLAN-10-au-16-09.md`](PLAN-10-au-16-09.md) — plan allégé de la semaine event (1 h/jour : 20 min anglais + 40 min cours). Reprise du programme J2 le 16/09.
+- [`COURS-URGENCE-2H.md`](COURS-URGENCE-2H.md) — **cours d'urgence FIC en 2 h** : 6 blocs (taux, obligations, dérivés fermes, options, vol, crédit/FX), images mentales + chiffres, 12 questions de contrôle. [PDF](COURS-URGENCE-2H.pdf)
