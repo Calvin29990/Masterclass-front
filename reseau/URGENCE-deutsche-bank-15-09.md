@@ -18,6 +18,15 @@
 
 ---
 
+> ⚠️ **MISE À JOUR 10/09 — la sélection de ce § a changé.**
+> **Yann Simo a ghosté** (2 messages en juillet/août, sans réponse) et **Ali
+> Deutsche reste intouché** (joker Londres physique).
+> 👉 **Lis [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md)** : diagnostic du
+> ghosting, nouvelle cible (**Ali Megarni**), 4 messages à envoyer ce soir, et
+> le message de relance Yann pour le 16/09.
+> Les §2 à §5 ci-dessous (questions event, mock call, protocole) restent
+> **valables tels quels**.
+
 # 1. Sélection réseau — hors Ali
 
 Tu as **9 contacts DB de 1er degré**. Tous ne se valent pas pour ce besoin
@@ -28,10 +37,10 @@ répondre en 48 h**.
 
 | # | Contact | Poste | Lieu | Pourquoi lui |
 |---|---|---|---|---|
-| **1** | **Yann Simo** | **VP, Rates Trader at DB** | **Paris** | **Le meilleur choix, de loin.** Rates = cœur du FIC. VP = assez senior pour compter, assez junior pour avoir du temps. **Paris = même fuseau**. Et surtout : **86 relations en commun**, donc tu n'es pas un inconnu. |
-| **2** | **Ali Megarni** | Sales & Trading, DB (ex-CACIB) | Paris | S&T pur, Paris, **231 relations communes** — c'est énorme. Profil junior/mid = très accessible. Parfait en **doublon** si Yann ne répond pas. |
+| ~~1~~ | ~~**Yann Simo**~~ | ~~VP, Rates Trader~~ | Paris | ❌ **A ghosté** (2 messages sans réponse). Ne pas relancer avant le 16/09 — voir Plan B §4. |
+| **1** | **Ali Megarni** | Sales & Trading, DB (ex-CACIB) | Paris | ✅ **Nouvelle cible n°1.** S&T pur, Paris, **231 relations communes**. Profil junior/mid = très accessible. |
 
-**Fais les deux ce soir.** Le premier qui répond prend le mock call.
+**Voir le Plan B : 4 messages ce soir**, pas un seul. Le premier qui répond prend le mock call.
 
 ## 🥈 Priorité 2 — l'anglais FO natif (le vrai trou dans ta prépa)
 
@@ -45,7 +54,7 @@ répondre en 48 h**.
 | Contact | Poste | Verdict |
 |---|---|---|
 | **Natalja Zvonarjova** | **Early Careers Recruiter** DB | ⚠️ **Cas à part — voir §2.4.** C'est **la RH**. À ne contacter qu'**après** l'event, jamais avant. |
-| Jason Kong | FX & Rates Trader, Hong Kong | FIC pertinent mais **fuseau HK** : compliqué à caler en 5 jours. Garde-le pour octobre. |
+| Jason Kong | FX & Rates Trader, Hong Kong | ✅ **Remonté en P2** — HK est +6 h : quand il est 9h à Paris, il est 15h chez lui, **le créneau le plus disponible de ton réseau**. Voir Plan B §3.2. |
 | Alexis Bouvet | Structured Products, Genève | Pertinent pour ton desk n°1 (equity derivatives / structurés), **pas pour un event FIC**. Contacte-le en octobre. |
 | Kelvin Asare | EM Sales, Londres | EM = niche. Utile plus tard. |
 | Othmane Kabbaj | DB \| SGCIB \| Tikehau | Poste actuel ambigu (peut-être plus chez DB). Faible priorité. |
@@ -61,7 +70,15 @@ répondre en 48 h**.
 
 # 2. Les messages — prêts à copier
 
-## 2.1 Yann Simo (LinkedIn ou WhatsApp si tu l'as) — **envoie ce soir**
+## 2.1 ~~Yann Simo~~ — ❌ **NE PAS ENVOYER** (a ghosté)
+
+> **Périmé au 10/09.** Yann n'a pas répondu à 2 messages. Un 3e avant l'event
+> te grillerait définitivement. Le bon message est celui du **16/09** :
+> voir [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md) §4.
+> Le texte ci-dessous est conservé uniquement comme **contre-exemple** — le
+> Plan B §1 explique en détail pourquoi il n'a pas fonctionné.
+
+<details><summary>Ancien message (ne pas envoyer)</summary>
 
 > Bonjour Yann,
 >
@@ -82,11 +99,13 @@ répondre en 48 h**.
 > Merci d'avance,
 > Calvin
 
-**Pourquoi ça marche :** court · pas de demande d'emploi · tu montres que tu
-travailles déjà · tu demandes un créneau minuscule · tu lui laisses le choix de
-l'horaire.
+</details>
 
-## 2.2 Ali Megarni — **envoie ce soir aussi**
+## 2.2 Ali Megarni — ✅ **cible n°1, envoie ce soir**
+
+> **Utilise la version améliorée du Plan B §2** : elle ajoute les 3 créneaux
+> précis et l'accroche « 231 relations, dont Alexis Planque ». Le texte
+> ci-dessous reste valable mais est moins efficace.
 
 > Bonjour Ali,
 >
@@ -395,14 +414,17 @@ réussir le Superday ; le réseau sert à **l'obtenir**.
 
 ## Checklist — à cocher
 
-**Ce soir (10/09)**
-- [ ] Message à **Yann Simo** (§2.1)
-- [ ] Message à **Ali Megarni** (§2.2)
+**Ce soir (10/09)** — voir [`PLAN-B-reseau-10-09.md`](PLAN-B-reseau-10-09.md)
+- [ ] **Ali Megarni** (FR) — Plan B §2
+- [ ] **Viraj Aggarwal** (EN) — Plan B §3.1
+- [ ] **Jason Kong** (EN) — Plan B §3.2
+- [ ] **Kelvin Asare** (EN) — Plan B §3.3
+- [ ] ❌ **Pas** de relance Yann · ❌ **Pas** de message à Ali Deutsche (joker)
 - [ ] Vocabulaire §4.1 lu à voix haute
 
 **Demain (11/09)**
-- [ ] Message à **Viraj Aggarwal** en anglais (§2.3)
 - [ ] *Tell me about yourself* enregistré 5 fois
+- [ ] Brouillon du message Yann pour le 16/09 (Plan B §4)
 
 **Avant le 15**
 - [ ] Mock call fait (ou reprogrammé)

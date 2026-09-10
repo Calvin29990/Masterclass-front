@@ -30,6 +30,9 @@ Planning révisé au 06/09 : [`cours/PLAN-rattrapage-06-09.md`](cours/PLAN-rattr
 Sélection réseau DB · messages prêts à envoyer · 3 questions chiffrées pour
 l'event · mock call en anglais Front Office · checklist jour J.
 
+⚠️ **Réseau mis à jour le 10/09** (Yann ghosté, Ali préservé) :
+👉 [`reseau/PLAN-B-reseau-10-09.md`](reseau/PLAN-B-reseau-10-09.md)
+
 ```bash
 python3 livrables/j01_bs_closed_form.py        # auto-tests (doivent tous être OK)
 python3 livrables/j01_bs_closed_form.py --td   # corrigé du TD
