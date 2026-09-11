@@ -68,6 +68,61 @@ Pearson met en ligne **gratuitement**, sans inscription :
 
 ---
 
+# 🔧 Tu as déjà le PDF anglais ? Traduis-le
+
+**C'est légal** : traduire pour ton usage personnel un fichier que tu possèdes
+relève de la copie privée. Ce qui ne l'est pas, c'est le télécharger sans
+l'acheter, ou le rediffuser.
+
+> ⛔ **N'utilise pas les liens de téléchargement type pdfcoffee, scribd ou les
+> redirections en `.biz` / `.org`.** Ce sont des fermes à malware, et le
+> téléchargement est traçable. Tu candidates dans une banque : ne laisse pas
+> traîner ça.
+
+## Le problème : 892 pages, ça ne passe nulle part
+
+DeepL plafonne à 10 Mo par fichier, Google Docs à 10 Mo aussi. Un Hull scanné
+fait 50 à 200 Mo. **Il faut le découper**, et c'est ce que fait l'outil :
+
+```bash
+pip install --break-system-packages pypdf
+
+# 1. voir la structure du fichier
+python3 tools/pdf_prep_traduction.py hull.pdf --sommaire
+
+# 2. n'extraire QUE les 7 chapitres qui comptent
+python3 tools/pdf_prep_traduction.py hull.pdf --chapitres 4 5 7 11 15 19 20
+
+# 3. ou juste une plage de pages
+python3 tools/pdf_prep_traduction.py hull.pdf --pages 88-130
+```
+
+Tu obtiens des morceaux de moins de 9 Mo, prêts à envoyer. L'outil garantit
+qu'**aucune page n'est perdue ni dupliquée**.
+
+## Où les envoyer
+
+| Service | Limite | Qualité |
+|---|---|---|
+| **DeepL** deepl.com/translator/files | 10 Mo · **5 fichiers/mois** en gratuit | ⭐ La meilleure, et de loin, sur le vocabulaire financier |
+| **Google Traduction** translate.google.com/?op=docs | 10 Mo · illimité | Correcte, mise en page souvent cassée |
+
+> 💡 **Stratégie avec les 5 fichiers gratuits DeepL :** ne traduis pas tout.
+> Passe **les chapitres 4, 5, 7, 11 et 15** — un par fichier. Ce sont les cinq
+> qui décident d'un entretien FIC. Le reste, tu le lis en anglais avec le
+> lexique ci-dessous.
+
+## ⚠️ Deux cas où ça ne marchera pas
+
+- **PDF avec DRM** (VitalSource, Adobe Digital Editions) : le fichier est
+  chiffré, aucun outil ne l'ouvrira. Lis-le dans l'appli de l'éditeur.
+- **PDF scanné** (des images, pas du texte) : la traduction automatique n'a rien
+  à se mettre sous la dent. Test rapide — si tu ne peux pas **sélectionner du
+  texte** à la souris dans le PDF, c'est un scan. Il faut alors passer par un
+  OCR avant.
+
+---
+
 # 🇬🇧 En attendant : lis l'anglais avec ce filet
 
 Tu dis « 50 % de compréhension ». **C'est faux, et voilà pourquoi.**
