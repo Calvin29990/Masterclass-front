@@ -124,3 +124,4 @@ vas les réciter au lieu de parler.
 - **coupon** /ˈkuːpɒn/ — pas « koupon »
 
 Et **basis point** se dit *« bip »* à l'oral. *"Twenty-five bips."*
+- [`PROMPT-GEMINI-simulation.md`](PROMPT-GEMINI-simulation.md) — 3 prompts a coller dans Gemini sans piece jointe : simulation FR avec escalade jusqu'au blocage, mode dur avec affirmations fausses a detecter, et version anglaise. Le fichier a utiliser pour s'entrainer a l'oral.
