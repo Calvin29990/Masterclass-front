@@ -102,6 +102,11 @@ Tu ne connais pas encore ces 13. **Voici comment les sortir en 10 minutes.**
 
 ---
 
+# ➡️ Vague 2 : [`VAGUE-2-messages-personnalises.md`](VAGUE-2-messages-personnalises.md)
+
+25 messages déjà écrits, un par profil, avec la recherche LinkedIn pour chacun.
+Registre des 12 contacts déjà écrits inclus — aucun doublon possible.
+
 # 📅 Les vagues suivantes
 
 Tu répètes chaque matin. Quand une source s'épuise, tu passes à la suivante.
