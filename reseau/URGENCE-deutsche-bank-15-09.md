@@ -29,6 +29,9 @@
 > Les §2 à §5 ci-dessous (questions event, mock call, protocole) restent
 > **valables tels quels**.
 
+> 🌊 **Routine quotidienne : [`VAGUES-linkedin-routine.md`](VAGUES-linkedin-routine.md)**
+> — 20 contacts par matin, 10 min chrono, 8 vagues planifiées.
+
 # 1. Sélection réseau — hors Ali
 
 Tu as **9 contacts DB de 1er degré**. Tous ne se valent pas pour ce besoin

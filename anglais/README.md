@@ -11,6 +11,10 @@ réponds **à voix haute**, tu t'enregistres. C'est tout.
 
 ---
 
+> 📋 **À lire avant chaque entretien : [`50-QUESTIONS-entretien.md`](50-QUESTIONS-entretien.md)**
+> ([PDF](50-QUESTIONS-entretien.pdf)) — 60 questions FR/EN de l'action à la
+> structuration + 10 sur ton profil, avec vocabulaire par bloc.
+>
 > 🎯 **À envoyer à Gemini : [`DOSSIER-GEMINI-complet.pdf`](DOSSIER-GEMINI-complet.pdf)**
 > (10 p. — cours bilingue + ShockDesk + protocole de simulation).
 > Le détail ShockDesk : [`SHOCKDESK-pitch-et-defense.md`](SHOCKDESK-pitch-et-defense.md)
