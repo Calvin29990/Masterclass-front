@@ -125,3 +125,4 @@ vas les réciter au lieu de parler.
 
 Et **basis point** se dit *« bip »* à l'oral. *"Twenty-five bips."*
 - [`PROMPT-GEMINI-simulation.md`](PROMPT-GEMINI-simulation.md) — 3 prompts a coller dans Gemini sans piece jointe : simulation FR avec escalade jusqu'au blocage, mode dur avec affirmations fausses a detecter, et version anglaise. Le fichier a utiliser pour s'entrainer a l'oral.
+- [`SIMULATION-call-CACIB.md`](SIMULATION-call-CACIB.md) / [`.pdf`](SIMULATION-call-CACIB.pdf) — prompt Gemini qui simule le call de reseau avec Romain Gueroult, eFX Sales CACIB Londres. Call de 15 min, pas un entretien technique : le personnage jauge s'il recommanderait, glisse du jargon de desk sans l'expliquer, et debriefe a la fin.
