@@ -75,12 +75,20 @@ those two meet. »*
 
 ---
 
-# 2. Ton Python — arrêter de parler comme un quant
+# 2. Ton Python — un atout, mal orienté
 
-## Le problème exact
+> ⚠️ **Correction d'une formulation trop brutale.** J'avais écrit ici « arrêter
+> de parler comme un quant ». C'était mal dit. **Tes compétences Python sont un
+> différenciateur rare** : la plupart des candidats sales n'ont jamais codé.
+> Tu ne dois surtout pas les cacher. Voir
+> [`SELIC-NDF-et-le-vrai-sujet-Python.md`](SELIC-NDF-et-le-vrai-sujet-Python.md).
+
+## Le problème exact — le signal, pas la compétence
 
 Tu as répondu **scikit-learn, SQL, BigQuery, prédiction de pics de vol**.
-Chaque mot est vrai. Et chaque mot t'éloigne du desk.
+Chaque mot est vrai, et la compétence derrière est réelle. Le problème est
+ailleurs : **ce vocabulaire dit à ton interlocuteur que tu vises un autre
+poste que le sien.**
 
 > Un sales qui entend « scikit-learn » pense : *« ce type veut aller en
 > quant research, pas chez moi. »* Il ne te recommandera pas — **pas parce que
@@ -93,7 +101,7 @@ de temps**.
 
 | ❌ Ce que tu as dit | ✅ Ce qu'il faut dire |
 |---|---|
-| « J'utilise scikit-learn sur des bases SQL » | « J'ai un script qui me sort en 2 secondes le carry et le point mort d'une paire » |
+| « J'utilise scikit-learn sur des bases SQL » | « J'ai automatisé des flux en BQL chez BPCE, et j'ai un script qui me sort le carry et le point mort d'une paire en 2 secondes » |
 | « J'anticipe les pics de volatilité sur le Brent » | « Quand le Brent bouge de 5 %, je sais tout de suite quelles paires EM sont touchées et dans quel sens » |
 | « J'ai backtesté une stratégie macro » | « J'ai appris que sur mes positions, le timing comptait plus que la direction » |
 
@@ -227,7 +235,7 @@ constraints — different enough that it's really a separate business? »*
 # Ta checklist pour la prochaine simulation
 
 1. ☐ **Nouvelle présentation** — angle Brésil en ouverture, 90 secondes chrono
-2. ☐ **Zéro nom de librairie.** Jamais « scikit-learn ». Dis ce que ça décide
+2. ☐ **Revendique ton Python**, mais dis ce qu'il décide sur un desk — pas quelle librairie
 3. ☐ **Réponse RFQ** : coter, ou coter large et escalader en parallèle
 4. ☐ **Un chiffre dans chaque réponse**
 5. ☐ **Finis tes phrases et tais-toi**
