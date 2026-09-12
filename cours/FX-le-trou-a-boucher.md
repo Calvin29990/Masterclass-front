@@ -94,11 +94,16 @@ exactement à ce niveau, tu encaisses la différence sans prendre de risque.
 
 ## 3. La règle de la devise forte — à connaître par cœur
 
-> **La devise au taux d'intérêt le plus élevé cote en report (*discount*) à
-> terme. La devise au taux le plus bas cote en déport (*premium*).**
+> **La devise au taux d'intérêt le plus élevé cote en déport (*at a discount*)
+> à terme. La devise au taux le plus bas cote en report (*at a premium*).**
 
-Ici le USD paye plus que l'EUR → le dollar est **plus faible en forward**
-(il faut 1,0904 USD pour un euro, contre 1,0850 aujourd'hui).
+Ici le USD paye plus que l'EUR → le dollar est **en déport**, donc plus faible
+en forward : il faut 1,0904 USD pour un euro à trois mois, contre 1,0850
+aujourd'hui. Symétriquement, l'euro cote **en report** contre dollar.
+
+> 🧠 **Le moyen mnémotechnique.** *Déport* contient *dé*, comme *décote*. La
+> devise qui paye le plus cher aujourd'hui vaut moins cher demain — sinon on
+> encaisserait le taux ET la devise, ce qui serait de l'argent gratuit.
 
 **Le raccourci mental :** le marché te reprend en forward ce que le taux
 d'intérêt te donne. Sinon, argent gratuit.
@@ -153,8 +158,8 @@ première et en **base** de la seconde, **tu multiplies**. Sinon tu divises.
 | **a pip** | un pip | Dernière décimale (0,0001 sauf JPY) |
 | **forward points** | les points de terme | L'écart forward − spot, en pips |
 | **a swap point** | un point de swap | Même chose, langage desk |
-| **at a premium** | en déport | Le forward est au-dessus du spot |
-| **at a discount** | en report | Le forward est en dessous du spot |
+| **at a premium** | en report | Le forward est au-dessus du spot |
+| **at a discount** | en déport | Le forward est en dessous du spot |
 | **a cross** | un cross | Paire sans USD (EUR/JPY, EUR/GBP) |
 
 ---
