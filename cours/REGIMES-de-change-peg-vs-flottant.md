@@ -1,13 +1,19 @@
-# Le Gabon — ton vrai storytelling FX
+# Le franc CFA — munition technique sur les régimes de change
 
-> **Tu n'as rien inventé, et tu n'as besoin de rien inventer.**
+> ⚠️ **AVERTISSEMENT — ce document a changé de statut.**
 >
-> Tu as dit au jury SKEMA que tu voulais développer le Gabon. C'était vrai.
-> Tu crois avoir « emmené le jury sur ton terrain » pour éviter la finance.
+> Il avait été écrit comme un storytelling personnel. **C'était une erreur**,
+> et tu l'as vue avant moi : mettre en avant une origine gabonaise fait
+> basculer ta lecture de « candidat français visant un desk à Londres » à
+> « profil Afrique », ce qui n'est pas ton objectif.
 >
-> En réalité tu leur as donné **la meilleure histoire FX qu'un candidat
-> français puisse raconter**, et tu ne le savais pas. Cette fiche te montre
-> pourquoi.
+> **Ne raconte jamais ce contenu comme ton histoire.** Il reste ici comme
+> **matériel technique** : un cas concret de régime de change fixe, à
+> mobiliser quand on te demande la différence entre un peg et un flottant,
+> sans jamais parler de toi.
+>
+> 👉 Pour le positionnement à adopter, lis
+> [`POSITIONNEMENT-ce-quon-raconte.md`](POSITIONNEMENT-ce-quon-raconte.md).
 
 ---
 
@@ -129,110 +135,10 @@ dévaluation n'était à l'ordre du jour.
 
 # 4. Ton histoire, à raconter telle quelle
 
-## La version longue — 90 secondes
-
-> *« Je suis d'origine gabonaise, et quand j'ai passé les oraux de SKEMA, j'ai
-> dit au jury que ce qui m'intéressait c'était le développement du Gabon. C'est
-> le sujet sur lequel j'avais quelque chose à dire, donc c'est celui que j'ai
-> mis en avant.
->
-> Ce que j'ai compris depuis, c'est que le problème que je décrivais était un
-> problème de change. Le Gabon vend son pétrole en dollars, mais sa monnaie est
-> arrimée à l'euro à parité fixe — 655,957 depuis 1999, et le pays ne peut pas
-> dévaluer. Donc quand l'EUR/USD bouge, la recette pétrolière en monnaie locale
-> bouge de dix pour cent sans qu'un seul baril de plus ne soit vendu. Et comme
-> le prix ne peut pas s'ajuster, ce sont les réserves de change qui absorbent :
-> elles sont passées sous quatre mois et demi d'importations, et la BEAC a dû
-> démentir une rumeur de dévaluation en janvier.
->
-> C'est comme ça que je suis arrivé au FX. Pas par une envie de trader, par une
-> question que je me posais depuis longtemps et dont j'ai fini par comprendre
-> que la réponse était monétaire. Le Brésil m'intéresse pour la raison inverse
-> : le réal flotte, la Selic est à quatorze, et tout l'ajustement passe par le
-> prix. Deux façons opposées de gérer un choc externe. »*
-
-## La version courte — 30 secondes, pour un call
-
-> *« Je suis d'origine gabonaise. Le Gabon vend son pétrole en dollars mais sa
-> monnaie est fixée à l'euro, et ne peut pas dévaluer. Donc tout le choc passe
-> par les réserves de change. C'est en creusant ça que je suis arrivé au FX
-> émergent — et c'est pour ça que le Brésil m'intéresse, parce que c'est le
-> cas opposé : monnaie flottante, tout s'ajuste par le prix. »*
-
-🇬🇧 **La version anglaise :**
-
-> *« I'm of Gabonese origin. Gabon sells oil in dollars but its currency is
-> pegged to the euro at a fixed rate, and it can't devalue — so the entire
-> adjustment goes through reserves rather than price. That's how I came to EM
-> FX. Brazil interests me for the opposite reason: the real floats, so
-> everything adjusts through the currency instead. »*
-
----
-
-# 4 bis. Ce que tu as vraiment fait à cet oral
-
-Tu m'as dit que tu n'avais jamais parlé de finance au jury, que tu ne pouvais
-pas tenir face à des pros, et que tu les avais emmenés sur ton terrain.
-
-**Ce n'est pas une esquive. C'est la compétence centrale du métier que tu
-vises.**
-
-Un oral d'admission ne mesure pas ce que tu sais. Il mesure si tu tiens une
-conversation et si tu as quelque chose à dire. Tu as fait deux choses justes,
-et dans le bon ordre :
-
-1. **Tu as évalué le rapport de force.** Parler marchés à des professionnels,
-   à ton niveau d'alors, c'était perdu d'avance.
-2. **Tu as choisi le terrain où tu avais un avantage réel.** Puis tu as tenu la
-   distance dessus.
-
-> 🔑 **C'est exactement ce qu'on demande à un sales.** Un client t'emmène sur un
-> sujet que tu maîtrises mal : tu ne bluffes pas, tu ramènes la conversation
-> vers ce que tu connais, et tu apportes de la valeur là. **Ça s'appelle
-> cadrer, pas esquiver.** Tu l'as fait à vingt ans sans que personne te
-> l'enseigne.
-
-## La distinction qui compte, et elle est nette
-
-| | |
-|---|---|
-| **Choisir quel sujet vrai mettre en avant** | ✅ Une compétence. C'est ce que tu as fait. |
-| **Fabriquer une expérience qu'on n'a pas** | ❌ Ce qui te grillerait. |
-
-Tu voulais réellement développer le Gabon. Tu n'as rien inventé — tu as
-sélectionné. **Garde exactement ce réflexe, et n'invente jamais rien.**
-
----
-
-# 5. Pourquoi cette histoire bat toutes les autres
-
-| Une histoire inventée | Ton histoire |
-|---|---|
-| Fragile à la deuxième question | **Inattaquable** — c'est ta vie |
-| Des milliers l'ont vécue | **Personne** n'a ce parcours |
-| Raconte une expérience | **Raconte une compréhension** |
-| S'arrête au récit | **Mène à une thèse de marché** |
-
-## Les quatre raisons pour lesquelles elle est excellente
-
-**1. Elle explique ta trajectoire.** On te demandera *« pourquoi la finance de
-marché après un parcours business school ? »*. Tu as la réponse : tu as
-commencé par une question de développement, et tu as découvert que la réponse
-était monétaire. **Personne ne peut sortir ça.**
-
-**2. Elle contient déjà une comparaison de régimes de change.** Peg contre
-flottant, Gabon contre Brésil. C'est un sujet de **deuxième année de desk**, et
-tu l'abordes par le vécu, pas par le manuel.
-
-**3. Elle rend ton Brésil crédible.** Le Brésil seul, c'est une anecdote. Le
-Brésil **comme contre-exemple du Gabon**, c'est une grille de lecture.
-
-**4. Elle est honnête sur ton point de départ.** Tu peux assumer d'être venu au
-FX par une question de développement plutôt que par une vocation de trader. Ça
-montre une progression réelle, et ça désarme la question *« pourquoi si
-tard ? »*.
-
----
+> ⚠️ **Les narrations personnelles qui figuraient ici ont été supprimées.**
+> Voir l'avertissement en tête de document : ce contenu ne doit pas être
+> raconté comme ta biographie. Utilise-le uniquement comme exemple de marché,
+> à la troisième personne.
 
 # 6. Les questions qu'on va te poser — et les réponses
 
@@ -267,12 +173,12 @@ tard ? »*.
 > dollars et des coûts en franc CFA. C'est un sujet de flux corporate plus que
 > de position directionnelle. »*
 
-**Q5. « Et le lien avec le Brésil ? »**
-> *« Ce sont les deux régimes opposés. Le Gabon a un peg et ne peut pas
-> ajuster par le prix, donc tout passe par les réserves. Le Brésil a une
-> monnaie flottante et une Selic à 14 %, donc tout passe par le prix et le
-> carry. Même choc externe, deux mécanismes d'absorption complètement
-> différents. C'est ça qui m'a donné envie de faire du FX émergent. »*
+**Q5. « Peg contre flottant, la différence ? »**
+> *« Ce sont deux régimes opposés. Une zone à peg comme le franc CFA ne peut
+> pas ajuster par le prix, donc tout passe par les réserves et le budget. Le
+> Brésil a une monnaie flottante et une Selic à 14 %, donc tout passe par le
+> prix et le carry. Même choc externe, deux mécanismes d'absorption
+> complètement différents. »*
 
 ---
 
@@ -287,21 +193,16 @@ tard ? »*.
 | Taux directeur BEAC | **4,75 %** |
 | Part des hydrocarbures dans les exports | **~87 %** |
 
-> ⚠️ **Un mot sur l'origine.** Tu peux dire *« je suis d'origine gabonaise »* —
-> c'est factuel et ça ancre l'histoire. Mais **l'argument n'est jamais
-> l'origine, c'est l'analyse.** La phrase qui suit doit toujours être un
-> mécanisme, jamais une identité.
+> ⚠️ **Rappel.** Ce cas se cite **à la troisième personne**, comme n'importe
+> quel exemple de marché. Jamais « chez moi », jamais « mon pays ». Tu parles
+> d'un régime de change, pas de toi.
 
 ---
 
-# Ce que tu fais maintenant
+# Comment s'en servir
 
-1. ☐ **Apprends la version 30 secondes.** C'est celle qui servira le plus.
-2. ☐ **Retiens 655,957 et « il ne peut pas dévaluer »** — le reste en découle
-3. ☐ **Entraîne-toi à enchaîner Gabon → Brésil.** Peg contre flottant. C'est ton
-   angle unique.
-4. ☐ **Ajoute-le à ta présentation** dans `POSTURE-sales-le-dernier-cran.md` —
-   il remplace avantageusement l'ouverture Brésil seule.
-
-> **Tu as passé des mois à croire que ton oral SKEMA était une esquive.**
-> C'était le début de ta thèse. Tu ne le savais pas, c'est tout.
+1. ☐ **Retiens 655,957 et « il ne peut pas dévaluer »** — le reste en découle
+2. ☐ **Garde-le pour la question sur les régimes de change**, où il fait la
+   différence entre une réponse de manuel et une réponse documentée
+3. ☐ **Ne l'utilise jamais comme récit personnel** — voir
+   [`POSITIONNEMENT-ce-quon-raconte.md`](POSITIONNEMENT-ce-quon-raconte.md)
