@@ -1,10 +1,8 @@
 # Positionnement — ce qu'on raconte, et ce qu'on garde pour soi
 
-> **Tu as raison et je me suis trompé.** J'ai construit un storytelling autour
-> du Gabon sans voir le risque que tu as vu immédiatement : on ne te rangerait
-> pas dans « FX émergent », on te rangerait dans **« Afrique »**.
->
-> Cette fiche corrige le tir.
+> **Fiche a lire avant tout entretien.** Elle fixe une regle simple : ce qui
+> nourrit ta reflexion n'est pas forcement ce que tu racontes. Le recit
+> officiel, lui, est dans `LATAM-ta-specialisation.md`.
 
 ---
 
@@ -17,15 +15,15 @@ mentale**. Ils cherchent une case, tu leur en fournis une.
 
 Concrètement, ce que tu risquais :
 
-| Tu dis | Ce qu'ils entendent |
+| Tu mets en avant | Ce qu'ils en concluent |
 |---|---|
-| « Je suis d'origine gabonaise, le franc CFA… » | *« Il ira sur la couverture Afrique. »* |
-| « Ça m'a mené au FX émergent » | *« Sous-entendu : Afrique subsaharienne. »* |
-| « Je vise Londres » | *« Oui, mais pour couvrir l'Afrique. »* |
+| Un lien personnel avec une region | *« Il ira sur le desk de cette region. »* |
+| « Ca m'a mene au FX emergent » | *« Sous-entendu : cette region-la. »* |
+| « Je vise Londres » | *« Oui, mais pour couvrir cette region. »* |
 
-Et le desk Afrique dans une banque française, ce n'est **pas** un desk eFX à
-Londres. C'est un métier différent, avec une autre trajectoire, souvent
-basé à Paris ou sur place. Ce n'est pas ton objectif.
+Le probleme n'est pas la region en elle-meme : c'est que **le desk auquel on
+t'assigne n'est pas celui que tu vises**. Un desk de couverture regionale est un
+metier different d'un desk eFX a Londres, avec une autre trajectoire.
 
 ## Pourquoi ça marchait à SKEMA et pas ici — l'asymétrie
 
@@ -39,35 +37,21 @@ Une banque, **si**.
 | | Oral SKEMA | Entretien banque |
 |---|---|---|
 | Décision | Binaire : admis ou non | **Orientée** : quel desk, quel bureau |
-| Ce qu'ils peuvent faire de ton propos | Rien | **Te router vers la couverture Afrique** |
+| Ce qu'ils peuvent faire de ton propos | Rien | **Te router vers un desk regional** |
 | Coût si on te prend au mot | Nul | **Tu dois refuser une offre** — et tu brûles le contact |
 
-> 🔑 **C'est ça, la différence.** SG, BNP, CACIB ont de vraies équipes Afrique.
-> Dire « Gabon » n'ouvre pas une conversation abstraite : ça ouvre **un poste
-> qui existe réellement** et que tu ne veux pas. Refuser ensuite est bien pire
-> que de n'avoir jamais été proposé.
+> 🔑 **C'est ca, la difference.** SG, BNP et CACIB ont de vraies equipes de
+> couverture regionale. Mettre une region personnelle en avant n'ouvre pas une
+> conversation abstraite : ca ouvre **un poste qui existe reellement** et que tu
+> ne veux pas. Refuser ensuite est bien pire que de n'avoir jamais ete propose.
 
-## Et l'angle « créer une banque au Gabon » ne tient pas non plus
+## Le corollaire que tu as formule
 
-Tu l'as vu : **il n'y a pas de marché de flux en zone CEMAC.** Pas de desk
-sales, pas de trading secondaire à parler. L'activité réelle y est du
-financement, du trade finance et de l'arrangement de dette souveraine — pas du
-market-making.
-
-Et la raison est élégante, elle découle de tout ce qu'on a vu :
-
-> **Une monnaie à parité fixe et non convertible n'a pas de marché.** Le
-> 655,957 qui rend le sujet intéressant à analyser est exactement ce qui rend
-> une carrière FX impossible sur place. Il n'y a rien à coter.
-
-Donc l'angle est **audacieux sans être crédible** : tu proposerais de construire
-un métier là où sa condition d'existence — un prix qui bouge — est absente par
-construction.
-
-> 🔑 **Ta lecture est exacte : par défaut on te lit comme un candidat
-> français, diplômé d'une école française, qui postule dans une banque
-> française. C'est le profil le plus simple à placer sur un desk à Londres.
-> Ne complique pas ce que tu n'as pas besoin de compliquer.**
+Un marche n'existe que s'il y a **un prix qui bouge**. Une devise a parite fixe
+et non convertible ne genere ni market-making, ni desk sales, ni flux a
+intermedier : il n'y a rien a coter. C'est pour ca qu'une carriere FX se fait
+la ou la devise flotte et s'echange en volume — et que ta cible reste
+**Londres**.
 
 ---
 
@@ -84,7 +68,8 @@ Le filtre est simple, une seule question :
 > **Est-ce que cet élément me rapproche du poste que je vise, ou est-ce qu'il
 > ouvre une conversation dont je ne contrôle pas la sortie ?**
 
-Le Gabon ouvre une conversation que tu ne contrôles pas. Donc il reste dehors.
+Une region personnelle ouvre une conversation que tu ne controles pas. Donc
+elle reste dehors.
 
 ---
 
@@ -147,45 +132,50 @@ tampons sur un passeport.
 
 ---
 
-# 4. Ce qu'on fait du contenu Gabon
+# 4. Ce qui remplace — et c'est plus fort
 
-**On le garde. Comme munition technique, pas comme biographie.**
+Ta specialisation est le **FX latino-americain electronique**, et elle repose
+sur des elements **choisis**, pas subis : espagnol parle, cours BRICS / LatAm,
+specialisation data en L3, outils codes (CalvinX, ShockDesk, pricer BS).
 
-Le mécanisme que tu as compris — un pays qui vend en dollars, dont la monnaie
-est arrimée à l'euro, et qui ne peut pas dévaluer — est un **vrai sujet de FX**.
-Il te sert à répondre à une question générale, sans jamais parler de toi.
+> 🔑 **La difference de nature.** Une origine est subie, donc elle assigne. Une
+> langue apprise, des cours choisis et des outils construits forment une
+> **trajectoire**, et une trajectoire ne s'assigne pas : elle se recrute.
 
-## Comment le déployer
+Le detail complet — structure de marche, carry compare, chiffres, exercices —
+est dans **`LATAM-ta-specialisation.md`**.
 
-**Si on te demande** *« quelle différence entre un peg et un flottant ? »* :
+## Comment le deployer
 
-> *« C'est une question d'où passe l'ajustement. Avec une monnaie flottante,
-> comme le réal, un choc externe se règle par le prix : la devise bouge, la
-> banque centrale ajuste le taux, et le carry rémunère le risque. Avec un peg,
-> le prix ne peut pas bouger — donc l'ajustement passe par les réserves de
-> change et par le budget.
+**Si on te demande** *« quelle difference entre un peg et un flottant ? »* :
+
+> *« C'est une question d'ou passe l'ajustement. Avec une monnaie flottante,
+> comme le real ou le peso mexicain, un choc externe se regle par le prix : la
+> devise bouge, la banque centrale ajuste son taux, et le carry remunere le
+> risque. Avec un regime fixe, le prix ne peut pas bouger — donc l'ajustement
+> passe par les reserves de change et par le budget.
 >
-> La zone franc CFA en est un bon exemple : parité fixe à 655,957 pour un euro
-> depuis 1999, des recettes pétrolières en dollars, et une couverture des
-> importations qui est descendue autour de quatre mois. On échange de la
-> volatilité de change contre de la volatilité budgétaire. »*
+> Le vrai clivage operationnel en Amerique latine n'est d'ailleurs pas peg
+> contre flottant : c'est **livrable contre non livrable**. Le peso mexicain se
+> traite comme une devise du G10, le real passe par des NDF regles contre le
+> PTAX. Ce n'est pas la meme plomberie, donc pas le meme metier. »*
 
-**Zéro mention de toi.** Tu passes pour quelqu'un qui connaît les régimes de
-change — ce qui est le cas.
+**Zero mention de toi.** Tu passes pour quelqu'un qui connait les regimes de
+change et la structure de marche — ce qui est le cas.
 
-> 🔑 **La nuance qui fait tout :** parler du franc CFA **comme d'un cas de
-> marché**, c'est de la culture FX. En parler **comme d'une histoire
-> personnelle**, c'est une assignation. **Même contenu, effet inverse.**
+> 🔑 **La nuance qui fait tout :** parler d'une zone monetaire **comme d'un cas
+> de marche**, c'est de la culture FX. En parler **comme d'une histoire
+> personnelle**, c'est une assignation. **Meme contenu, effet inverse.**
 
 ---
 
 # 5. Et si on te pose la question directement ?
 
-On te demandera peut-être d'où vient ton nom, ou si tu as des attaches
-ailleurs. **Réponds simplement, sans développer, et reviens au sujet.**
+On te demandera peut-etre d'ou vient ton nom, ou si tu as des attaches
+ailleurs. **Reponds simplement, sans developper, et reviens au sujet.**
 
-> *« J'ai des origines gabonaises, oui. Cela dit, j'ai fait toute ma formation
-> en France et mon objectif est un desk à Londres ou à Paris. »*
+> *« J'ai fait toute ma formation en France, et mon objectif est un desk a
+> Londres ou a Paris. »*
 
 Puis tu enchaînes sur autre chose. **Une phrase, pas trois.**
 
@@ -199,11 +189,11 @@ Puis tu enchaînes sur autre chose. **Une phrase, pas trois.**
 
 | | |
 |---|---|
-| ❌ **Retiré du récit** | Le Gabon, l'origine, le franc CFA comme histoire perso |
-| ❌ **Interdit définitivement** | L'échange au Brésil — il n'existe pas |
-| ✅ **Le récit** | BPCE → infrastructure → exécution → eFX → émergents |
-| ✅ **Le Brésil** | Un marché que tu **suis**, pas un endroit où tu as vécu |
-| ✅ **Le franc CFA** | Munition technique sur les régimes de change |
+| ❌ **Retire du recit** | Toute origine ou attache personnelle a une region |
+| ❌ **Interdit definitivement** | L'echange au Bresil — il n'existe pas |
+| ✅ **Le recit** | BPCE → infrastructure → execution → eFX → **LatAm electronique** |
+| ✅ **Tes preuves** | Espagnol · cours BRICS/LatAm · data L3 · outils codes |
+| ✅ **Le Bresil** | Un marche que tu **suis**, pas un endroit ou tu as vecu |
 
 > **Tu as fait exactement ce qu'il fallait : tu as vu le risque avant de
 > l'avoir couru.** Savoir ce qu'on ne dit pas est une compétence de sales au

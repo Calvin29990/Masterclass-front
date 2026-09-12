@@ -17,7 +17,7 @@ cherchais la bonne. Voilà la vraie structure.
 | Type de pays | Exemples | Pétrole ↑ |
 |---|---|---|
 | **Exportateurs nets** | 🇧🇷 Brésil, 🇲🇽 Mexique, 🇨🇴 Colombie, 🇷🇺 Russie, 🇳🇴 Norvège | Devise **soutenue** |
-| **Importateurs nets** | 🇮🇳 Inde, 🇹🇷 Turquie, 🇿🇦 Afrique du Sud, 🇯🇵 Japon | Devise **sous pression** |
+| **Importateurs nets** | 🇮🇳 Inde, 🇹🇷 Turquie, 🇨🇱 Chili, 🇯🇵 Japon | Devise **sous pression** |
 
 C'est le canal des **termes de l'échange** : un exportateur vend plus cher ce
 qu'il produit, ses recettes en dollars montent, sa devise se renforce.
