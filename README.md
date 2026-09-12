@@ -1,5 +1,14 @@
 # Masterclass Front — pack septembre 2026
 
+> ## 🔴 Programme 2026 — recentrage acte
+>
+> La masterclass ne prepare plus le front office en general. Elle prepare
+> **FX Sales, angle LatAm, en France**. Le structuring est ecarte. Les banques
+> sans desk FX ni exposition LatAm ne sont plus ciblees.
+>
+> **Point d'entree : [`PROGRAMME-2026-FX-LATAM.md`](PROGRAMME-2026-FX-LATAM.md)**
+> **Le cours : [`cours/FX-LATAM-cours-complet.md`](cours/FX-LATAM-cours-complet.md)** (6 h, autonome)
+
 Pack de travail pour Calvin. À dézipper dans un **nouveau** dépôt.
 ShockDesk reste le lab : https://github.com/Calvin29990/shockdesk
 
