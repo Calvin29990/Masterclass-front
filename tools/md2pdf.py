@@ -73,6 +73,14 @@ def clean(t: str) -> str:
 
 
 class PDF(FPDF):
+    # fpdf2 laisse par defaut le curseur A DROITE de la cellule (new_x=RIGHT).
+    # Deux multi_cell consecutifs derivaient donc de 178 mm vers la droite et
+    # le texte sortait de la page. On force le retour a la marge gauche.
+    def multi_cell(self, *a, **kw):
+        kw.setdefault("new_x", "LMARGIN")
+        kw.setdefault("new_y", "NEXT")
+        return super().multi_cell(*a, **kw)
+
     def header(self):
         if self.page_no() == 1:
             return
@@ -92,6 +100,10 @@ class PDF(FPDF):
 def render(md_path: str, pdf_path: str, title: str = "") -> None:
     lines = open(md_path, encoding="utf-8").read().split("\n")
     p = PDF()
+    # le titre passe en argument traverse header() en cellule brute : il doit
+    # subir le meme nettoyage latin-1 que le corps, sinon un tiret cadratin
+    # fait echouer tout le rendu au premier saut de page.
+    title = clean(title)
     p.doc_title = title
     p.set_title(title)
     p.set_auto_page_break(True, 18)
