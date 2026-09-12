@@ -1,8 +1,9 @@
 # FX & LatAm — le cours complet
 
 > **Ce cours part de zéro et va jusqu'au niveau d'un sales junior crédible.**
-> Six heures de travail, sept modules. Il se suffit à lui-même : aucun prérequis,
-> tout terme technique est défini avant d'être employé.
+> Six heures de travail, sept modules. Il se suffit à lui-même : aucun
+> prérequis, tout terme technique est défini avant d'être employé, et chaque
+> notion est illustrée par **au moins deux exemples chiffrés**.
 >
 > **L'objectif n'est pas que tu récites. C'est que tu deviennes réellement
 > intéressant sur ce sujet** — parce qu'on ne simule pas la passion pendant
@@ -14,64 +15,204 @@
 
 | Module | Contenu | Durée |
 |---|---|---|
-| **0** | Le vocabulaire de zéro | 40 min |
+| **0** | Le vocabulaire de zéro | 55 min |
 | **1** | L'histoire du FX en douze dates | 40 min |
-| **2** | Les produits, un par un | 1 h 10 |
-| **3** | Les stratégies | 50 min |
+| **2** | Les produits, un par un | 1 h 20 |
+| **3** | Les stratégies | 55 min |
 | **4** | L'Amérique latine, pays par pays | 50 min |
 | **5** | Le Brésil en profondeur | 1 h |
 | **6** | Parler comme quelqu'un du métier, et quoi suivre | 45 min |
-| **7** | Exercices corrigés | 30 min |
+| **7** | Exercices corrigés | 45 min |
+
+**Comment lire ce cours.** Ne le lis pas d'une traite. Chaque module est
+conçu pour une session. À la fin de chaque notion importante, il y a un
+encadré **« vérifie que tu as compris »** : si tu ne sais pas répondre,
+relis le paragraphe au-dessus avant de continuer. Le module 7 reprend tout
+sous forme d'exercices.
+
+**Une convention d'écriture.** Les formules sont écrites en ligne, à plat.
+`a / b` signifie *a divisé par b*. `x^2` signifie *x au carré*.
+`sqrt(n)` signifie *racine carrée de n*. Quand une formule contient une
+division, le numérateur et le dénominateur sont mis entre parenthèses pour
+lever toute ambiguïté.
 
 ---
 
 # Module 0 — Le vocabulaire de zéro
 
-## Ce qu'est le marché des changes
+## 0.1 Ce qu'est le marché des changes
 
 Le **marché des changes**, ou **FX** (*foreign exchange*), est l'endroit où
 s'échangent les monnaies. C'est **le plus grand marché du monde** : environ
 **9 600 milliards de dollars par jour** en avril 2025 selon l'enquête
-triennale de la Banque des règlements internationaux — davantage que tous les
-marchés d'actions de la planète réunis.
+triennale de la Banque des règlements internationaux — davantage que tous
+les marchés d'actions de la planète réunis.
 
-Il n'a **pas de lieu**. Pas de bourse, pas de bâtiment. C'est un réseau de
-banques qui se cotent entre elles par écrans interposés, vingt-quatre heures sur
-vingt-quatre, cinq jours sur sept. On parle de marché **OTC**, *over the
-counter* — de gré à gré, par opposition à un marché organisé où une bourse
-centralise les ordres.
+Ce chiffre est difficile à se représenter. Une comparaison aide : le PIB
+annuel de la France est d'environ 3 000 milliards de dollars. **Le marché
+des changes échange l'équivalent de trois PIB français chaque jour.**
 
-## Les mots indispensables
+Il n'a **pas de lieu**. Pas de bourse, pas de bâtiment, pas de corbeille.
+C'est un réseau de banques qui se cotent entre elles par écrans interposés,
+vingt-quatre heures sur vingt-quatre, cinq jours sur sept. On parle de
+marché **OTC**, *over the counter* — de **gré à gré**, ce qui signifie que
+deux parties traitent directement l'une avec l'autre, par opposition à un
+**marché organisé** où une bourse centralise tous les ordres et sert
+d'intermédiaire unique.
 
-**Paire de devises.** On ne cote jamais une monnaie seule, toujours l'une contre
-l'autre. **EUR/USD** = combien de dollars pour un euro. La première s'appelle la
+**Pourquoi cette distinction compte pour toi.** Sur un marché organisé, le
+prix est le même pour tout le monde et affiché publiquement. En OTC, **le
+prix que reçoit un client dépend de qui il est** : son volume, sa
+régularité, la qualité de sa relation avec la banque. C'est précisément ce
+qui crée le métier de sales. S'il n'y avait qu'un prix public unique,
+personne n'aurait besoin de te parler.
+
+## 0.2 Les paires de devises
+
+On ne cote jamais une monnaie seule, toujours l'une contre l'autre. Une
+monnaie n'a pas de valeur dans l'absolu : elle n'a de valeur que
+**relativement à une autre**.
+
+**EUR/USD** se lit « euro contre dollar » et répond à la question : *combien
+de dollars faut-il pour acheter un euro ?* La première devise s'appelle la
 **devise de base**, la seconde la **devise de contrepartie**.
 
-> ⚠️ **Le piège des débutants.** Si EUR/USD **baisse** de 1,16 à 1,14, ce n'est
-> pas « l'euro-dollar qui baisse » : c'est **le dollar qui se renforce**. Il
-> faut moins de dollars pour acheter un euro.
+**Premier exemple.** EUR/USD cote 1,16. Cela veut dire qu'un euro s'achète
+1,16 dollar. Si tu as 1 000 euros et que tu les changes, tu obtiens
+1 160 dollars.
 
-**Pip.** La plus petite variation de cotation. Sur la plupart des paires, c'est
-la **quatrième décimale** : 0,0001. Sur USD/JPY, c'est la deuxième : 0,01.
+**Deuxième exemple.** USD/BRL cote 5,16. Ici la devise de base est le
+dollar. Un dollar s'achète 5,16 réaux. Si une entreprise brésilienne doit
+payer une facture de 100 000 dollars, elle devra sortir 516 000 réaux.
 
-**Spot.** Le prix pour une livraison immédiate — en pratique, deux jours
-ouvrés (**J+2**).
+> ⚠️ **Le piège des débutants, et il est éliminatoire.** Si EUR/USD **baisse**
+> de 1,16 à 1,14, la tentation est de dire « l'euro-dollar baisse ». C'est
+> faux et ça s'entend immédiatement. Ce qui se passe, c'est que **l'euro
+> s'affaiblit face au dollar** : il faut désormais moins de dollars pour
+> acheter un euro. Dit autrement, **le dollar se renforce**.
+>
+> **La règle à retenir :** quand la paire monte, c'est **la devise de base**
+> qui se renforce. Quand elle baisse, c'est la devise de base qui
+> s'affaiblit.
 
-**Bid / Ask.** Le **bid** est le prix auquel la banque **achète**, l'**ask** le
-prix auquel elle **vend**. L'écart entre les deux s'appelle le **spread**, et
-c'est la rémunération du teneur de marché.
+**Vérifions avec un troisième exemple.** USD/BRL passe de 5,16 à 5,40.
+La devise de base est le dollar, la paire monte, donc le dollar se renforce
+et **le réal s'affaiblit**. Confirmation par le raisonnement concret : il
+faut maintenant 5,40 réaux pour un dollar contre 5,16 avant, donc le réal
+achète moins de dollars qu'avant. Il vaut moins. C'est cohérent.
+
+> **Vérifie que tu as compris.** USD/MXN passe de 16,96 à 16,50. Le peso
+> se renforce-t-il ou s'affaiblit-il ?
+> *Réponse : la paire baisse, la devise de base (le dollar) s'affaiblit,
+> donc le peso se renforce. Il faut moins de pesos pour un dollar.*
+
+## 0.3 Le pip
+
+Le **pip** est la plus petite variation de cotation habituellement traitée.
+Sur la plupart des paires, c'est la **quatrième décimale**, soit 0,0001.
+Sur USD/JPY, où les montants sont plus grands, c'est la **deuxième
+décimale**, soit 0,01.
+
+**Pourquoi ce mot existe.** Parce que dire « l'euro a bougé de 0,0003 » est
+pénible, alors que « l'euro a pris 3 pips » est immédiat. C'est une unité
+de travail, pas un concept.
+
+**Premier exemple.** EUR/USD passe de 1,1600 à 1,1604. Le mouvement est de
+4 pips.
+
+**Deuxième exemple.** USD/BRL passe de 5,1600 à 5,1750. Le mouvement est de
+150 pips. Sur les devises émergentes, les mouvements en pips sont beaucoup
+plus grands, tout simplement parce que la volatilité est plus forte.
+
+**Ce que vaut un pip, en argent.** C'est le calcul qui rend le métier
+concret. Pour un montant de **1 million d'unités de la devise de base** :
+
+| Paire | Valeur d'un pip |
+|---|---|
+| EUR/USD | 100 USD |
+| USD/JPY | environ 64 USD |
+| USD/BRL | environ 19 USD |
+
+**Exemple d'application.** Tu cotes un client sur 10 millions d'EUR/USD et
+tu captures un demi-pip de marge. Ton gain est de :
+
+`10 x 0,5 x 100 = 500 USD`
+
+Un demi-pip semble dérisoire. Sur 10 millions, c'est 500 dollars. Un desk
+qui traite plusieurs milliards par jour vit de ces demi-pips répétés.
+
+## 0.4 Bid, ask et spread
+
+Une banque teneuse de marché affiche toujours **deux prix**.
+
+Le **bid** est le prix auquel **elle achète** (donc le prix auquel tu
+vends). L'**ask**, aussi appelé **offer**, est le prix auquel **elle vend**
+(donc le prix auquel tu achètes). L'écart entre les deux s'appelle le
+**spread**, et c'est **la rémunération du teneur de marché**.
+
+> 🔑 **Le moyen mnémotechnique qui évite l'erreur.** Le prix affiché est
+> toujours vu **du point de vue de la banque**. La banque achète bas et vend
+> haut — comme n'importe quel commerçant. Donc le bid est toujours inférieur
+> à l'ask.
+
+**Premier exemple.** EUR/USD est coté **1,1600 / 1,1602**. La banque achète
+des euros à 1,1600 et en vend à 1,1602. Le spread est de 2 pips. Si tu
+achètes puis revends immédiatement sans que le marché bouge, tu perds
+2 pips : c'est le coût du service.
+
+**Deuxième exemple.** USD/BRL est coté **5,1580 / 5,1640**. Le spread est de
+60 pips, soit trente fois plus large en valeur relative. Pourquoi ? Parce
+que le réal est moins liquide et plus volatil : la banque prend un risque
+plus grand en portant la position, elle se fait payer davantage.
+
+> **Vérifie que tu as compris.** Un client veut vendre 5 millions de dollars
+> contre réaux, sur une cotation 5,1580 / 5,1640. À quel prix traite-t-il ?
+> *Réponse : il vend des dollars, donc la banque les achète, donc c'est le
+> bid : 5,1580. Il recevra 5 x 5,1580 = 25,79 millions de réaux.*
+
+## 0.5 Le vocabulaire du desk
 
 **Teneur de marché** (*market maker*). Une banque qui s'engage à afficher en
-permanence un prix d'achat et un prix de vente. Elle prend le risque de porter
-la position pour que le client puisse traiter quand il veut.
+permanence un prix d'achat et un prix de vente, **même quand elle n'a pas
+envie de traiter**. C'est un engagement, pas une faveur. En contrepartie,
+elle capture le spread. Elle prend le risque de porter la position pour que
+le client puisse traiter quand il le veut.
 
-**RFQ** — *request for quote*. Le client demande un prix sur un montant précis.
-**Streaming** : la banque diffuse des prix en continu, le client se sert.
+**RFQ** — *request for quote*, demande de prix. Le client demande un prix
+sur un montant précis et une échéance précise. La banque répond, le client
+accepte ou refuse. C'est le mode de fonctionnement historique, encore
+dominant sur les gros montants et les produits complexes.
 
-**Hit ratio.** La proportion de prix cotés qui se transforment en transaction.
-Trop bas, tes prix sont mauvais ; trop haut, ils sont trop généreux.
+**Streaming.** La banque diffuse des prix en continu sur un écran, et le
+client se sert quand il veut. C'est le mode dominant sur les paires
+liquides et les petits montants. C'est ce qu'on appelle l'**eFX**, le change
+électronique.
 
-## Les acteurs
+**Hit ratio.** La proportion de prix cotés qui se transforment
+effectivement en transaction. **C'est l'indicateur de performance d'un
+sales.** Trop bas, tes prix sont mauvais et le client va ailleurs. Trop
+haut, tes prix sont trop généreux et tu perds de l'argent.
+
+**Exemple.** Sur cent prix envoyés, quarante deviennent des transactions :
+hit ratio de 40 %. Si ton collègue est à 55 % sur la même clientèle, soit il
+cote plus agressivement — donc il gagne moins par transaction —, soit il est
+meilleur. La question intéressante est toujours : **à quel prix ce hit ratio
+a-t-il été obtenu ?**
+
+**Internaliser.** Quand une banque reçoit un ordre d'achat et un ordre de
+vente sur la même paire au même moment, elle peut les **apparier en
+interne** au lieu d'aller sur le marché. Elle économise le coût
+d'exécution externe. Plus une banque a de flux client, plus elle
+internalise, plus elle est rentable. **C'est le cœur de l'économie d'un
+desk FX moderne.**
+
+**Last look.** Un mécanisme par lequel la banque dispose d'un très court
+délai — quelques millisecondes — pour accepter ou refuser une transaction
+après que le client a cliqué sur son prix. C'est un sujet sensible et
+débattu, parce qu'il peut être utilisé abusivement. Le connaître te classe
+immédiatement.
+
+## 0.6 Les acteurs, et ce qu'ils veulent
 
 | Acteur | Ce qu'il veut |
 |---|---|
@@ -79,20 +220,48 @@ Trop bas, tes prix sont mauvais ; trop haut, ils sont trop généreux.
 | **Gérant d'actifs** | Neutraliser le change sur un portefeuille étranger |
 | **Hedge fund** | Gagner sur le mouvement. **Il spécule.** |
 | **Banque centrale** | Stabiliser sa monnaie, gérer ses réserves |
-| **Banque** | Intermédier, capturer le spread |
+| **Banque** | Intermédier, capturer le spread, internaliser |
 
-> 🔑 **Distinction fondamentale pour un sales.** Une entreprise **subit** le
-> risque de change, elle ne l'a pas choisi. Un fonds **choisit** de le prendre.
-> Tu ne parles pas de la même façon aux deux.
+> 🔑 **La distinction fondamentale, et elle structure tout ton discours.**
+> Une entreprise **subit** le risque de change : elle ne l'a pas choisi, il
+> résulte de son activité commerciale. Un fonds **choisit** de le prendre :
+> c'est sa raison d'être.
+>
+> **Tu ne parles pas de la même façon aux deux.** À l'entreprise, tu parles
+> de protection, de budget, de prévisibilité, de ne pas perdre. Au fonds, tu
+> parles de vue de marché, de point d'entrée, de rendement. Confondre les
+> deux registres en entretien est une faute lourde.
+
+**Exemple concret côté entreprise.** Un exportateur français vend pour
+10 millions de dollars aux États-Unis, payables dans six mois. Il a
+construit son prix de vente en supposant EUR/USD à 1,16. Si l'euro monte à
+1,22 d'ici là, ses dollars ne vaudront plus que 8,2 millions d'euros au lieu
+de 8,6. **Il perd 400 000 euros sans avoir rien fait de mal
+commercialement.** C'est ce risque que tu vends la protection contre.
+
+**Exemple concret côté fonds.** Un hedge fund pense que le réal va
+s'apprécier parce que le Brésil offre un taux de 14 %. Il achète du réal. Il
+n'a aucune exposition commerciale au Brésil : **il prend le risque
+volontairement, en espérant être payé pour ça.**
 
 ---
 
 # Module 1 — L'histoire du FX en douze dates
 
-**Pourquoi apprendre ça ?** Parce que le marché des changes tel qu'il existe
-n'a que **cinquante ans**, et que chacune de ses crises a créé un produit que
-tu vas vendre. Connaître ces dates, c'est comprendre **pourquoi** les choses
-sont ainsi.
+**Pourquoi apprendre ça ?** Trois raisons.
+
+**Un.** Le marché des changes tel qu'il existe n'a que **cinquante ans**.
+Avant 1971, les monnaies étaient fixes : il n'y avait presque rien à
+couvrir. Comprendre ça, c'est comprendre que ton métier est récent et qu'il
+est né d'un accident politique.
+
+**Deux.** Chacune de ces crises a **créé un produit que tu vas vendre**. Les
+NDF n'existent pas parce qu'un ingénieur financier les a inventés un matin :
+ils existent parce que des pays ont fermé leurs frontières aux capitaux.
+
+**Trois.** En entretien, une date précise vaut mieux qu'un raisonnement
+vague. Citer « le 15 août 1971 » plutôt que « dans les années soixante-dix »
+est exactement le genre de détail dont on parle au module 6.
 
 | Date | Événement | Ce que ça a créé |
 |---|---|---|
@@ -109,22 +278,46 @@ sont ainsi.
 | **1999** | **Le Brésil abandonne sa parité** en janvier, le réal flotte | Le marché du BRL tel qu'il existe |
 | **2010** | **Lancement du CNH**, renminbi offshore livrable à Hong Kong | La démonstration qu'un pays peut tuer son propre marché NDF |
 
+## Les deux dates à comprendre vraiment
+
+**1971 — pourquoi Nixon ferme la fenêtre or.** Sous Bretton Woods, les
+États-Unis s'engageaient à échanger les dollars détenus par les banques
+centrales étrangères contre de l'or, à 35 dollars l'once. Le problème : les
+États-Unis ont émis beaucoup plus de dollars qu'ils n'avaient d'or, pour
+financer notamment la guerre du Vietnam. Quand les partenaires ont commencé
+à réclamer leur or, le système était insolvable. Nixon suspend la
+convertibilité. **En deux ans, toutes les grandes monnaies flottent, et le
+risque de change naît.**
+
+**1997 — pourquoi la crise asiatique crée les NDF.** Quand la Thaïlande
+abandonne la parité du baht en juillet 1997, la contagion emporte plusieurs
+pays asiatiques. En réaction, beaucoup instaurent ou renforcent des
+**contrôles de capitaux** : il devient interdit ou très encadré de sortir la
+monnaie locale du pays. Or les entreprises internationales ont toujours
+besoin de couvrir ces devises. **Solution : un contrat où l'on ne livre
+jamais la monnaie locale, on règle seulement l'écart de valeur en dollars.**
+C'est le NDF, expliqué en détail au module 2.
+
 ## Les trois leçons à tirer
 
 **Un.** Le flottement n'est pas naturel, c'est un **choix par défaut** après
-l'échec des parités fixes. Les États y reviennent dès qu'ils le peuvent.
+l'échec des parités fixes. Les États y reviennent dès qu'ils le peuvent —
+d'où les interventions de banques centrales encore fréquentes aujourd'hui.
 
-**Deux.** Chaque crise a **créé un produit**. Les contrôles de capitaux après
-1997 ont fait exploser les NDF, parce qu'il fallait bien couvrir des devises
-qu'on ne pouvait plus livrer.
+**Deux.** Chaque crise a **créé un produit**. C'est la leçon la plus utile
+en entretien, parce qu'elle montre que tu vois le marché comme une histoire
+et non comme un catalogue.
 
-**Trois.** L'histoire du change, c'est l'histoire d'un arbitrage permanent entre
-**stabilité du prix** et **liberté des mouvements de capitaux**.
+**Trois.** L'histoire du change, c'est l'arbitrage permanent entre
+**stabilité du prix** et **liberté des mouvements de capitaux**. Un pays ne
+peut pas avoir les deux en même temps avec une politique monétaire
+autonome — c'est ce qu'on appelle le **triangle d'incompatibilité**.
 
 > 🔑 **La phrase qui impressionne, parce qu'elle relie tout :**
-> *« Le marché des changes moderne est né le 15 août 1971, quand Nixon a fermé
-> la fenêtre or. Avant, il n'y avait pas de risque de change à couvrir. Tout ce
-> qu'on vend aujourd'hui existe parce que les prix se sont mis à bouger. »*
+> *« Le marché des changes moderne est né le 15 août 1971, quand Nixon a
+> fermé la fenêtre or. Avant, il n'y avait pas de risque de change à
+> couvrir. Tout ce qu'on vend aujourd'hui existe parce que les prix se sont
+> mis à bouger. »*
 
 ---
 
@@ -132,94 +325,199 @@ qu'on ne pouvait plus livrer.
 
 ## 2.1 Le spot
 
-L'échange immédiat. Livraison à **J+2** pour la plupart des paires, **J+1** pour
-USD/CAD.
+Le **spot** est l'échange immédiat, au prix du jour. « Immédiat » signifie
+en réalité **J+2** : la livraison effective a lieu deux jours ouvrés après
+la transaction, pour laisser le temps aux systèmes de paiement de
+fonctionner. USD/CAD fait exception avec J+1.
 
-Il représente environ **un tiers** du volume mondial. Tout le reste est du
-dérivé.
+Le spot représente environ **un tiers** du volume mondial. **Tout le reste
+est du dérivé** — c'est-à-dire des contrats dont la valeur dépend du spot
+sans être le spot. Ce point surprend souvent : le marché des changes est
+majoritairement un marché de contrats à terme, pas d'échanges immédiats.
 
 ## 2.2 Le forward — le produit central
 
-**Un forward de change, c'est un prix fixé aujourd'hui pour un échange qui aura
-lieu plus tard.** Une entreprise qui encaissera 10 millions de dollars dans six
-mois peut fixer dès maintenant le taux auquel elle les convertira.
+**Un forward de change est un prix fixé aujourd'hui pour un échange qui
+aura lieu plus tard.** Rien de plus.
+
+**Premier exemple.** Une entreprise française encaissera 10 millions de
+dollars dans six mois. Elle ne veut pas dépendre du niveau de l'euro à ce
+moment-là. Elle vend ces dollars à terme dès aujourd'hui, à un prix connu.
+Quel que soit le marché dans six mois, elle sait exactement combien d'euros
+elle recevra.
+
+**Deuxième exemple.** Un importateur brésilien doit payer 5 millions de
+dollars dans trois mois à un fournisseur américain. Il craint que le réal
+s'affaiblisse, ce qui rendrait la facture plus chère en monnaie locale. Il
+achète ces dollars à terme. Sa facture est figée en réaux.
+
+Dans les deux cas, **l'entreprise n'essaie pas de gagner de l'argent : elle
+essaie de supprimer une incertitude**. C'est le cœur du métier de sales
+corporate.
 
 ### La formule, et surtout sa logique
 
-$$F = S \times \frac{1 + r_{\text{contrepartie}} \times t}{1 + r_{\text{base}} \times t}$$
+`F = S x (1 + r_contrepartie x t) / (1 + r_base x t)`
 
-où **F** est le prix à terme, **S** le comptant, **r** les taux d'intérêt et
-**t** la durée en années.
+où **F** est le prix à terme, **S** le prix comptant, **r** les taux
+d'intérêt annuels des deux devises, et **t** la durée exprimée en années
+(trois mois = 0,25).
 
-**Pourquoi ?** Parce que sinon on gagnerait de l'argent sans risque. Imagine que
-le taux brésilien soit à 14 % et le dollar à 3,6 %, et que le forward soit égal
-au spot. Tu empruntes des dollars à 3,6 %, tu les changes en réaux, tu places à
-14 %, et tu revends tes réaux à terme au même prix. **Tu gagnes 10,4 % sans
-risque.** Le marché ne le permet pas : le forward s'ajuste.
+**D'où vient cette formule ?** Elle n'est pas conventionnelle : elle est
+**obligatoire**, sous peine de permettre un gain sans risque. Déroulons la
+démonstration complète.
 
-Cette relation s'appelle la **parité des taux d'intérêt couverte**. C'est le
-socle de tout.
+Suppose que le taux brésilien soit à 14 %, le taux dollar à 3,6 %, et que
+quelqu'un te propose un forward à trois mois **au même prix que le spot**,
+soit 5,16.
+
+1. Tu empruntes 1 million de dollars à 3,6 % pour trois mois. Tu devras
+   rembourser `1 000 000 x (1 + 0,036 x 0,25) = 1 009 000` dollars.
+2. Tu changes ce million en réaux au comptant : tu reçois
+   `1 000 000 x 5,16 = 5 160 000` réaux.
+3. Tu places ces réaux à 14 % pendant trois mois. Tu récupères
+   `5 160 000 x (1 + 0,14 x 0,25) = 5 340 600` réaux.
+4. Tu avais fixé à l'avance le taux de reconversion à 5,16. Tu reconvertis :
+   `5 340 600 / 5,16 = 1 035 000` dollars.
+5. Tu rembourses ton emprunt de 1 009 000 dollars. **Il te reste
+   26 000 dollars, sans avoir pris le moindre risque.**
+
+Un tel gain ne peut pas exister durablement : tout le monde le ferait,
+jusqu'à ce que les prix s'ajustent. **Le forward doit donc être plus élevé
+que le spot, exactement assez pour annuler ce gain.** C'est ce que fait la
+formule.
+
+Cette relation s'appelle la **parité des taux d'intérêt couverte**. Le mot
+« couverte » signifie qu'on a fixé le taux de reconversion à l'avance, donc
+qu'on n'a pris aucun risque de change. **C'est le socle de tout le reste du
+cours.**
 
 ### Report et déport
 
-- La devise dont le **taux est le plus élevé** se traite **moins cher à terme**.
-  On dit qu'elle est **au déport** (*at a discount*).
+- La devise dont le **taux est le plus élevé** se traite **moins cher à
+  terme**. On dit qu'elle est **au déport** (*at a discount*).
 - L'autre est **au report** (*at a premium*).
 
-**Moyen mnémotechnique** : le taux élevé rémunère déjà, donc le terme le
-pénalise pour compenser.
+**Le moyen mnémotechnique :** le taux élevé rémunère déjà celui qui détient
+la devise, donc le terme le pénalise pour compenser. Sinon, comme on vient
+de le voir, on gagnerait sans risque.
+
+**Premier exemple.** Le réal rapporte 14 %, le dollar 3,6 %. Le réal est
+donc **au déport** : à terme, il s'achète moins cher qu'au comptant. Dit
+autrement, USD/BRL à terme est **plus haut** que USD/BRL au comptant.
+
+**Deuxième exemple, inversé pour vérifier.** Imaginons une devise qui
+rapporte 1 % alors que le dollar rapporte 3,6 % — c'était le cas du franc
+suisse pendant des années. Cette devise est **au report** : elle s'achète
+plus cher à terme.
 
 ### Le calcul mental
 
-$$\text{points de terme} \approx S \times (r_1 - r_2) \times t$$
+En pratique, sur un desk, personne n'applique la formule exacte pour une
+estimation rapide. On utilise l'approximation :
 
-**Exemple.** USD/BRL spot 5,16, Selic 14 %, Fed 3,625 %, trois mois :
+`points de terme ~ S x (r1 - r2) x t`
 
-5,16 × 10,375 % × 0,25 ≈ **0,134**, soit **+1 340 pips**. Terme autour de
-**5,29**.
+**Premier exemple, USD/BRL trois mois.** Spot 5,16, Selic 14 %, Fed
+3,625 %. L'écart de taux est de 10,375 points.
 
-> 📌 **À dire, mot pour mot :** *« The forward isn't a forecast — it's just the
-> rate differential. »* Un forward ne prédit rien. Il ne fait qu'empêcher
-> l'arbitrage.
+`5,16 x 0,10375 x 0,25 = 0,1339`
+
+Soit environ **+1 340 pips**, et un terme autour de **5,29**.
+
+**Deuxième exemple, USD/MXN six mois.** Spot 16,96, taux mexicain 6,50 %,
+taux dollar 3,625 %. L'écart est de 2,875 points, la durée de 0,5 an.
+
+`16,96 x 0,02875 x 0,5 = 0,2438`
+
+Soit environ **+2 440 pips**, et un terme autour de **17,20**.
+
+Compare les deux : le peso a un écart de taux presque quatre fois plus
+faible que le réal, et pourtant les points de terme sont plus gros en valeur
+absolue. **C'est uniquement parce que le niveau du spot est trois fois plus
+élevé.** Toujours raisonner en pourcentage, jamais en pips bruts, quand on
+compare deux devises.
+
+> 📌 **À dire, mot pour mot, et ça vaut la moitié d'un entretien :**
+> *« The forward isn't a forecast — it's just the rate differential. »*
+> Un forward ne prédit rien. Il ne fait qu'empêcher l'arbitrage. Beaucoup de
+> candidats croient qu'un forward à 5,29 signifie que le marché anticipe
+> 5,29. **C'est faux, et le dire est éliminatoire.**
+
+> **Vérifie que tu as compris.** Le forward USD/BRL trois mois est à 5,29
+> alors que le spot est à 5,16. Est-ce que le marché anticipe une baisse du
+> réal de 2,5 % ?
+> *Réponse : non. Ce niveau découle mécaniquement de l'écart entre la Selic
+> et le taux dollar. Le marché peut très bien anticiper un réal stable, le
+> forward serait au même endroit.*
 
 ## 2.3 Le swap de change
 
-**Deux opérations simultanées en sens inverse** : on achète au comptant et on
-revend à terme, ou l'inverse.
+Un **swap de change** est constitué de **deux opérations simultanées en
+sens inverse** : on achète au comptant et on revend à terme, ou l'inverse.
 
-À quoi ça sert ? À **transformer une trésorerie d'une devise en une autre sans
-prendre de risque de change**. C'est de la gestion de liquidité, pas une prise
-de position.
+**À quoi ça sert ?** À transformer une trésorerie d'une devise en une autre
+**sans prendre de risque de change**. C'est un outil de gestion de
+liquidité, pas une prise de position.
 
-C'est **le plus gros segment du marché** — davantage que le spot. Un sales qui
-l'ignore se trahit immédiatement.
+**Premier exemple.** Une banque européenne a des euros en excès et a besoin
+de dollars pendant un mois. Elle vend des euros contre dollars au comptant,
+et s'engage simultanément à faire l'opération inverse dans un mois à un prix
+déjà fixé. Elle a emprunté des dollars en gageant des euros, sans jamais
+s'exposer au change.
+
+**Deuxième exemple.** Un gérant détient des obligations américaines dans un
+fonds libellé en euros. Il veut garder les obligations mais ne veut pas
+subir le dollar. Il roule un swap de change en permanence pour neutraliser
+l'exposition. C'est ce qu'on appelle une **couverture de portefeuille**.
+
+Le swap est **le plus gros segment du marché des changes** — davantage que
+le spot. **Un candidat qui l'ignore se trahit immédiatement**, parce que
+c'est l'essentiel du volume quotidien d'un desk.
 
 ## 2.4 Le NDF — le produit du LatAm
 
-**Définition.** Un **NDF** (*non-deliverable forward*) est un forward **sans
-livraison**. À l'échéance, personne n'échange les devises : on règle
-uniquement **la différence de prix, en dollars**, contre un **taux de référence
-officiel** appelé **fixing**.
+**Définition.** Un **NDF** (*non-deliverable forward*, forward non livrable)
+est un forward **sans livraison**. À l'échéance, personne n'échange les
+devises : on règle uniquement **la différence de prix, en dollars**, par
+rapport à un **taux de référence officiel** appelé **fixing**.
 
 **Pourquoi ça existe ?** Parce que certaines monnaies ne sont pas librement
-convertibles. Les contrôles de capitaux interdisent de les livrer à l'étranger.
-Le NDF contourne l'obstacle : on s'échange l'écart de valeur, pas la monnaie.
+convertibles : les contrôles de capitaux interdisent de les livrer à
+l'étranger. Le NDF contourne l'obstacle en s'échangeant **l'écart de valeur
+plutôt que la monnaie elle-même**.
+
+**Le fixing** est un taux publié officiellement, en général par la banque
+centrale, qui sert de référence contractuelle. Au Brésil, c'est le **PTAX**,
+détaillé au module 5.
 
 ### Le mécanisme, en chiffres
 
-Tu vends 10 millions de dollars contre réaux à **5,29** à trois mois.
+`règlement = N x (F - fixing) / fixing`
 
-| Si le fixing sort à | Résultat |
-|---|---|
-| **5,40** | La contrepartie te paie la différence |
-| **5,20** | Tu paies la différence |
+où **N** est le montant notionnel en dollars, **F** le taux du contrat.
 
-Le calcul du règlement :
+**Premier exemple.** Tu vends 10 millions de dollars contre réaux à **5,29**
+à trois mois. Le fixing sort à **5,40**.
 
-$$\text{règlement} = N \times \frac{F - \text{fixing}}{\text{fixing}}$$
+`10 000 000 x (5,29 - 5,40) / 5,40 = -203 704 USD`
 
-> ⚠️ **Détail que les candidats ratent :** le règlement est **divisé par le
-> fixing**, pas par le taux contractuel, parce qu'il est versé en dollars.
+Tu perds 203 704 dollars. Logique : tu t'étais engagé à vendre tes dollars à
+5,29 alors qu'ils valent 5,40. Tu as vendu trop bas.
+
+**Deuxième exemple.** Même contrat, mais le fixing sort à **5,20**.
+
+`10 000 000 x (5,29 - 5,20) / 5,20 = +173 077 USD`
+
+Tu gagnes. Tu avais sécurisé une vente à 5,29 alors que le marché n'est
+qu'à 5,20.
+
+> ⚠️ **Le détail que presque tous les candidats ratent.** Le règlement est
+> **divisé par le fixing**, pas par le taux du contrat. Pourquoi ? Parce que
+> le montant est **versé en dollars**, et qu'il faut donc convertir un écart
+> exprimé en réaux au taux en vigueur à l'échéance — c'est-à-dire le fixing.
+> Savoir expliquer ce « pourquoi », et pas seulement l'appliquer, est
+> exactement le niveau de détail qui te distingue.
 
 ### Les devises concernées
 
@@ -229,16 +527,40 @@ $$\text{règlement} = N \times \frac{F - \text{fixing}}{\text{fixing}}$$
 | **LatAm** | **BRL, COP, CLP, PEN** |
 | **Livrables, elles** | **MXN**, ZAR, TRY, CNH |
 
+Retiens surtout la dernière ligne : **le peso mexicain est livrable**, pas
+le réal. C'est la ligne de fracture du module 4.
+
 ## 2.5 Les options
 
-Une **option** donne le **droit**, pas l'obligation, d'acheter (*call*) ou de
-vendre (*put*) à un prix fixé (*strike*) à une date donnée.
+Une **option** donne le **droit, mais pas l'obligation**, d'acheter
+(*call*) ou de vendre (*put*) une devise à un prix fixé d'avance appelé
+**strike**, à une date donnée.
 
-**La différence avec un forward est décisive pour un client corporate :** le
-forward **oblige**. Si le taux évolue favorablement, l'entreprise n'en profite
-pas. L'option laisse le bénéfice ouvert, mais elle **coûte une prime**.
+**La différence avec un forward est décisive pour un client corporate.** Le
+forward **oblige** : si le taux évolue favorablement, l'entreprise n'en
+profite pas, elle est engagée. L'option laisse le bénéfice ouvert, mais elle
+**coûte une prime**, payée immédiatement et non remboursable.
+
+**Premier exemple.** Notre exportateur français achète un put EUR/USD à
+strike 1,16, prime 1,5 % du montant. Si l'euro monte à 1,22, il exerce et
+vend ses dollars comme si l'euro était à 1,16 : il est protégé. Si l'euro
+tombe à 1,10, il n'exerce pas, il vend au marché et profite du gain — moins
+la prime qu'il a payée.
+
+**Deuxième exemple, à comparer.** Le même exportateur aurait pu prendre un
+forward à 1,16. Coût immédiat : zéro. Mais si l'euro tombe à 1,10, **il ne
+profite de rien** : il est obligé de vendre à 1,16.
+
+> 🔑 **La question que pose toujours le client, et ta réponse.** *« Forward
+> ou option ? »* Ce n'est pas une question technique, c'est une question de
+> budget et de tolérance. Le forward est gratuit mais ferme. L'option est
+> souple mais coûte. **Tu réponds en demandant ce que l'entreprise cherche à
+> protéger : une marge commerciale déjà engagée, ou un flux incertain.**
 
 ### Les grecs, en une ligne chacun
+
+Les **grecs** sont les mesures de sensibilité du prix d'une option. Ce sont
+les cadrans du tableau de bord.
 
 | Grec | Ce qu'il mesure |
 |---|---|
@@ -247,17 +569,27 @@ pas. L'option laisse le bénéfice ouvert, mais elle **coûte une prime**.
 | **Vega** | Sensibilité à la volatilité |
 | **Thêta** | Perte de valeur par jour qui passe |
 
+**L'image qui les rend concrets.** Le delta est ta vitesse. Le gamma est ton
+accélération. Le thêta est ton réservoir qui se vide : chaque jour qui
+passe, une option perd de la valeur, simplement parce qu'il reste moins de
+temps pour que le scénario espéré se produise.
+
 ### Le risk reversal — le mot qui fait pro
 
-Un **risk reversal** est l'écart de prix entre un call et un put de même
-éloignement. C'est **une mesure directe de l'asymétrie des craintes du marché**.
+Un **risk reversal** est l'écart de prix entre un call et un put également
+éloignés du prix actuel. C'est **une mesure directe de l'asymétrie des
+craintes du marché**.
 
-Sur USD/BRL, les **calls dollar sont structurellement plus chers** : le marché
-paie davantage pour se protéger d'un effondrement du réal que d'une envolée.
+Si les deux coûtaient le même prix, cela voudrait dire que le marché redoute
+autant une hausse qu'une baisse. Ce n'est presque jamais le cas.
 
-> 🔑 **La phrase :** *« Le skew, c'est le prix de l'assurance contre le scénario
-> qui fait mal. Sur les émergents, il est presque toujours orienté dans le même
-> sens. »*
+**Sur USD/BRL, les calls dollar sont structurellement plus chers** : le
+marché paie davantage pour se protéger d'un effondrement du réal que d'une
+envolée. Cette asymétrie s'appelle le **skew**.
+
+> 🔑 **La phrase :** *« Le skew, c'est le prix de l'assurance contre le
+> scénario qui fait mal. Sur les émergents, il est presque toujours orienté
+> dans le même sens : on craint la dévaluation, pas l'appréciation. »*
 
 ---
 
@@ -265,84 +597,151 @@ paie davantage pour se protéger d'un effondrement du réal que d'une envolée.
 
 ## 3.1 Le carry trade
 
-**Le principe.** Emprunter dans la devise qui rapporte peu, placer dans celle
-qui rapporte beaucoup, encaisser l'écart.
+**Le principe.** Emprunter dans la devise qui rapporte peu, placer dans
+celle qui rapporte beaucoup, encaisser l'écart.
 
-**Le carry latino-américain, aujourd'hui :**
+**Premier exemple, chiffré.** Tu empruntes 1 million de dollars à 3,625 %.
+Tu les places en réaux à 14 % pendant trois mois. L'écart annuel est de
+10,375 points, soit sur trois mois :
 
-| Devise | Taux directeur | Écart vs Fed 3,625 % | Carry 3 mois / 1 M USD |
+`1 000 000 x 0,10375 x 0,25 = 25 938 USD`
+
+**Deuxième exemple, pour comparer les pays.** Même montant, même durée, face
+à un taux dollar de 3,625 % :
+
+| Devise | Taux directeur | Écart | Gain sur 3 mois |
 |---|---|---|---|
-| 🇧🇷 **BRL** | **14,00 %** | **+10,38 pts** | **25 938 USD** |
-| 🇨🇴 COP | 9,25 % | +5,62 pts | 14 062 USD |
-| 🇲🇽 MXN | 6,50 % | +2,88 pts | 7 188 USD |
-| 🇨🇱 CLP | 4,50 % | +0,88 pt | 2 188 USD |
+| **BRL** | 14,00 % | +10,38 pts | **25 938 USD** |
+| **COP** | 9,25 % | +5,62 pts | 14 062 USD |
+| **MXN** | 6,50 % | +2,88 pts | 7 188 USD |
+| **CLP** | 4,50 % | +0,88 pt | 2 188 USD |
 
-### La seule chose à comprendre vraiment
+### Le piège absolu, et il est éliminatoire
 
-**Couvert, le carry est nul par construction.** La parité des taux couverte y
-veille : si tu couvres ton risque de change par un forward, tu paies exactement
-ce que tu gagnes en intérêts.
+**Si tu couvres le risque de change, le carry disparaît intégralement.**
 
-**Donc le carry n'existe que pour celui qui accepte de rester exposé.** Ce n'est
-pas une anomalie de marché, **c'est une prime de risque**.
+C'est exactement ce qu'on a démontré au module 2 avec la parité des taux
+couverte : le forward est construit pour annuler ce gain. Si tu places en
+réaux et que tu fixes d'avance ton taux de reconversion, **ton gain est nul
+par construction**.
+
+> 🔑 **Donc le carry n'est pas un rendement gratuit : c'est une prime de
+> risque.** Tu es payé pour accepter que le réal puisse s'effondrer. Si tu
+> supprimes ce risque, on ne te paie plus. C'est logique, et c'est la phrase
+> qui montre que tu as vraiment compris.
 
 ### Le calcul qui prouve que tu as compris
 
-Volatilité annuelle du réal : environ **13 %**. Convertie en quotidien :
+La **volatilité annuelle** du réal est d'environ **13 %**. La volatilité
+mesure l'ampleur typique des variations : dire « 13 % par an » signifie
+qu'en un an, la devise s'écarte typiquement de 13 % de sa valeur.
 
-$$\frac{0{,}13}{\sqrt{252}} \approx 0{,}0082 \quad \text{soit } 0{,}82 \text{ pour cent par jour}$$
+Pour la convertir en volatilité quotidienne, on divise par la racine carrée
+du nombre de jours de bourse dans l'année, soit environ 252.
 
-Le carry trimestriel rapporte 2,6 %. **Trois séances à un écart-type l'effacent.**
+`0,13 / sqrt(252) = 0,0082`
 
-> 📌 *« Le carry paie bien jusqu'au jour où il ne paie plus. Trois séances à un
-> écart-type effacent un trimestre de portage. »*
+**Soit 0,82 % par jour.**
+
+**Pourquoi une racine carrée et pas une simple division par 252 ?** Parce
+que les variations quotidiennes s'additionnent de façon aléatoire, pas
+linéairement. Sur deux jours indépendants, ce sont les **variances** — les
+carrés des volatilités — qui s'additionnent, donc la volatilité croît comme
+la racine carrée du temps. C'est ce qu'on appelle la **règle de la racine du
+temps**.
+
+Vérification dans l'autre sens :
+
+`0,0082 x sqrt(252) = 0,13`
+
+On retombe bien sur 13 % annuels.
+
+**Maintenant la comparaison qui tue.** Le carry brésilien rapporte 2,6 % sur
+un trimestre. La volatilité quotidienne est de 0,82 %. Donc :
+
+`2,6 / 0,82 = 3,2`
+
+**Un peu plus de trois séances à un écart-type effacent un trimestre entier
+de portage.**
+
+> 📌 **La phrase à placer :** *« Le carry paie bien jusqu'au jour où il ne
+> paie plus. Trois séances à un écart-type effacent un trimestre de
+> portage. »*
 
 ## 3.2 La couverture d'entreprise
 
-**Le métier que tu vises réellement en France.**
+C'est **le cœur du métier de sales corporate**, celui que tu vises.
 
-Un trésorier a une exposition qu'il n'a pas choisie. Trois réponses possibles :
+Une entreprise qui facture en devise étrangère subit un risque qu'elle n'a
+pas choisi. Ton rôle n'est pas de lui vendre un produit : **c'est de
+comprendre son exposition, puis de proposer la structure adaptée**.
 
-| Solution | Avantage | Inconvénient |
-|---|---|---|
-| **Forward ferme** | Gratuit, certitude totale | Aucun bénéfice si le marché tourne bien |
-| **Option** | Garde le potentiel favorable | **Coûte une prime** |
-| **Structure** (tunnel, accumulateur) | Prime réduite ou nulle | Conditions, risque si le marché s'emballe |
+**Les trois grandes solutions, par ordre de complexité :**
 
-> 🔑 **Le tunnel, à savoir expliquer.** Le client achète une protection et vend
-> simultanément une option de l'autre côté pour financer la prime. Résultat : il
-> est protégé, ça ne lui coûte rien, mais il renonce au gain au-delà d'un
-> certain niveau. **On échange du potentiel contre de la gratuité.**
+**Le forward sec.** Simple, gratuit à la mise en place, ferme. L'entreprise
+sait exactement ce qu'elle recevra. Elle ne profite d'aucune évolution
+favorable.
+
+**L'option d'achat ou de vente.** Souple, protège tout en laissant le
+bénéfice ouvert. Mais la prime est payée immédiatement, et beaucoup de
+trésoriers d'entreprise n'ont pas de budget pour ça.
+
+**Le tunnel** (*collar*). La structure la plus vendue en pratique.
+L'entreprise **achète une protection et vend simultanément une option de
+l'autre côté** pour financer la prime. Résultat : **coût nul ou quasi nul**,
+mais le gain potentiel est plafonné.
+
+**Exemple chiffré de tunnel.** Notre exportateur veut se protéger au-dessus
+de 1,20 sur EUR/USD. Il achète un put à 1,20 — coût 1,5 %. Pour ne rien
+payer, il vend un call à 1,12 — recette 1,5 %. Résultat : il est protégé
+au-dessus de 1,20, il profite des mouvements entre 1,12 et 1,20, et
+au-dessous de 1,12 il ne profite plus.
+
+> 🔑 **La formule à retenir pour l'expliquer :** *« Avec un tunnel, on
+> échange du potentiel contre de la gratuité. »* Cette phrase seule montre
+> que tu as compris la logique économique et pas seulement la mécanique.
 
 ## 3.3 L'exécution algorithmique
 
-Quand un ordre est gros, l'exécuter d'un coup **déplace le marché contre soi**.
-C'est **l'impact de marché**. Les algorithmes le découpent.
+Quand un client doit traiter un montant important, l'exécuter d'un coup fait
+bouger le marché contre lui. C'est ce qu'on appelle le **market impact** —
+l'impact de son propre ordre sur le prix.
 
-| Famille | Logique |
+Les banques proposent donc des **algorithmes d'exécution** qui découpent
+l'ordre dans le temps.
+
+| Type | Principe |
 |---|---|
-| **TWAP** | Étale l'ordre régulièrement dans le temps |
-| **VWAP** | Suit le profil de volume habituel |
-| **POV** | Reste un pourcentage fixe du volume |
-| **Furtif** | Privilégie la discrétion sur la vitesse |
-| **Agressif** | Privilégie la vitesse sur la discrétion |
+| **TWAP** | Découpe régulièrement dans le temps |
+| **VWAP** | Suit le profil de volume du marché |
+| **Iceberg** | Ne montre qu'une petite partie de l'ordre |
+| **Furtif** | Cherche la liquidité sans se signaler |
 
-**Le vocabulaire :** *spread capture* (laisser des ordres passifs entre deux
-tranches pour gagner l'écart), *randomize* (varier les intervalles pour ne pas
-être détecté), *last look* (le droit du teneur de marché de refuser un prix à
-la dernière milliseconde).
+**Les noms commerciaux, qui montrent que tu as regardé les plateformes :**
+Deutsche Bank propose **Autobahn** (Iceberg, Stealth, TWAP/VWAP, Smart Peg,
+Slicer), BNP **Cortex FX** (Chameleon, Viper, Iguana), Société Générale
+**SG Markets FX** avec **Nightjar** pour le furtif et **Falcon** pour le
+rapide.
 
 ## 3.4 L'internalisation
 
-Quand une banque reçoit un ordre d'achat et un ordre de vente qui se
-compensent, elle les **apparie en interne** au lieu de passer par le marché. Elle
-garde le spread et ne subit aucun impact.
+On l'a définie au module 0, mais elle mérite un développement parce que
+**c'est le vrai modèle économique d'un desk FX**.
 
-**C'est l'économie du desk électronique.** Plus la franchise est grosse, plus on
-internalise, plus on est rentable.
+Quand une banque reçoit simultanément un ordre d'achat de 10 millions et un
+ordre de vente de 8 millions sur la même paire, elle peut apparier les
+8 millions en interne et ne sortir sur le marché que pour les 2 millions
+restants. Elle a économisé le coût d'exécution sur 80 % du flux.
 
-> 🔑 **La question de professionnel :** *« Quelle part de votre flux
-> arrivez-vous à internaliser ? »* Peu de candidats juniors la posent.
+**Conséquence directe :** plus une banque a de clients, plus elle
+internalise, plus elle peut coter serré, donc plus elle attire de clients.
+C'est un cercle vertueux qui explique la concentration du marché — Deutsche
+Bank est n° 1 mondial avec 15,18 % de part de marché selon le classement
+Euromoney 2025, devant Citi à 14,90 % et Barclays à 10,24 %.
+
+> 📌 **Ta question de fin d'entretien, et elle est excellente :** *« Quelle
+> part de votre flux arrivez-vous à internaliser ? »* Elle prouve que tu as
+> compris l'économie du desk, pas seulement les produits.
 
 ---
 
@@ -350,142 +749,177 @@ internalise, plus on est rentable.
 
 ## La ligne de fracture
 
-**LatAm n'est pas un bloc.** Un candidat qui en parle en bloc n'a rien compris.
+Il y a une question à se poser avant toute autre sur une devise émergente :
+**est-elle livrable ou non ?**
 
-| | 🇲🇽 Mexique | 🇧🇷 Brésil | 🇨🇴 Colombie | 🇨🇱 Chili |
-|---|---|---|---|---|
-| **Devise** | MXN | BRL | COP | CLP |
-| **Taux** | **6,50 %** | **14,00 %** | **9,25 %** | **4,50 %** |
-| **Structure** | **Livrable** | **NDF** | **NDF** | **NDF** |
-| **Banque centrale** | Banxico | BCB / **Copom** | BanRep | BCCh |
-| **Spot** | ~16,96 | ~5,16 | — | ~937 |
+**Livrable** signifie qu'on peut réellement échanger la monnaie et la faire
+sortir du pays. **Non livrable** signifie qu'il faut passer par un NDF.
+
+| Livrable | Non livrable (NDF) |
+|---|---|
+| **MXN** — peso mexicain | **BRL** — réal brésilien |
+| | **COP** — peso colombien |
+| | **CLP** — peso chilien |
+| | **PEN** — sol péruvien |
+
+**C'est la première chose qu'un sales vérifie**, parce qu'elle détermine le
+produit, la documentation juridique, le mode de règlement et le risque.
 
 ## 🇲🇽 Le Mexique — la porte d'entrée
 
-**Le peso est la 14ᵉ devise mondiale et la 3ᵉ émergente**, derrière le renminbi
-et la roupie : **153 milliards de dollars par jour** en avril 2025, contre 114
-en 2022, soit **+35 %**.
+Le peso mexicain est **la 14ᵉ devise mondiale et la 3ᵉ des émergents**, avec
+**153 milliards de dollars échangés par jour** en avril 2025, en hausse de
+35 % par rapport à 2022.
 
-**Le chiffre qui compte le plus : 82 % de ce volume se traite hors du Mexique.**
+**Le chiffre qui frappe : 82 % de ce volume se traite hors du Mexique.**
+Londres et New York échangent plus de pesos que Mexico. C'est la
+caractéristique d'une devise pleinement internationalisée.
 
-Lis-le bien. **Le marché du peso est à Londres et à New York**, pas à Mexico. Il
-est **livrable** parce que le Mexique n'a pas de contrôle des capitaux : pas de
-friction, donc du volume.
+Il **n'y a pas de contrôle des capitaux**. Le peso est livrable, liquide, et
+sert souvent de **proxy** — c'est-à-dire d'instrument de remplacement — pour
+prendre une vue sur toute la région quand les autres devises sont trop
+difficiles d'accès.
 
-Banxico a mené un cycle de baisse s'achevant à **6,50 %** en mai 2026, maintenu
-depuis.
+Taux directeur de Banxico : **6,50 %**, fin de cycle de baisse atteinte en
+mai 2026.
+
+## 🇧🇷 Le Brésil — le sujet du module 5
+
+Taux à **14,00 %**, NDF obligatoire, fixing PTAX. Traité en profondeur juste
+après.
 
 ## 🇨🇱 Le Chili — l'économie du cuivre
 
-**TPM à 4,50 %**, la plus basse du panel, avec une cible d'inflation à 3 %.
-Régime de change flottant assumé, NDF.
+Le peso chilien est **corrélé au cours du cuivre**, dont le pays est le
+premier producteur mondial. Quand le cuivre monte, le CLP a tendance à se
+renforcer.
 
-Le peso chilien est **une devise cuivre** : quand le métal monte, le peso se
-renforce. C'est l'exemple parfait du lien matières premières / devise.
+Taux de la BCCh : **4,50 %**, pour une cible d'inflation de 3 %. C'est le
+taux le plus bas de la région, donc **le carry le moins attractif**.
 
 ## 🇨🇴 La Colombie — le taux réel élevé
 
-**BanRep à 9,25 %**, maintenu plusieurs réunions d'affilée en votes partagés,
-avec une inflation autour de 5 %. **Taux réel de l'ordre de 4 points** : la
-banque centrale reste restrictive parce que les anticipations d'inflation ne
-redescendent pas.
+Taux de BanRep : **9,25 %** pour une inflation autour de 5 %. Le **taux
+réel** — c'est-à-dire le taux nominal moins l'inflation — est donc d'environ
+4 points, ce qui est très élevé.
+
+C'est ce qui rend le COP attractif pour le carry, en deuxième position
+derrière le Brésil.
 
 ## Les deux canaux opposés du pétrole
 
-C'est le raisonnement qui distingue un candidat qui a compris :
+Voici le raisonnement qui distingue un candidat qui récite d'un candidat qui
+pense. Question classique : *« le pétrole monte, qu'est-ce que ça fait aux
+devises latino-américaines ? »*
 
-| Canal | Mécanisme | Effet sur une devise EM exportatrice |
-|---|---|---|
-| **Termes de l'échange** | Pétrole cher → recettes d'export en hausse | **Devise soutenue** ⬆️ |
-| **Canal financier** | Pétrole cher → inflation → Fed plus dure → dollar fort | **Sorties de capitaux EM** ⬇️ |
+**Le canal des termes de l'échange.** La Colombie et le Mexique exportent du
+pétrole. Le prix monte, leurs recettes d'exportation montent, des dollars
+entrent dans le pays, **leur devise se renforce.**
 
-> 🔑 *« Sur un exportateur de matières premières, il faut regarder lequel des
-> deux canaux domine. Ce n'est pas toujours le même selon la période. »*
+**Le canal financier.** Le pétrole cher alimente l'inflation mondiale. La
+Fed durcit sa politique pour la contenir. Les taux américains montent, le
+dollar se renforce, les capitaux quittent les émergents pour revenir aux
+États-Unis, **et les devises émergentes s'affaiblissent.**
+
+**Les deux canaux jouent en sens opposés.**
+
+> 🔑 **La bonne réponse n'est pas de choisir un camp, c'est de dire :**
+> *« Ça dépend lequel domine. Sur un choc d'offre pétrolier limité, le canal
+> des termes de l'échange l'emporte souvent. Sur un choc inflationniste
+> durable, le canal financier écrase tout. »*
+>
+> **Trancher puis nuancer.** Jamais l'inverse.
 
 ---
 
 # Module 5 — Le Brésil en profondeur
 
-**C'est ici que tu deviens crédible.** Tout ce qui suit est vérifiable et daté.
+C'est le module qui fait la différence. Tout ce qui suit est du détail
+vérifiable qu'un candidat ordinaire n'a pas.
 
 ## 5.1 Pourquoi la Selic est à 14 %
 
-Le Brésil a connu une **hyperinflation** dans les années 1980 et au début des
-années 1990. Le **Plano Real**, lancé le **1ᵉʳ juillet 1994**, crée une nouvelle
-monnaie et casse la spirale. En **janvier 1999**, le pays abandonne sa parité et
-laisse flotter le réal.
+La **Selic** est le taux directeur de la banque centrale brésilienne, fixé
+par le **Copom** (*Comitê de Política Monetária*), qui se réunit huit fois
+par an.
 
-Cette mémoire explique tout : **la banque centrale brésilienne sur-réagit à
-l'inflation**, parce que le pays sait ce qu'il en coûte de laisser filer.
+À 14 % pour une inflation autour de 4,2 %, le **taux réel dépasse 9
+points**. C'est parmi les plus élevés au monde. **Pourquoi si haut ?**
 
-**Selic à 14 %, inflation autour de 5 % : taux réel d'environ 9 %.** C'est parmi
-les plus élevés du monde, et c'est **la raison d'être du carry brésilien**.
+Trois raisons qui se cumulent :
 
-Le **Copom** est le comité de politique monétaire, l'équivalent du FOMC.
+**Un, l'histoire.** Le Brésil a connu l'hyperinflation jusqu'au Plano Real
+de 1994. La mémoire collective rend toute reprise inflationniste
+politiquement explosive, donc la banque centrale sur-réagit par prudence.
+
+**Deux, la situation budgétaire.** Un État très endetté doit payer cher pour
+emprunter, ce qui tire tous les taux vers le haut.
+
+**Trois, la crédibilité.** Un taux réel élevé est le prix à payer pour
+maintenir la confiance dans la monnaie.
 
 ## 5.2 Le PTAX — le fixing qui structure tout
 
-**Le PTAX est le taux de change officiel du réal**, publié chaque jour ouvré par
-la banque centrale. Ce n'est pas un prix de marché instantané : c'est la
-**moyenne arithmétique de quatre cotations intra-journalières** relevées auprès
-d'institutions teneuses de marché.
+**Le PTAX est le taux de change officiel USD/BRL publié par la banque
+centrale brésilienne.** C'est lui qui sert de référence de règlement à tous
+les NDF sur le réal.
 
-**Pourquoi c'est capital.** Tous les NDF se règlent contre le PTAX. Donc à
-l'approche d'un fixing, les intervenants qui ont des positions à régler ont
-intérêt à influencer ces quatre relevés.
+**Et voici le détail qui change tout.** Le PTAX n'est **pas** un prix
+instantané relevé à un moment donné. C'est la **moyenne arithmétique de
+quatre cotations** relevées à quatre moments différents de la journée auprès
+des teneurs de marché.
 
-> 🔑 **La contrainte d'exécution, et c'est le cœur du métier :** un desk qui
-> doit livrer un prix au fixing ne peut pas exécuter n'importe quand ni
-> n'importe comment. **C'est exactement ce qu'un algorithme doit modéliser**, et
-> c'est ce qui rend le LatAm différent de l'Asie.
+**Pourquoi c'est fondamental pour un sales.** Un client qui doit traiter au
+fixing ne peut pas simplement passer son ordre à un instant précis : il doit
+gérer son exécution **sur quatre fenêtres**. Cela crée une contrainte
+d'exécution réelle, une demande de service, et donc **une valeur ajoutée
+pour la banque qui sait accompagner ça**.
+
+> 🔑 **C'est ton détail signature.** *« Le PTAX est une moyenne de quatre
+> relevés dans la journée, pas un prix instantané. Ça crée une contrainte
+> d'exécution qu'on ne trouve pas en Asie. »* Cette phrase seule te distingue
+> de 95 % des candidats.
 
 ## 5.3 La structure du marché brésilien
 
-**Environ 90 % du flux est en USD/BRL.** Une seule paire domine tout.
+**Environ 90 % du flux brésilien se concentre sur la seule paire USD/BRL.**
+Il n'y a pratiquement pas de marché EUR/BRL direct : pour aller de l'euro au
+réal, on passe par le dollar. On appelle ça une **cotation croisée**.
 
-Le réal est une **devise restreinte** : la convertibilité est encadrée par la
-banque centrale. Sauf exceptions sectorielles, **seuls des comptes en réaux sont
-autorisés au Brésil**, mais les entreprises brésiliennes peuvent détenir des
-comptes offshore.
+Le réal est une **devise restreinte** : les comptes en BRL n'existent qu'au
+Brésil, seules les entreprises brésiliennes peuvent détenir des comptes
+offshore.
 
-### Les trois lieux où se traite le réal
+**Les contrats à terme cotés :**
 
-| Lieu | Instrument | Caractéristique |
-|---|---|---|
-| **B3** (bourse brésilienne) | Futur **DOL** | **50 000 USD** par contrat, cotation en BRL pour 1 000 USD, tick 0,5 |
-| **CME** (Chicago) | Futur **6L** | 100 000 BRL, réglé en espèces **sur le PTAX** |
-| **Offshore OTC** | **NDF** | Réglé en dollars contre le PTAX |
+| Contrat | Place | Taille | Particularité |
+|---|---|---|---|
+| **DOL** | B3 (São Paulo) | 50 000 USD | Coté en réaux pour 1 000 USD, tick 0,5 |
+| **6L** | CME (Chicago) | 100 000 BRL | Réglé en espèces sur le PTAX, listé 60 mois |
 
-**L'essentiel du volume se fait au comptant et sur les futurs**, et l'échéance
-**un mois** est la plus liquide. Les options se traitent des deux côtés, avec la
-liquidité concentrée sous un an.
+L'échéance **un mois est la plus liquide**. Les options sont liquides
+jusqu'à un an, au-delà c'est très cher.
 
-### Le *cupom cambial* — le mot qui fait mouche
-
-C'est **le taux d'intérêt en dollars à l'intérieur du Brésil**. Il diffère du
-taux dollar international parce qu'il incorpore le **risque de
-transférabilité** — le risque de ne pas pouvoir sortir ses dollars du pays.
-
-> 🔑 **Peu de candidats connaissent ce terme.** Le placer une fois, correctement,
-> vaut mieux que dix chiffres récités.
+**Le cupom cambial.** C'est le **taux d'intérêt du dollar à l'intérieur du
+Brésil**. Il diffère du taux dollar international parce qu'il intègre le
+**risque de transférabilité** — le risque de ne pas pouvoir sortir ses
+dollars du pays. C'est un terme très technique, très peu connu, et le
+mentionner correctement est un signal fort.
 
 ## 5.4 La dette brésilienne — l'ordre de grandeur
-
-Tu m'as demandé la taille du marché obligataire brésilien. Voici les chiffres
-publics, datés.
 
 | Indicateur | Valeur | Date |
 |---|---|---|
 | **Dette publique fédérale** | **8 635 Md BRL** (~1 730 Md USD) | mars 2026 |
-| Projection fin 2026 | **9 300 à 10 300 Md BRL** | Plan annuel de financement |
-| **Dette brute des administrations** | **10 800 Md BRL** (~2 100 Md USD) = **81,9 % du PIB** | juin 2026 |
-| Part libellée en réaux | **96,2 %** | 2026 |
-| Coût moyen d'émission domestique | **13,92 %** (12 mois glissants) | mars 2026 |
-| Coussin de liquidité du Trésor | **1 187 Md BRL** = 7,33 mois d'échéances | 2026 |
+| Part libellée en réaux | **96,2 %** | mars 2026 |
+| Coût moyen d'émission domestique | 13,92 % | 12 mois glissants |
+| **Dette brute des administrations** | **10 800 Md BRL** = **81,9 % du PIB** | juin 2026 |
+| Déficit primaire | 1,19 % du PIB | 12 mois |
+| **Déficit nominal** | **9,99 % du PIB** | 12 mois |
 
-**La courbe des taux, au 10 septembre 2026 :**
+**La courbe des taux souverains au 10 septembre 2026 :**
 
-| Échéance | Rendement |
+| Échéance | Taux |
 |---|---|
 | 3 mois | 13,41 % |
 | 1 an | 13,60 % |
@@ -493,46 +927,62 @@ publics, datés.
 | 5 ans | 14,30 % |
 | **10 ans** | **14,39 %** |
 
-### Ce que cette courbe raconte
+**Comment lire ces chiffres, et c'est là qu'est l'analyse.** Le déficit
+primaire — c'est-à-dire avant paiement des intérêts — n'est que de 1,19 %
+du PIB. Le déficit total est de 9,99 %. **L'écart de presque 9 points, c'est
+uniquement le service de la dette.**
 
-Elle est **légèrement pentue** : 14,39 % à dix ans contre 13,41 % à trois mois,
-soit environ **100 points de base d'écart**. Le marché n'anticipe donc pas une
-détente rapide, et il exige une prime pour prêter long.
+Autrement dit, le Brésil ne dépense pas follement : **il paie ses intérêts**.
+Mais comme ses taux sont à 14 %, la charge est écrasante, ce qui oblige à
+émettre davantage, ce qui maintient les taux hauts. C'est un cercle.
 
-> 🔑 **L'analyse à faire, et elle est redoutable en entretien :**
-> *« Le Brésil emprunte à 14 % sur dix ans avec une dette à 82 % du PIB. Le
-> déficit primaire hors intérêts est d'environ 1,2 % du PIB, mais le déficit
-> nominal approche 10 % : presque tout l'écart, c'est le service de la dette.
-> C'est ça qui tient le réal — le carry est énorme, mais il rémunère un risque
-> budgétaire réel. »*
+**Un point rassurant, quand même :** 96,2 % de la dette est libellée en
+réaux. Le Brésil n'a donc pas de risque de change sur sa dette — contrairement
+à l'Argentine historiquement. Une dévaluation n'aggrave pas mécaniquement sa
+solvabilité.
 
-**C'est exactement ce qu'un professionnel appelle comprendre un marché :** tu
-relies le taux directeur, la courbe, la dette et la devise.
+> 🔑 **L'analyse complète à sortir en entretien :**
+> *« Le Brésil emprunte à 14,4 % sur dix ans avec une dette brute à 82 % du
+> PIB. Le déficit primaire n'est que de 1,2 %, mais le nominal approche 10 % :
+> presque tout l'écart, c'est le service de la dette. C'est ça qui tient le
+> réal — le carry est énorme, mais il rémunère un risque budgétaire réel. »*
 
 ## 5.5 Le calendrier 2026
 
-| Échéance | Enjeu |
-|---|---|
-| **Copom, 15-16 septembre** | Baisse attendue à 13,75 % (~95 % de probabilité) |
-| **FOMC, 16 septembre** | Hausse attendue, ~85 % selon FedWatch |
-| **Élection présidentielle, octobre 2026** | Lula contre Flávio Bolsonaro, égalité technique |
+| Échéance | Date | Enjeu |
+|---|---|---|
+| **Copom** | 15-16 septembre | 281ᵉ réunion. Baisse attendue à 13,75 % |
+| **FOMC** | 16 septembre | Hausse attendue |
+| **Présidentielle brésilienne** | octobre 2026 | Lula contre Flávio Bolsonaro, égalité technique |
 
-> 🔑 **Le fait remarquable à placer :** *« Cette semaine, le Copom et la Fed
-> décident les mêmes jours, et en sens opposés. Le carry se resserre des deux
-> côtés à la fois. »* **Ça, ça ne s'improvise pas — et ça se vérifie.**
+**Le fait remarquable de cette semaine :** les deux banques centrales
+décident **à un jour d'intervalle, en sens opposés**. Le Brésil baisse, les
+États-Unis montent. Le différentiel de taux se resserre donc des deux côtés
+simultanément — ce qui réduit mécaniquement l'attrait du carry.
 
-## 5.6 Le calcul complet, à savoir refaire
+## 5.6 Le calcul complet, à savoir refaire de tête
 
-Spot **5,16**. Selic 14,00 %, Fed 3,625 %.
+**Données.** Spot USD/BRL 5,16. Selic 14,00 %. Fed 3,625 %. Trois mois.
 
-- Carry brut : **10,375 points**
-- Après Copom (−25 bp) et FOMC (+25 bp) : **9,875 points**
-- Forward 3 mois : **5,2926**, soit **+1 326 pips**
-- Carry 3 mois sur 1 M USD : **25 938 USD**
-- Volatilité 13 % annuelle → **0,82 % par jour**
-- **Deux points morts valides : 5,2938 avec le carry actuel, 5,2874 après les
-  deux décisions.** Les deux se défendent — l'important est de **dire lequel tu
-  utilises et pourquoi**, pas d'en choisir un au hasard.
+**Étape 1, l'écart de taux.** `14,00 - 3,625 = 10,375` points.
+
+**Étape 2, les points de terme.**
+`5,16 x 0,10375 x 0,25 = 0,1339`
+
+**Étape 3, le forward.** `5,16 + 0,1339 = 5,2939`, arrondi à **5,29**.
+
+**Étape 4, le carry sur 20 millions de dollars.**
+`20 000 000 x 0,10375 x 0,25 = 518 750 USD`
+
+**Étape 5, le point mort.** À partir de quel niveau du réal ce gain
+est-il effacé ? Il faut que la perte de change compense les 2,59 % de
+portage, donc un spot final autour de **5,2938**.
+
+> ⚠️ **Attention, piège.** Il existe **deux points morts défendables** selon
+> qu'on raisonne sur le carry actuel (**5,2938**) ou après les décisions
+> attendues du Copom et de la Fed (**5,2874**). **Explicite toujours lequel
+> tu utilises et pourquoi.** Ce n'est pas un détail : c'est ce qui montre que
+> tu maîtrises ton propre calcul au lieu de l'avoir appris par cœur.
 
 ---
 
@@ -540,18 +990,18 @@ Spot **5,16**. Selic 14,00 %, Fed 3,625 %.
 
 ## Les dix mots qui te classent
 
-| Mot | Sens |
+| Mot | Ce que ça veut dire |
 |---|---|
 | **RFQ** | Demande de prix sur un montant précis |
 | **Streaming** | Prix diffusés en continu |
 | **Hit ratio** | Part des prix cotés qui deviennent des transactions |
 | **Internaliser** | Apparier deux flux clients en interne |
 | **Skew** | Asymétrie du prix des options |
-| **Last look** | Droit de refuser un prix à la dernière milliseconde |
-| **Spread capture** | Gagner l'écart en restant passif |
-| **Fixing / PTAX** | Taux officiel de référence |
-| **Impact de marché** | Le prix bouge parce que tu traites |
-| **Cupom cambial** | Taux dollar onshore brésilien |
+| **Last look** | Délai de confirmation de quelques millisecondes |
+| **Spread capture** | Marge effectivement encaissée |
+| **Fixing / PTAX** | Taux de référence officiel |
+| **Market impact** | Effet de son propre ordre sur le prix |
+| **Cupom cambial** | Taux dollar onshore au Brésil |
 
 ## Les cinq réflexes de langage
 
@@ -560,6 +1010,10 @@ Spot **5,16**. Selic 14,00 %, Fed 3,625 %.
 3. **Dire « je »**, pas « on »
 4. **Trancher, puis nuancer** — jamais l'inverse
 5. **Finir net et se taire**
+
+Le cinquième est le plus difficile et le plus important. **Le silence après
+une réponse nette est un signe d'assurance.** Continuer à parler pour
+meubler est le réflexe qui trahit le candidat mal à l'aise.
 
 ## Comment on montre qu'on est passionné
 
@@ -572,26 +1026,8 @@ détail que personne d'autre n'a.
 | « J'adore les marchés émergents » | « Le PTAX est une moyenne de quatre relevés, ça crée une vraie contrainte d'exécution » |
 | « Je suis rigoureux » | « Il y a deux points morts défendables sur ce carry, 5,2938 et 5,2874 » |
 
-> 🔑 **La règle :** la passion ne se déclare pas, **elle se déduit d'un détail
-> que seul quelqu'un d'intéressé pourrait connaître.**
-
-## Tes trois questions de fin
-
-Elles montrent que tu penses au métier, pas au poste :
-
-1. *« Quelle part de votre flux arrivez-vous à internaliser ? »*
-2. *« Sur le LatAm, est-ce que les fixings locaux imposent une logique
-   d'exécution différente de l'Asie ? »*
-3. *« Qu'est-ce qui distingue un bon sales d'un sales moyen, concrètement ? »*
-
-## Les deux phrases de secours
-
-> *« The forward isn't a forecast — it's just the rate differential. »*
-
-> *« Je n'ai pas ça devant moi — où est-ce que ça traite ? »*
-
-⚠️ **Inventer un niveau est plus grave que ne pas savoir.** Sur un desk, un
-chiffre faux se paie ; un « je vérifie » ne coûte rien.
+> 🔑 **La règle :** la passion ne se déclare pas, **elle se déduit d'un
+> détail que seul quelqu'un d'intéressé pourrait connaître.**
 
 ## Quoi suivre — les liens à mettre en favoris maintenant
 
@@ -669,6 +1105,24 @@ Un fait, une lecture, une question. **Puis tu t'arrêtes.**
 de la matière fraîche en entretien et ça rend crédible le réseau français
 qui, lui, le décroche.
 
+## Tes trois questions de fin
+
+Elles montrent que tu penses au métier, pas au poste :
+
+1. *« Quelle part de votre flux arrivez-vous à internaliser ? »*
+2. *« Sur le LatAm, est-ce que les fixings locaux imposent une logique
+   d'exécution différente de l'Asie ? »*
+3. *« Qu'est-ce qui distingue un bon sales d'un sales moyen, concrètement ? »*
+
+## Les deux phrases de secours
+
+> *« The forward isn't a forecast — it's just the rate differential. »*
+
+> *« Je n'ai pas ça devant moi — où est-ce que ça traite ? »*
+
+⚠️ **Inventer un niveau est plus grave que ne pas savoir.** Sur un desk, un
+chiffre faux se paie ; un « je vérifie » ne coûte rien.
+
 ## Ta routine, à partir de maintenant
 
 Le **Copom se réunit les 15 et 16 septembre** (281ᵉ réunion) et le **FOMC le
@@ -696,145 +1150,187 @@ déclaration, une trace.**
 
 # Module 7 — Exercices corrigés
 
-## Exercice 1
+**Comment travailler ce module.** Cache la correction, fais le calcul sur
+papier, puis compare. Un exercice raté n'est pas grave ; un exercice survolé
+l'est.
 
-*Pourquoi le peso mexicain n'est-il pas traité en NDF comme le réal ?*
+## Exercice 1 — Sens de la paire
 
-<details><summary>Correction</summary>
+EUR/USD passe de 1,1650 à 1,1480. Que s'est-il passé, et de combien de pips ?
 
-Parce que le Mexique n'a **pas de contrôle des capitaux**. Le peso est librement
-convertible et livrable : on peut réellement le recevoir sur un compte offshore,
-donc le forward classique suffit. **Le NDF est une réponse à une contrainte
-réglementaire** — pas de contrainte, pas de NDF. C'est d'ailleurs pourquoi le
-peso est la 3ᵉ devise émergente : l'absence de friction attire le volume.
+<details>
+<summary>Correction</summary>
 
+La paire **baisse** de 170 pips. La devise de base est l'euro, donc
+**l'euro s'affaiblit face au dollar**. Formulé du point de vue du dollar :
+le dollar se renforce.
+
+⚠️ Ne jamais dire « l'euro-dollar baisse » sans préciser qui s'affaiblit.
 </details>
 
-## Exercice 2
+## Exercice 2 — Valeur d'un pip
 
-*Spot USD/BRL 5,16, Selic 14 %, Fed 3,625 %. Sans calculatrice : le terme 3 mois
-est-il au-dessus ou en dessous, et d'environ combien ?*
+Tu cotes un client sur 25 millions d'EUR/USD et tu captures 0,8 pip. Combien
+gagnes-tu ?
 
-<details><summary>Correction</summary>
+<details>
+<summary>Correction</summary>
 
-**Au-dessus.** Le taux brésilien est le plus élevé, donc le réal est **au
-déport** : il faut plus de réaux par dollar à terme.
+Un pip sur 1 million d'EUR/USD vaut 100 USD.
 
-5,16 × 10,4 % × 0,25 ≈ **0,134**, soit **+1 340 pips**, terme autour de **5,29**.
-Le calcul exact donne 5,2926 — l'ordre de grandeur suffit à l'oral.
+`25 x 0,8 x 100 = 2 000 USD`
 
+**2 000 dollars.** C'est l'ordre de grandeur d'une bonne transaction de
+taille moyenne — et ça illustre pourquoi le volume compte autant que la
+marge.
 </details>
 
-## Exercice 3
+## Exercice 3 — Bid ou ask
 
-*« Le carry brésilien rapporte 10 %, c'est de l'argent gratuit. » Réponds en deux
-phrases.*
+USD/BRL est coté 5,1580 / 5,1640. Un client veut **acheter** 3 millions de
+dollars. Quel prix, et combien de réaux paie-t-il ?
 
-<details><summary>Correction</summary>
+<details>
+<summary>Correction</summary>
 
-*« Couvert, il ne rapporte rien — c'est exactement ce que dit la parité des
-taux. Il ne rapporte que si on accepte de porter le risque de change, et avec
-une volatilité du réal autour de 13 % par an, trois séances à un écart-type
-effacent un trimestre de portage. »*
+Le client achète des dollars, donc **la banque vend** : c'est l'**ask**, soit
+**5,1640**.
 
+`3 000 000 x 5,1640 = 15 492 000 BRL`
+
+Le réflexe : le prix est toujours vu du point de vue de la banque, et la
+banque vend au prix le plus haut.
 </details>
 
-## Exercice 4
+## Exercice 4 — Le forward
 
-*Qu'est-ce que le PTAX, et pourquoi un desk s'en soucie-t-il ?*
+Spot USD/MXN 16,96. Taux mexicain 6,50 %, taux dollar 3,625 %. Calcule le
+forward à six mois par l'approximation, puis dis quelle devise est au
+déport.
 
-<details><summary>Correction</summary>
+<details>
+<summary>Correction</summary>
 
-C'est le **taux officiel du réal**, calculé comme la **moyenne de quatre
-cotations intra-journalières** relevées par la banque centrale. Tous les NDF s'y
-règlent.
+Écart de taux : `6,50 - 3,625 = 2,875` points. Durée : 0,5 an.
 
-Un desk s'en soucie parce que **livrer un prix au fixing est une contrainte
-d'exécution** : on ne peut pas traiter n'importe quand. C'est ce qui rend
-l'algorithmie LatAm différente de l'asiatique.
+`16,96 x 0,02875 x 0,5 = 0,2438`
 
+Forward ≈ `16,96 + 0,244 = 17,20`
+
+Le **peso est au déport** : son taux est plus élevé, donc il se traite moins
+cher à terme. Il faut plus de pesos pour un dollar dans six mois
+qu'aujourd'hui.
 </details>
 
-## Exercice 5
+## Exercice 5 — Le piège du forward
 
-*Un client te dit : « je préfère le forward, au moins c'est gratuit ». Que
-réponds-tu ?*
+Un client te dit : *« votre forward à 5,29 veut dire que vous prévoyez une
+baisse du réal de 2,5 % »*. Que réponds-tu ?
 
-<details><summary>Correction</summary>
+<details>
+<summary>Correction</summary>
 
-*« Il est gratuit à la mise en place, mais pas sans coût : vous renoncez à tout
-mouvement favorable. Si votre budget est construit sur un taux précis, c'est le
-bon outil. Si vous avez de l'incertitude sur le montant ou la date, une option
-ou un tunnel vous laisse de la souplesse — le tunnel réduit la prime en
-échange d'un plafond sur le gain. »*
+*« Non — ce niveau ne contient aucune prévision. Il découle mécaniquement de
+l'écart entre la Selic à 14 % et le taux dollar à 3,625 %. Si le forward
+était ailleurs, on pourrait faire un profit sans risque. The forward isn't a
+forecast, it's just the rate differential. »*
 
-**Tu ne contredis pas, tu qualifies le besoin.** C'est le métier.
-
+C'est **la question la plus fréquente en entretien FX**, et la plus mal
+répondue.
 </details>
 
-## Exercice 6
+## Exercice 6 — Règlement d'un NDF
 
-*Le pétrole monte de 13 % en une semaine. Bon ou mauvais pour les devises
-émergentes ?*
+Tu as vendu 15 millions de dollars contre réaux à 5,2900 à trois mois. Le
+PTAX du jour de règlement sort à 5,3550. Combien reçois-tu ou paies-tu ?
 
-<details><summary>Correction</summary>
+<details>
+<summary>Correction</summary>
 
-**Les deux, et c'est la bonne réponse.**
+`15 000 000 x (5,2900 - 5,3550) / 5,3550 = -182 073 USD`
 
-Canal des termes de l'échange : un exportateur encaisse plus de devises → sa
-monnaie est soutenue. Canal financier : pétrole cher → inflation → banque
-centrale américaine plus dure → dollar fort → sorties de capitaux émergents.
+**Tu paies 182 073 dollars.** Tu t'étais engagé à vendre à 5,29 alors que le
+marché est à 5,3550 : tu as vendu trop bas.
 
-*« Il faut regarder lequel des deux domine selon la période. »*
-
+⚠️ La division se fait par **le fixing**, pas par 5,29, parce que le
+règlement est versé en dollars.
 </details>
 
-## Exercice 7
+## Exercice 7 — Le carry et son piège
 
-*Pourquoi la Selic est-elle à 14 % ?*
+Un client veut placer 5 millions de dollars en réaux pour capter le carry,
+mais **en couvrant intégralement le risque de change**. Combien gagne-t-il ?
 
-<details><summary>Correction</summary>
+<details>
+<summary>Correction</summary>
 
-À cause de la **mémoire de l'hyperinflation** des années 1980-90, cassée par le
-**Plano Real de 1994**. La banque centrale sur-réagit à toute reprise
-inflationniste. Avec une inflation autour de 5 %, le **taux réel est d'environ
-9 %** — l'un des plus élevés au monde, et **la raison d'être du carry**.
+**Zéro.** C'est le piège.
 
+S'il couvre au forward, la parité des taux d'intérêt couverte garantit que le
+gain de taux est exactement annulé par le coût du terme. C'est la définition
+même de la formule du forward.
+
+**La phrase :** *« Le carry n'est pas un rendement, c'est une prime de
+risque. Si vous supprimez le risque, on ne vous paie plus. »*
 </details>
 
-## Exercice 8
+## Exercice 8 — Volatilité quotidienne
 
-*Un recruteur te demande : « qu'est-ce qui vous intéresse dans le FX ? » Tu as
-trente secondes.*
+La volatilité annuelle du peso mexicain est de 9 %. Convertis-la en
+volatilité quotidienne, puis dis combien de séances à un écart-type effacent
+un trimestre de carry mexicain.
 
-<details><summary>Correction</summary>
+<details>
+<summary>Correction</summary>
 
-*« C'est le marché le plus liquide du monde et pourtant tout n'y est pas résolu.
-Sur EUR/USD, l'électronification est terminée et les marges sont écrasées. Sur
-le LatAm, la plomberie se construit encore : les fixings locaux comme le PTAX
-créent de vraies contraintes d'exécution. C'est là que quelqu'un qui comprend à
-la fois le flux client et l'outil a encore quelque chose à apporter. »*
+`0,09 / sqrt(252) = 0,00567`, soit **0,57 % par jour**.
 
-**Un fait, un contraste, ta place dedans. Puis tu te tais.**
+Le carry mexicain trimestriel vaut `2,875 / 4 = 0,72 %`.
 
+`0,72 / 0,57 = 1,3`
+
+**Moins d'une séance et demie.** Le carry mexicain est beaucoup plus fragile
+que le brésilien : l'écart de taux est faible, donc il suffit d'un tout petit
+mouvement pour l'effacer. C'est exactement pourquoi on ne compare jamais deux
+carrys sans regarder la volatilité en face.
 </details>
 
----
+## Exercice 9 — Le raisonnement à deux canaux
 
-# Ce que tu sais maintenant
+Le pétrole prend 20 % en trois semaines. Que fait le peso colombien ?
 
-| | |
-|---|---|
-| **L'histoire** | Douze dates, de Bretton Woods au CNH |
-| **Les produits** | Spot, forward, swap, NDF, options, grecs, risk reversal |
-| **Les stratégies** | Carry, couverture corporate, algos, internalisation |
-| **Le LatAm** | Quatre pays, la fracture livrable / non livrable |
-| **Le Brésil** | Selic, PTAX, B3, cupom cambial, dette, courbe des taux |
-| **Le langage** | Dix mots, cinq réflexes, trois questions |
+<details>
+<summary>Correction</summary>
 
-> **Relis le module 5 avant chaque entretien.** C'est celui qui te distingue.
-> Les autres candidats connaîtront les produits. **Très peu sauront que le PTAX
-> est une moyenne de quatre relevés, ou que le Brésil emprunte à 14,39 % sur dix
-> ans avec une dette à 82 % du PIB.**
->
-> **La passion, c'est ce niveau de détail-là.**
+**Deux canaux opposés.**
+
+Termes de l'échange : la Colombie exporte du pétrole, ses recettes montent,
+des dollars entrent, **le COP se renforce**.
+
+Canal financier : l'inflation mondiale monte, la Fed durcit, le dollar se
+renforce, les capitaux quittent les émergents, **le COP s'affaiblit**.
+
+**La réponse attendue :** *« Ça dépend lequel domine. Choc d'offre limité,
+les termes de l'échange l'emportent. Choc inflationniste durable, le canal
+financier écrase tout. »*
+
+Trancher puis nuancer.
+</details>
+
+## Exercice 10 — La question de synthèse
+
+Un recruteur te demande : *« pourquoi le FX, et pourquoi le LatAm ? »*.
+Trente secondes.
+
+<details>
+<summary>Correction</summary>
+
+*« C'est le marché le plus liquide du monde et pourtant tout n'y est pas
+résolu. Sur EUR/USD l'électronification est terminée, les marges sont
+écrasées. Sur le LatAm, la plomberie se construit encore : les fixings locaux
+comme le PTAX créent de vraies contraintes d'exécution. C'est là que
+quelqu'un qui comprend à la fois le flux client et l'outil a encore quelque
+chose à apporter. »*
+
+**La structure :** un fait, un contraste, ta place dedans. **Puis se taire.**
+</details>

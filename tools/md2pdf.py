@@ -10,14 +10,16 @@ import sys
 from fpdf import FPDF
 
 MATH = {
-    r"\times": "x", r"\approx": "~", r"\sigma": "sigma", r"\sqrt": "sqrt",
-    r"\Theta": "Theta", r"\Gamma": "Gamma", r"\ln": "ln", r"\frac": "",
-    r"\qquad": "    ", r"\text": "", r"\tfrac": "", r"\cdot": ".",
-    r"\Delta": "Delta", r"\Rightarrow": "=>",
-    r"_0": "0", r"_1": "1", r"_2": "2", r"_d": "d", r"_f": "f", r"_T": "T",
-    "^{-qT}": "^(-qT)", "^{-rT}": "^(-rT)", "^{(r-q)T}": "^((r-q)T)",
-    "^{(r_d - r_f)T}": "^((rd-rf)T)", "^2": "2",
+    r"\times": "x", r"\approx": "~", r"\sigma": "sigma",
+    r"\Theta": "Theta", r"\Gamma": "Gamma", r"\ln": "ln",
+    r"\cdot": ".", r"\Delta": "Delta", r"\Rightarrow": "=>",
+    r"\le": "<=", r"\ge": ">=", r"\neq": "!=", r"\pm": "+/-",
+    r"\alpha": "alpha", r"\beta": "beta", r"\rho": "rho", r"\mu": "mu",
+    r"\left": "", r"\right": "",
 }
+
+# espacements LaTeX : ils doivent devenir de vraies espaces, jamais du texte
+SPACERS = [r"\qquad", r"\quad", r"\;", r"\:", r"\!"]
 
 IPA = {
     "ɒ": "o", "ɪ": "i", "iː": "ee", "uː": "oo", "ˈ": "", "ˌ": "",
@@ -42,13 +44,117 @@ REPL = {
 }
 
 
+def _brace(t: str, i: int):
+    """Lit un groupe {...} equilibre a partir de l'accolade en i.
+
+    Renvoie (contenu, index apres l'accolade fermante). Indispensable pour
+    \frac{...}{...} imbrique, qu'une regex simple traite mal.
+    """
+    assert t[i] == "{"
+    depth = 0
+    for j in range(i, len(t)):
+        if t[j] == "{":
+            depth += 1
+        elif t[j] == "}":
+            depth -= 1
+            if depth == 0:
+                return t[i + 1:j], j + 1
+    return t[i + 1:], len(t)
+
+
+def _needs_parens(x: str) -> bool:
+    """Parentheser sauf si c'est un atome simple (nombre, mot, symbole)."""
+    x = x.strip()
+    if not x:
+        return False
+    # atome = nombre/mot, eventuellement avec un indice ou exposant simple
+    return not re.fullmatch(r"[\w.,]+(?:_[\w.]+)?(?:\^[\w.]+)?", x)
+
+
+def _expand(t: str) -> str:
+    """Developpe \frac, \sqrt, ^{} et _{} en notation lineaire lisible.
+
+    \frac{a}{b} -> (a) / (b)   la barre de division ne doit JAMAIS disparaitre
+    \sqrt{n}    -> sqrt(n)
+    x^{2}       -> x^2         mais x^{n+1} -> x^(n+1)
+    """
+    out = []
+    i = 0
+    while i < len(t):
+        if t.startswith(r"\frac", i) or t.startswith(r"\tfrac", i) or \
+           t.startswith(r"\dfrac", i):
+            i += 6 if t.startswith(r"\tfrac", i) or t.startswith(r"\dfrac", i) \
+                else 5
+            while i < len(t) and t[i] == " ":
+                i += 1
+            num = den = ""
+            if i < len(t) and t[i] == "{":
+                num, i = _brace(t, i)
+            while i < len(t) and t[i] == " ":
+                i += 1
+            if i < len(t) and t[i] == "{":
+                den, i = _brace(t, i)
+            num, den = _expand(num), _expand(den)
+            num = f"({num})" if _needs_parens(num) else num
+            den = f"({den})" if _needs_parens(den) else den
+            out.append(f"{num} / {den}")
+            continue
+        if t.startswith(r"\sqrt", i):
+            i += 5
+            while i < len(t) and t[i] == " ":
+                i += 1
+            arg = ""
+            if i < len(t) and t[i] == "{":
+                arg, i = _brace(t, i)
+            elif i < len(t):
+                arg, i = t[i], i + 1
+            out.append(f"sqrt({_expand(arg)})")
+            continue
+        if t.startswith(r"\text", i) or t.startswith(r"\mathrm", i):
+            i += 7 if t.startswith(r"\mathrm", i) else 5
+            while i < len(t) and t[i] == " ":
+                i += 1
+            arg = ""
+            if i < len(t) and t[i] == "{":
+                arg, i = _brace(t, i)
+            if out and out[-1] not in " ([" and arg[:1].isalnum():
+                out.append(" ")
+            out.append(arg)
+            continue
+        if t[i] in "^_" and i + 1 < len(t) and t[i + 1] == "{":
+            sym = t[i]
+            arg, i = _brace(t, i + 1)
+            arg = _expand(arg)
+            if sym == "^":
+                out.append(f"^{arg}" if re.fullmatch(r"[\w.]+", arg)
+                           else f"^({arg})")
+            else:
+                out.append(f"_{arg}" if re.fullmatch(r"[\w.]+", arg)
+                           else f"_({arg})")
+            continue
+        out.append(t[i])
+        i += 1
+    return "".join(out)
+
+
 def demath(t: str) -> str:
     t = t.replace("$$", "").replace("$", "")
+    for sp in SPACERS:
+        t = t.replace(sp, " ")
+    t = t.replace(r"\,", "").replace(r"\%", " pour cent").replace(r"\&", "&")
+    t = _expand(t)
     for k, v in MATH.items():
-        t = t.replace(k, v)
-    t = re.sub(r"\{([^{}]*)\}", r"\1", t)
-    t = re.sub(r"\{([^{}]*)\}", r"\1", t)
-    return re.sub(r"\s+", " ", t).strip()
+        t = t.replace(k, v + " " if re.fullmatch(r"[a-zA-Z]+", v) else v)
+    # 0{,}82 -> 0,82 : la notation LaTeX de la virgule decimale
+    t = re.sub(r"\{,\}", ",", t)
+    # r_1 -> r1 : un indice d'un seul caractere se colle, c'est plus lisible
+    t = re.sub(r"_([A-Za-z0-9])(?![A-Za-z0-9])", r"\1", t)
+    # accolades residuelles seulement, apres que frac/sqrt ont ete traites
+    for _ in range(3):
+        t = re.sub(r"\{([^{}]*)\}", r"\1", t)
+    t = re.sub(r"\s+\^", "^", t)          # sigma ^2 -> sigma^2
+    t = re.sub(r"\(\s*([\w.,]+)\s*\)\s*/", r"\1 /", t)  # (0,13) / -> 0,13 /
+    return re.sub(r"[ \t]+", " ", t).strip()
 
 
 def clean(t: str) -> str:
@@ -171,6 +277,15 @@ def render(md_path: str, pdf_path: str, title: str = "") -> None:
             p.ln(3)
             continue
         if line.lstrip().startswith("<"):
+            # <summary>Correction</summary> porte un vrai label : sans lui, la
+            # correction se colle a l'enonce et devient illisible en PDF.
+            ms = re.match(r"\s*<summary>(.*?)</summary>", line)
+            if ms:
+                p.ln(1)
+                p.set_font("Helvetica", "B", 8.5)
+                p.set_text_color(10, 40, 90)
+                p.multi_cell(width, 4.2, "> " + clean(ms.group(1)))
+                p.set_text_color(0)
             continue
         m = re.match(r"^(#{1,4})\s+(.*)", line)
         if m:
