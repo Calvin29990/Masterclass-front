@@ -20,7 +20,7 @@
 | **3** | Les stratégies | 50 min |
 | **4** | L'Amérique latine, pays par pays | 50 min |
 | **5** | Le Brésil en profondeur | 1 h |
-| **6** | Parler comme quelqu'un du métier | 30 min |
+| **6** | Parler comme quelqu'un du métier, et quoi suivre | 45 min |
 | **7** | Exercices corrigés | 30 min |
 
 ---
@@ -536,7 +536,7 @@ Spot **5,16**. Selic 14,00 %, Fed 3,625 %.
 
 ---
 
-# Module 6 — Parler comme quelqu'un du métier
+# Module 6 — Parler comme quelqu'un du métier, et quoi suivre
 
 ## Les dix mots qui te classent
 
@@ -592,6 +592,105 @@ Elles montrent que tu penses au métier, pas au poste :
 
 ⚠️ **Inventer un niveau est plus grave que ne pas savoir.** Sur un desk, un
 chiffre faux se paie ; un « je vérifie » ne coûte rien.
+
+## Quoi suivre — les liens à mettre en favoris maintenant
+
+Un recruteur vérifie la passion en une question : **« vous suivez quoi ? »**.
+Réponse vague, et tout le reste du discours s'effondre. Voici les cinq seuls
+liens dont tu as besoin. **Mets-les en favoris tout de suite**, la routine
+tient en 30 minutes par jour.
+
+| Source | Lien | Temps |
+|---|---|---|
+| **Banco Central do Brasil** — chaîne officielle | https://www.youtube.com/@BancoCentralBR | 0-45 min |
+| **Communiqués et calendrier du Copom** | https://www.bcb.gov.br | 5 min |
+| **Robin Brooks** — note macro quotidienne | https://robinjbrooks.substack.com | 5 min |
+| **Análise Macro** — macro brésilienne en Python | https://analisemacro.com.br/blog/ | 10 min |
+| **Bloomberg Línea** — presse LatAm | https://www.bloomberglinea.com | 5 min |
+
+**Pourquoi celles-là, en une phrase chacune.**
+
+- **Le BCB** diffuse les conférences du Relatório de Política Monetária
+  (celle du 25 juin 2026 réunissait **Gabriel Galípolo**, président, et
+  **Paulo Picchetti**, directeur de Politique économique) et la série
+  *LiveBC*. Tu n'écoutes pas un commentateur : **tu écoutes le décideur.**
+- **Robin Brooks** est l'ancien *chief FX strategist* de Goldman Sachs et
+  ancien chef économiste de l'IIF, aujourd'hui à la Brookings Institution.
+  Sa note du **24 août 2026** soutient que les plafonds de rendement du G10
+  **subventionnent le carry trade émergent** — c'est le module 3, écrit par
+  quelqu'un qui a tenu le poste.
+- **Análise Macro** modélise le ***repasse cambial*** — la part d'une
+  variation du change qui se retrouve dans l'inflation — **en Python**.
+  C'est la preuve que ton Python et ton LatAm sont **le même sujet**.
+
+**Quatre personnes à suivre sur LinkedIn** (tous LatAm FX, tous publiants) :
+**Alejandro Cuadrado** (Global Head of FX and LatAm Strategy, BBVA),
+**Ezequiel Aguirre** (Head of LatAm FX/Rates Strategy, Bank of America),
+**Mario Castro** (LatAm FX & FI Strategist, BNP Paribas), **Roque Montero
+Perez** (LatAm FX/FI Strategist, UBS).
+
+> ⚠️ Ils sont **tous à New York** et sont **strategists, pas sales**. Tu les
+> suis pour le vocabulaire, **jamais pour demander un stage** — ce serait
+> hors sujet et ça se verrait. Seul **Castro compte double** : il est chez
+> BNP Paribas, une de tes cibles.
+
+⚠️ **Tu parles espagnol, pas portugais.** Le portugais écrit se lit à 70 %
+quand on a l'espagnol ; le parlé, beaucoup moins. Dis **« je lis le
+portugais, je ne le parle pas »** — c'est vrai, et c'est déjà rare.
+
+## Commenter sans se griller
+
+**Règle unique : un commentaire qui n'ajoute rien soustrait.** Il prouve que
+tu es un lecteur passif qui cherche de la visibilité. **Deux commentaires par
+semaine bien faits**, pas dix.
+
+| ❌ Jamais | ✅ Ce qui marche |
+|---|---|
+| « Great insight ! », « Très intéressant » | Un fait daté et sourcé qui complète |
+| Demander un stage en commentaire | Une question de mécanique d'exécution |
+| Corriger un local sur son propre marché | Un contraste LatAm contre Asie |
+
+**Le modèle à réutiliser** — la question qu'un sales pose, pas un étudiant :
+
+> *« Avec un PTAX construit comme une moyenne de quatre relevés dans la
+> journée, est-ce que ce type de flux se concentre sur les fenêtres de
+> fixing, ou est-ce qu'il se lisse justement pour les éviter ? »*
+
+**En anglais, sous un post de Brooks :**
+
+> *« On Brazil, the nominal carry is large, but with a primary deficit near
+> 1.2 % of GDP and a nominal deficit close to 10 %, most of that gap is debt
+> service. Do you read that mix as what sustains the carry, or as the main
+> risk to it? »*
+
+Un fait, une lecture, une question. **Puis tu t'arrêtes.**
+
+**Sois lucide sur le rendement :** ça ne décroche pas un stage. Ça te donne
+de la matière fraîche en entretien et ça rend crédible le réseau français
+qui, lui, le décroche.
+
+## Ta routine, à partir de maintenant
+
+Le **Copom se réunit les 15 et 16 septembre** (281ᵉ réunion) et le **FOMC le
+16** — **en sens opposés**. Concrètement :
+
+1. Mercredi soir, tu lis le **communiqué du Copom** sur `bcb.gov.br`. Deux
+   pages. Tu notes **les mots qui changent** par rapport au précédent : dans
+   un communiqué de banque centrale, l'information est là, pas dans la
+   décision elle-même, souvent déjà anticipée.
+2. Tu écris **une phrase** dans un carnet : ce qui a changé, ce que ça
+   implique pour le différentiel de taux.
+
+Au bout d'un mois tu as quatre phrases. **C'est ça, être passionné : pas une
+déclaration, une trace.**
+
+> 🔑 **La réponse à « vous suivez quoi ? »** — ce n'est pas une liste :
+> *« Je regarde les conférences du Banco Central directement plutôt que les
+> commentaires, et je suis Robin Brooks pour le cadre du carry émergent.
+> Cette semaine le Copom et la Fed décident à un jour d'intervalle, en sens
+> opposés — c'est le genre de configuration qui fait le différentiel. »*
+>
+> Une source, un nom, un fait daté. **Puis tu te tais.**
 
 ---
 
