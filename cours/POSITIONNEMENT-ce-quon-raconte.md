@@ -27,6 +27,43 @@ Et le desk Afrique dans une banque française, ce n'est **pas** un desk eFX à
 Londres. C'est un métier différent, avec une autre trajectoire, souvent
 basé à Paris ou sur place. Ce n'est pas ton objectif.
 
+## Pourquoi ça marchait à SKEMA et pas ici — l'asymétrie
+
+À l'oral SKEMA, dire « je viens chercher des compétences et je rentre chez
+moi » était **sans aucun risque**, pour une raison simple : **le jury ne pouvait
+rien en faire**. Une admission est binaire. Personne ne pouvait te prendre au
+mot et t'envoyer quelque part.
+
+Une banque, **si**.
+
+| | Oral SKEMA | Entretien banque |
+|---|---|---|
+| Décision | Binaire : admis ou non | **Orientée** : quel desk, quel bureau |
+| Ce qu'ils peuvent faire de ton propos | Rien | **Te router vers la couverture Afrique** |
+| Coût si on te prend au mot | Nul | **Tu dois refuser une offre** — et tu brûles le contact |
+
+> 🔑 **C'est ça, la différence.** SG, BNP, CACIB ont de vraies équipes Afrique.
+> Dire « Gabon » n'ouvre pas une conversation abstraite : ça ouvre **un poste
+> qui existe réellement** et que tu ne veux pas. Refuser ensuite est bien pire
+> que de n'avoir jamais été proposé.
+
+## Et l'angle « créer une banque au Gabon » ne tient pas non plus
+
+Tu l'as vu : **il n'y a pas de marché de flux en zone CEMAC.** Pas de desk
+sales, pas de trading secondaire à parler. L'activité réelle y est du
+financement, du trade finance et de l'arrangement de dette souveraine — pas du
+market-making.
+
+Et la raison est élégante, elle découle de tout ce qu'on a vu :
+
+> **Une monnaie à parité fixe et non convertible n'a pas de marché.** Le
+> 655,957 qui rend le sujet intéressant à analyser est exactement ce qui rend
+> une carrière FX impossible sur place. Il n'y a rien à coter.
+
+Donc l'angle est **audacieux sans être crédible** : tu proposerais de construire
+un métier là où sa condition d'existence — un prix qui bouge — est absente par
+construction.
+
 > 🔑 **Ta lecture est exacte : par défaut on te lit comme un candidat
 > français, diplômé d'une école française, qui postule dans une banque
 > française. C'est le profil le plus simple à placer sur un desk à Londres.
