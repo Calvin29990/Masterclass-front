@@ -42,7 +42,8 @@ dont un livre d'Isabelle Klein, la meme auteure, sur un sujet plus pointu.
 
 ### No 1 — Fernandez-Riou, *Le Forex : introduction au marche des devises*
 
-**Gualino, collection Coté Finance, 5e edition, 2023.**
+**Gualino, collection Cote Finance, 5e edition, 2023, 192 pages.
+ISBN 978-2-297-22298-3.**
 
 **Pourquoi il prend la tete.** C'est **le seul manuel du catalogue entierement
 consacre au marche des devises**, et il est de **2023** — le plus recent de
@@ -68,8 +69,9 @@ donne du vocabulaire vivant.
 
 ### No 2 — Charbonnier, Dusoulier & Leger, *Le guide pratique du change pour les entreprises*
 
-**Maxima, 2013.** Sous-titre : *gerer ses flux en devises etrangeres et
-maitriser son risque de change*. **docid 88816925.**
+**Maxima, 2013, 188 pages. ISBN 978-2-84001-771-4. docid 88816925.**
+Sous-titre : *gerer ses flux en devises etrangeres et maitriser son risque de
+change*.
 
 **Le signal fort :** ce titre est ressorti dans **trois de tes six recherches**
 (`marché des changes`, `risque de change`, `Forex`). Dans un catalogue, une
@@ -91,7 +93,8 @@ deuxieme phrase et proposer la bonne structure, c'est tout le metier.
 
 ### No 3 — Girardeau-Montaut & Klein, *Strategies d'options de change*
 
-**RB edition (Revue Banque), 2012.** Sous-titre : *couverture et
+**RB edition (Revue Banque), collection Les essentiels de la banque et de la
+finance, 2012, 128 pages. ISBN 978-2-86325-577-3.** Sous-titre : *couverture et
 investissement*.
 
 **Pourquoi lui.** C'est le remplacant de *Salle des marches*, et c'est **la meme
@@ -111,15 +114,34 @@ la gratuite. Ce livre te donne **les cinq ou six structures voisines** et, pour
 chacune, le cas client ou elle se justifie. C'est precisement le contenu d'un
 deuxieme tour d'entretien.
 
+**Le sommaire reel**, qui explique pourquoi 128 pages demandent six heures :
+
+1. **Le marche des changes** — le cadre.
+2. **Les fondamentaux** — change au comptant, change a terme, **swap de change**.
+3. **Les strategies de couverture du risque de change** — le cœur : Call/Put
+   Down & Out, Up & Out, le **terme booste** (dit « terme a double vitesse »),
+   l'**accumulateur de termes europeens**…
+4. **Les produits d'investissement** — le meme outillage vu du cote rendement.
+
+Pour **chaque** structure : composition du produit, conditions de marche ou
+elle se justifie, **risques**, et possibilites de **restructuration** si le
+marche bouge. C'est une fiche produit par page — on n'en lit pas vingt
+d'affilee.
+
 > **Editeur a noter :** RB edition, c'est Revue Banque — de la presse
 > professionnelle bancaire, pas de l'universitaire. Le ton est celui du metier.
+>
+> 🔑 **Le mot a retenir : *restructuration*.** Un junior sait vendre une
+> couverture. Un sales sait quoi faire quand le marche a bouge de 8 % et que le
+> client rappelle. Savoir dire « on peut restructurer » et decrire comment,
+> c'est ce qui separe les deux — et c'est ce chapitre 3 qui te le donne.
 
 ---
 
 ### No 4 — Gaulard, *L'economie du Bresil*
 
-**Breal, 2023.** Mylene Gaulard est maitre de conferences en economie,
-specialiste du Bresil et de la Chine.
+**Breal, collection Themes & Debats, 3e edition, 108 pages.** Mylene Gaulard est
+maitre de conferences en economie, specialiste du Bresil et de la Chine.
 
 **C'est la trouvaille de tes recherches.** Je cherchais Thery, un geographe de
 2012. Ton `Brésil` a rendu **8 333 resultats** et, dedans, un livre d'economie
@@ -156,7 +178,8 @@ l'inflation baisse. »* Cette phrase-la se lit, elle ne s'invente pas.
 
 ### No 5 — Dupuy, *Economie monetaire et financiere internationale*
 
-**Ellipses, 2e edition, 2022.** Sous-titre : *cours et exercices*.
+**Ellipses, 2e edition, juillet 2022, 280 pages. ISBN 978-2-340-07010-3.**
+Sous-titre : *cours et exercices*.
 
 **Pourquoi il ferme la liste.** C'est le titre qui remplace Fontaine, et il
 remplit la meme fonction : **cours plus exercices**. C'est le seul de la
@@ -237,6 +260,38 @@ Gaulard 2023 couvre le meme terrain en francais.
 
 ---
 
+## 3 bis. Combien de pages, et combien d'heures
+
+Volumes reels, verifies editeur par editeur. **Ils sont tous courts sauf un.**
+
+| Ordre | Titre | Pages | Temps reel | Densite |
+|---|---|---|---|---|
+| 1 | **Le Forex** (Gualino 2023) | **192** | ~5 h | Faible — intro, ca se lit vite |
+| 2 | **Le guide pratique du change** (Maxima 2013) | **188** | ~5 h | Faible — exemples concrets |
+| 3 | **Strategies d'options de change** (RB 2012) | **128** | **~6 h** | 🔴 **Forte** — le plus court, le plus lent |
+| 4 | **L'economie du Bresil** (Breal, 3e ed.) | **108** | ~3 h | Moyenne — essai court |
+| 5 | **Economie monetaire et financiere int.** (Ellipses 2022) | **280** | **~12 h** | Forte — universitaire + exercices |
+| — | *Finance de marche FR-EN, 1 063 mots cles* | — | — | Dictionnaire : jamais lu en continu |
+
+**Total : 896 pages, environ 31 heures.** A quatre heures par week-end, c'est
+**deux mois**. Tu as jusqu'a janvier : c'est confortable.
+
+> ⚠️ **Le piege du nombre de pages.** Regarde la ligne 3. *Strategies d'options
+> de change* est **le plus court des cinq (128 p.) et le plus long a lire**.
+> C'est un catalogue de structures : chaque page contient un produit, ses
+> conditions de marche, ses risques et ses restructurations possibles. On n'en
+> lit pas vingt d'affilee. A l'inverse, *Le Forex* fait 192 pages mais se lit
+> comme un recit.
+>
+> **La regle : compter en heures, jamais en pages.**
+
+**Si tu ne fais que quatre livres**, laisse tomber le no 5 pour l'instant :
+280 pages et 12 heures pour de la macroeconomie universitaire, c'est le moins
+rentable a court terme. Les quatre premiers font **616 pages, environ 19 heures**,
+et couvrent l'essentiel de ce qu'on peut te demander en entretien.
+
+---
+
 ## 4. Le calendrier — pourquoi ce n'est pas un sprint
 
 Tu cherches une **colonne vertebrale**, pas une revision. Une colonne
@@ -244,22 +299,40 @@ vertebrale se construit sur des mois et sert pendant des annees.
 
 ### Phase 1 — les quatre prochaines semaines (le socle qui sert en entretien)
 
-| Quand | Quoi | Duree |
-|---|---|---|
-| Semaine 1 | Fernandez-Riou, *Le Forex* — en entier | 4 h |
-| Semaine 2 | Le guide pratique du change — en entier | 4 h |
-| Semaine 3 | Girardeau-Montaut & Klein — les structures de couverture | 4 h |
-| Semaine 4 | Dupuy — parites et **exercices**, en refaisant les calculs | 4 h |
+| Semaine | Quoi | Pages | Duree |
+|---|---|---|---|
+| 1 | Fernandez-Riou, *Le Forex* — **en entier** | 192 | 5 h |
+| 2 | *Le guide pratique du change* — **en entier** | 188 | 5 h |
+| 3 | Girardeau-Montaut & Klein — fondamentaux + strategies de couverture | ~90 | 4 h |
+| 4 | Girardeau-Montaut & Klein — produits d'investissement + relecture des notes | ~38 | 2 h |
 
-**Environ 16 heures sur un mois**, soit quatre heures par week-end. Ca couvre
-90 % de ce qu'on peut te demander.
+**508 pages, environ 16 heures sur un mois**, soit quatre heures par week-end.
+Ca couvre 90 % de ce qu'on peut te demander en entretien.
 
-### Phase 2 — en continu jusqu'a janvier (la profondeur regionale)
+Le no 3 est etale sur **deux** semaines : c'est le plus court des trois mais le
+plus dense, et le decouper evite de le lire en diagonale — ce qui serait la
+seule facon de le rater.
 
-Gaulard se lit **lentement**, un chapitre par semaine, sans prise de notes
-technique. Ce livre ne sert pas a repondre a une question : il sert a ce que
-tes reponses aient un fond. C'est la difference entre un candidat qui connait
-la Selic et un candidat qui comprend pourquoi elle est la ou elle est.
+### Phase 2 — en continu jusqu'a janvier (la profondeur, et le reste)
+
+**Gaulard, *L'economie du Bresil* (108 p., ~3 h).** Se lit **lentement**, un
+chapitre par semaine, sans prise de notes technique. Ce livre ne sert pas a
+repondre a une question : il sert a ce que tes reponses aient un fond. C'est la
+difference entre un candidat qui connait la Selic et un candidat qui comprend
+pourquoi elle est la ou elle est.
+
+**Dupuy, *Economie monetaire et financiere internationale* (280 p., ~12 h).**
+Le gros morceau, et le moins urgent. Traite-le **par chapitre isole**, en
+faisant les exercices corriges — c'est la seule raison de l'ouvrir. Priorite
+absolue aux chapitres **determination des taux de change** et **regimes et
+crises de change**. Le reste (balance des paiements, desequilibres
+internationaux, politiques economiques en economie ouverte) est de la culture
+macro utile mais non testee en entretien de sales.
+
+**Le lexique FR-EN (1 063 mots cles).** Jamais en lecture continue. Tu l'ouvres
+quand tu butes sur un terme anglais, et tu notes la ligne dans ton carnet trois
+colonnes. Sur trois mois, ca fait un vocabulaire Front Office sans y avoir passe
+une seule seance dediee.
 
 ### Phase 3 — la semaine d'un entretien
 
