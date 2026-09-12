@@ -132,9 +132,9 @@ dévaluation n'était à l'ordre du jour.
 ## La version longue — 90 secondes
 
 > *« Je suis d'origine gabonaise, et quand j'ai passé les oraux de SKEMA, j'ai
-> dit au jury que ce qui m'intéressait c'était le développement du Gabon. À
-> l'époque je ne connaissais rien à la finance de marché, et je pensais parler
-> d'économie.
+> dit au jury que ce qui m'intéressait c'était le développement du Gabon. C'est
+> le sujet sur lequel j'avais quelque chose à dire, donc c'est celui que j'ai
+> mis en avant.
 >
 > Ce que j'ai compris depuis, c'est que le problème que je décrivais était un
 > problème de change. Le Gabon vend son pétrole en dollars, mais sa monnaie est
@@ -169,6 +169,41 @@ dévaluation n'était à l'ordre du jour.
 
 ---
 
+# 4 bis. Ce que tu as vraiment fait à cet oral
+
+Tu m'as dit que tu n'avais jamais parlé de finance au jury, que tu ne pouvais
+pas tenir face à des pros, et que tu les avais emmenés sur ton terrain.
+
+**Ce n'est pas une esquive. C'est la compétence centrale du métier que tu
+vises.**
+
+Un oral d'admission ne mesure pas ce que tu sais. Il mesure si tu tiens une
+conversation et si tu as quelque chose à dire. Tu as fait deux choses justes,
+et dans le bon ordre :
+
+1. **Tu as évalué le rapport de force.** Parler marchés à des professionnels,
+   à ton niveau d'alors, c'était perdu d'avance.
+2. **Tu as choisi le terrain où tu avais un avantage réel.** Puis tu as tenu la
+   distance dessus.
+
+> 🔑 **C'est exactement ce qu'on demande à un sales.** Un client t'emmène sur un
+> sujet que tu maîtrises mal : tu ne bluffes pas, tu ramènes la conversation
+> vers ce que tu connais, et tu apportes de la valeur là. **Ça s'appelle
+> cadrer, pas esquiver.** Tu l'as fait à vingt ans sans que personne te
+> l'enseigne.
+
+## La distinction qui compte, et elle est nette
+
+| | |
+|---|---|
+| **Choisir quel sujet vrai mettre en avant** | ✅ Une compétence. C'est ce que tu as fait. |
+| **Fabriquer une expérience qu'on n'a pas** | ❌ Ce qui te grillerait. |
+
+Tu voulais réellement développer le Gabon. Tu n'as rien inventé — tu as
+sélectionné. **Garde exactement ce réflexe, et n'invente jamais rien.**
+
+---
+
 # 5. Pourquoi cette histoire bat toutes les autres
 
 | Une histoire inventée | Ton histoire |
@@ -192,9 +227,10 @@ tu l'abordes par le vécu, pas par le manuel.
 **3. Elle rend ton Brésil crédible.** Le Brésil seul, c'est une anecdote. Le
 Brésil **comme contre-exemple du Gabon**, c'est une grille de lecture.
 
-**4. Elle est honnête sur ton point de départ.** Dire *« à l'époque je ne
-connaissais rien à la finance »* est un **atout**, pas un aveu. Ça montre une
-progression réelle, et ça désarme la question *« pourquoi si tard ? »*.
+**4. Elle est honnête sur ton point de départ.** Tu peux assumer d'être venu au
+FX par une question de développement plutôt que par une vocation de trader. Ça
+montre une progression réelle, et ça désarme la question *« pourquoi si
+tard ? »*.
 
 ---
 
